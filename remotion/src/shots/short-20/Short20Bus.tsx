@@ -9,7 +9,7 @@ import { VO } from './vo.gen';
 // =============================================================================
 export const compositionConfig = {
   id: 'Short20Bus',
-  durationInSeconds: 42.5,
+  durationInSeconds: 41.6,
   fps: 30,
   width: 1080,
   height: 1920,
@@ -57,7 +57,7 @@ const SCHOOL_IN = F(31.3);
 const STUDENT_IN = F(34.3); // "...look way bigger than the school says" @ 34.35
 const CLASS_OUT = F(37.0);
 const LOOP = F(40.8); // after "...in the long gap." @ 40.07–40.7
-const END = F(42.5);
+const END = F(41.6);
 
 const X0 = 120;
 const PXM = 14; // px per minute

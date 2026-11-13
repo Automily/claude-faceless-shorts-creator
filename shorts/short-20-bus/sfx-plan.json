@@ -5,7 +5,7 @@
   "render": {
     "preview": "remotion/out/Short20Bus-voiced.mp4",
     "out": "shorts/short-20-bus/output/short-20-sfx.mp4",
-    "end_s": 42.5,
+    "end_s": 41.6,
     "duck": true
   },
   "note": "100% library.",
@@ -101,6 +101,12 @@
       "sfx_id": "whoosh-reverse",
       "gain_db": -10,
       "cue": "back to the buses"
+    },
+    {
+      "at_s": 40.75,
+      "sfx_id": "whoosh-reverse",
+      "gain_db": -9,
+      "cue": "loop back to the payoff"
     }
   ]
 }
