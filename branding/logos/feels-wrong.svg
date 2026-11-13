@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#9b7cc4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#g)"/>
+  <!-- an equals sign whose top bar is knocked askew: it looks wrong, it's still equal -->
+  <rect x="282" y="572" width="460" height="92" rx="46" fill="#fffef7"/>
+  <g transform="rotate(-11 512 406)">
+    <rect x="282" y="360" width="460" height="92" rx="46" fill="#fffef7"/>
+  </g>
+</svg>
