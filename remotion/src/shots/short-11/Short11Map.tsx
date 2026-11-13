@@ -257,7 +257,7 @@ const Short11Map: React.FC = () => {
         <PauseCard title="PAUSE" subtitle="how many fit inside Africa?" durSec={3.8} accent={GOLD} y={410} />
       </Sequence>
 
-      <Captions lines={VO} y={1400} accent={GOLD} />
+      <Captions lines={VO} y={1460} accent={GOLD} />
       <ProgressBar color={GOLD} />
     </AbsoluteFill>
   );
