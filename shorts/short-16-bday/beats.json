@@ -1,0 +1,487 @@
+{
+  "id": "short-16-bday",
+  "title": "The Birthday Paradox",
+  "composition": "Short16Bday",
+  "channel": "Feels Wrong",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 35
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Twenty-three people in a room. Fifty-fifty odds that two share a birthday.",
+      "start": 0.4,
+      "end": 5.0,
+      "words": [
+        {
+          "w": "Twenty-three",
+          "start": 0.4,
+          "end": 0.946
+        },
+        {
+          "w": "people",
+          "start": 0.992,
+          "end": 1.248
+        },
+        {
+          "w": "in",
+          "start": 1.282,
+          "end": 1.34
+        },
+        {
+          "w": "a",
+          "start": 1.387,
+          "end": 1.41
+        },
+        {
+          "w": "room.",
+          "start": 1.468,
+          "end": 1.828
+        },
+        {
+          "w": "Fifty-fifty",
+          "start": 2.269,
+          "end": 2.896
+        },
+        {
+          "w": "odds",
+          "start": 2.954,
+          "end": 3.198
+        },
+        {
+          "w": "that",
+          "start": 3.233,
+          "end": 3.349
+        },
+        {
+          "w": "two",
+          "start": 3.372,
+          "end": 3.523
+        },
+        {
+          "w": "share",
+          "start": 3.593,
+          "end": 3.802
+        },
+        {
+          "w": "a",
+          "start": 3.825,
+          "end": 3.848
+        },
+        {
+          "w": "birthday.",
+          "start": 3.883,
+          "end": 4.998
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "There are three hundred sixty-five days. Twenty-three feels way too small.",
+      "start": 5.2,
+      "end": 9.93,
+      "words": [
+        {
+          "w": "There",
+          "start": 5.2,
+          "end": 5.388
+        },
+        {
+          "w": "are",
+          "start": 5.42,
+          "end": 5.513
+        },
+        {
+          "w": "three",
+          "start": 5.545,
+          "end": 5.744
+        },
+        {
+          "w": "hundred",
+          "start": 5.775,
+          "end": 6.005
+        },
+        {
+          "w": "sixty-five",
+          "start": 6.068,
+          "end": 6.611
+        },
+        {
+          "w": "days.",
+          "start": 6.642,
+          "end": 7.091
+        },
+        {
+          "w": "Twenty-three",
+          "start": 7.489,
+          "end": 7.959
+        },
+        {
+          "w": "feels",
+          "start": 8.011,
+          "end": 8.262
+        },
+        {
+          "w": "way",
+          "start": 8.346,
+          "end": 8.565
+        },
+        {
+          "w": "too",
+          "start": 8.617,
+          "end": 8.764
+        },
+        {
+          "w": "small.",
+          "start": 8.827,
+          "end": 9.924
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. How many pairs of people are in this room?",
+      "start": 10.0,
+      "end": 13.52,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 10.0,
+          "end": 10.529
+        },
+        {
+          "w": "How",
+          "start": 11.165,
+          "end": 11.302
+        },
+        {
+          "w": "many",
+          "start": 11.334,
+          "end": 11.461
+        },
+        {
+          "w": "pairs",
+          "start": 11.504,
+          "end": 11.716
+        },
+        {
+          "w": "of",
+          "start": 11.748,
+          "end": 11.789
+        },
+        {
+          "w": "people",
+          "start": 11.842,
+          "end": 12.076
+        },
+        {
+          "w": "are",
+          "start": 12.097,
+          "end": 12.182
+        },
+        {
+          "w": "in",
+          "start": 12.203,
+          "end": 12.256
+        },
+        {
+          "w": "this",
+          "start": 12.277,
+          "end": 12.393
+        },
+        {
+          "w": "room?",
+          "start": 12.446,
+          "end": 13.516
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Not twenty-three. Two hundred fifty-three pairs.",
+      "start": 13.6,
+      "end": 16.73,
+      "words": [
+        {
+          "w": "Not",
+          "start": 13.6,
+          "end": 13.781
+        },
+        {
+          "w": "twenty-three.",
+          "start": 13.815,
+          "end": 14.469
+        },
+        {
+          "w": "Two",
+          "start": 14.785,
+          "end": 14.977
+        },
+        {
+          "w": "hundred",
+          "start": 15.045,
+          "end": 15.293
+        },
+        {
+          "w": "fifty-three",
+          "start": 15.35,
+          "end": 15.836
+        },
+        {
+          "w": "pairs.",
+          "start": 15.87,
+          "end": 16.716
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "And every single pair is a chance to match.",
+      "start": 16.8,
+      "end": 19.49,
+      "words": [
+        {
+          "w": "And",
+          "start": 16.8,
+          "end": 16.986
+        },
+        {
+          "w": "every",
+          "start": 17.044,
+          "end": 17.218
+        },
+        {
+          "w": "single",
+          "start": 17.264,
+          "end": 17.543
+        },
+        {
+          "w": "pair",
+          "start": 17.578,
+          "end": 17.764
+        },
+        {
+          "w": "is",
+          "start": 17.81,
+          "end": 17.88
+        },
+        {
+          "w": "a",
+          "start": 17.926,
+          "end": 17.961
+        },
+        {
+          "w": "chance",
+          "start": 17.996,
+          "end": 18.251
+        },
+        {
+          "w": "to",
+          "start": 18.286,
+          "end": 18.344
+        },
+        {
+          "w": "match.",
+          "start": 18.402,
+          "end": 19.494
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Each pair is a long shot. Two hundred fifty-three long shots aren't.",
+      "start": 19.8,
+      "end": 24.49,
+      "words": [
+        {
+          "w": "Each",
+          "start": 19.8,
+          "end": 20.032
+        },
+        {
+          "w": "pair",
+          "start": 20.079,
+          "end": 20.264
+        },
+        {
+          "w": "is",
+          "start": 20.311,
+          "end": 20.38
+        },
+        {
+          "w": "a",
+          "start": 20.415,
+          "end": 20.439
+        },
+        {
+          "w": "long",
+          "start": 20.485,
+          "end": 20.682
+        },
+        {
+          "w": "shot.",
+          "start": 20.74,
+          "end": 21.182
+        },
+        {
+          "w": "Two",
+          "start": 21.785,
+          "end": 21.959
+        },
+        {
+          "w": "hundred",
+          "start": 22.018,
+          "end": 22.261
+        },
+        {
+          "w": "fifty-three",
+          "start": 22.319,
+          "end": 22.795
+        },
+        {
+          "w": "long",
+          "start": 22.853,
+          "end": 23.039
+        },
+        {
+          "w": "shots",
+          "start": 23.097,
+          "end": 23.399
+        },
+        {
+          "w": "aren't.",
+          "start": 23.457,
+          "end": 24.49
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "At fifty people, it's ninety-seven percent. At seventy, it's basically certain.",
+      "start": 24.6,
+      "end": 29.71,
+      "words": [
+        {
+          "w": "At",
+          "start": 24.6,
+          "end": 24.737
+        },
+        {
+          "w": "fifty",
+          "start": 24.79,
+          "end": 25.001
+        },
+        {
+          "w": "people,",
+          "start": 25.053,
+          "end": 25.339
+        },
+        {
+          "w": "it's",
+          "start": 25.36,
+          "end": 25.476
+        },
+        {
+          "w": "ninety-seven",
+          "start": 25.538,
+          "end": 26.003
+        },
+        {
+          "w": "percent.",
+          "start": 26.045,
+          "end": 26.509
+        },
+        {
+          "w": "At",
+          "start": 27.058,
+          "end": 27.174
+        },
+        {
+          "w": "seventy,",
+          "start": 27.227,
+          "end": 27.712
+        },
+        {
+          "w": "it's",
+          "start": 28.007,
+          "end": 28.155
+        },
+        {
+          "w": "basically",
+          "start": 28.197,
+          "end": 28.587
+        },
+        {
+          "w": "certain.",
+          "start": 28.64,
+          "end": 29.705
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "You're not matching your birthday. Everyone is matching everyone.",
+      "start": 29.8,
+      "end": 33.32,
+      "words": [
+        {
+          "w": "You're",
+          "start": 29.8,
+          "end": 30.055
+        },
+        {
+          "w": "not",
+          "start": 30.09,
+          "end": 30.218
+        },
+        {
+          "w": "matching",
+          "start": 30.264,
+          "end": 30.566
+        },
+        {
+          "w": "your",
+          "start": 30.601,
+          "end": 30.706
+        },
+        {
+          "w": "birthday.",
+          "start": 30.74,
+          "end": 31.298
+        },
+        {
+          "w": "Everyone",
+          "start": 31.576,
+          "end": 31.948
+        },
+        {
+          "w": "is",
+          "start": 31.983,
+          "end": 32.052
+        },
+        {
+          "w": "matching",
+          "start": 32.11,
+          "end": 32.424
+        },
+        {
+          "w": "everyone.",
+          "start": 32.517,
+          "end": 33.329
+        }
+      ]
+    }
+  ],
+  "prob": {
+    "P23": 0.5073,
+    "P50": 0.9704,
+    "P70": 0.9992,
+    "pairs23": 253,
+    "formula": "P(match) = 1 - prod_{k<n} (365-k)/365, ignoring Feb 29"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}
