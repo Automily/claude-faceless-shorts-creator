@@ -1,0 +1,26 @@
+{
+  "_doc": "Posting queue. status: building -> needs-voice -> ready -> sent. At each slot (11:45 + 18:45 ET) the oldest 'ready' item per channel is sent to the user with its caption, then marked 'sent'. No ready item = slot skipped, never filler. Final mp4s live in posting/ready/ (committed: they carry paid voice).",
+  "slots_et": ["11:45", "18:45"],
+  "items": [
+    {"id": "fp-001", "channel": "The Fine Print", "short": "shorts/short-10-fees", "video": "posting/ready/fp-001.mp4", "status": "needs-voice",
+     "title": "The 1% fee that eats 24% of your retirement",
+     "caption": "1% sounds like nothing. Over 40 years it quietly takes a quarter of your money. Here's the math.",
+     "hashtags": "#personalfinance #investing #retirement #moneytips #financialliteracy"},
+    {"id": "fw-001", "channel": "Feels Wrong", "short": "shorts/short-5-prob", "video": "posting/ready/fw-001.mp4", "status": "needs-voice",
+     "title": "Switching doors doubles your odds (it feels wrong)",
+     "caption": "Three doors, one car. Switching wins 2 out of 3 times. Your gut says 50/50. Your gut is wrong.",
+     "hashtags": "#math #probability #montyhall #paradox #mindblown"},
+    {"id": "fw-002", "channel": "Feels Wrong", "short": "shorts/short-11-map", "video": "posting/ready/fw-002.mp4", "status": "needs-voice",
+     "title": "Africa is 14x bigger than Greenland. Your map lied.",
+     "caption": "On the map on your wall they look the same size. They are not even close.",
+     "hashtags": "#geography #maps #mercator #mindblown #learnontiktok"},
+    {"id": "fw-003", "channel": "Feels Wrong", "short": "shorts/short-12-orbit", "video": "posting/ready/fw-003.mp4", "status": "needs-voice",
+     "title": "Astronauts aren't weightless. They're falling.",
+     "caption": "Gravity on the space station is about 90% of what you feel right now. So why do they float?",
+     "hashtags": "#physics #space #science #mindblown #learnontiktok"},
+    {"id": "fw-004", "channel": "Feels Wrong", "short": "shorts/short-2-math", "video": "posting/ready/fw-004.mp4", "status": "needs-voice",
+     "title": "Multiply any number by 11 in your head",
+     "caption": "No calculator, two seconds. Pause and try 72 x 11 first.",
+     "hashtags": "#math #mathtricks #mentalmath #learnontiktok #mathfacts"}
+  ]
+}
