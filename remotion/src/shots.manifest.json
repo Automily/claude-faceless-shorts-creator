@@ -40,6 +40,14 @@
   "transparent": false
  },
  {
+  "id": "Short13Tax",
+  "durationInSeconds": 40,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short2Math",
   "durationInSeconds": 42,
   "fps": 30,

@@ -16,6 +16,16 @@
       "hashtags": "#personalfinance #investing #retirement #moneytips #financialliteracy"
     },
     {
+      "id": "fp-002",
+      "channel": "The Fine Print",
+      "short": "shorts/short-13-tax",
+      "video": "posting/ready/fp-002.mp4",
+      "status": "ready",
+      "title": "A raise can't lower your pay (the tax bracket myth)",
+      "caption": "Getting bumped into the 22% bracket doesn't put your whole paycheck at 22%. Only the dollars above the line. Here's the math on a $1,000 raise.",
+      "hashtags": "#taxes #personalfinance #moneytips #taxbrackets #financialliteracy"
+    },
+    {
       "id": "fw-001",
       "channel": "Feels Wrong",
       "short": "shorts/short-5-prob",
