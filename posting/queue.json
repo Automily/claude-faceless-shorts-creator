@@ -164,6 +164,16 @@
       "title": "A 99% accurate test says you're sick. You're probably fine.",
       "caption": "Rare disease, 1 in 1,000. Test 1,000 people: 1 real positive, about 10 false alarms. So a positive means about a 9% chance. Test positive twice and it jumps to 91%. (Illustration, not medical advice.)",
       "hashtags": "#math #probability #statistics #mindblown #learnontiktok"
+    },
+    {
+      "id": "fw-009",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-24-friends",
+      "video": "posting/ready/fw-009.mp4",
+      "status": "ready",
+      "title": "Your friends have more friends than you (it's math)",
+      "caption": "In this friend group, 7 of 8 people have fewer friends than their friends do. Popular people show up on everyone's list, so they get counted again and again. Scientists use it to spot flu outbreaks up to 2 weeks early.",
+      "hashtags": "#math #friendshipparadox #statistics #mindblown #learnontiktok"
     }
   ]
 }

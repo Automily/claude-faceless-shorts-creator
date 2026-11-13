@@ -1,0 +1,88 @@
+{
+  "master": "remotion/out/Short24Friends-voiced.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "remotion/out/Short24Friends-voiced.mp4",
+    "out": "shorts/short-24-friends/output/short-24-sfx.mp4",
+    "end_s": 36.6,
+    "duck": true
+  },
+  "note": "100% library.",
+  "events": [
+    {
+      "at_s": 5.8,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -10,
+      "cue": "payoff clears"
+    },
+    {
+      "at_s": 7.2,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "cue": "friend counts pop in"
+    },
+    {
+      "at_s": 9.25,
+      "sfx_id": "sparkle-soft",
+      "gain_db": -12,
+      "cue": "most have one or two",
+      "optional": true
+    },
+    {
+      "at_s": 10.65,
+      "sfx_id": "impact-soft",
+      "gain_db": -8,
+      "cue": "the hub lights up"
+    },
+    {
+      "at_s": 12.8,
+      "sfx_id": "pop-reveal",
+      "gain_db": -10,
+      "cue": "PauseCard"
+    },
+    {
+      "at_s": 13.0,
+      "sfx_id": "clock-tick-soft",
+      "gain_db": -15,
+      "cue": "pause countdown",
+      "optional": true
+    },
+    {
+      "at_s": 17.6,
+      "sfx_id": "pop-reveal",
+      "gain_db": -11,
+      "cue": "fewer markers cascade"
+    },
+    {
+      "at_s": 18.2,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -6,
+      "cue": "HERO: 7 of 8"
+    },
+    {
+      "at_s": 22.35,
+      "sfx_id": "stamp-hit",
+      "gain_db": -8,
+      "cue": "on 7 lists"
+    },
+    {
+      "at_s": 25.0,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -10,
+      "cue": "cut to outbreak curves"
+    },
+    {
+      "at_s": 30.7,
+      "sfx_id": "stamp-hit",
+      "gain_db": -7,
+      "cue": "up to 2 weeks earlier"
+    },
+    {
+      "at_s": 32.6,
+      "sfx_id": "whoosh-reverse",
+      "gain_db": -10,
+      "cue": "back to the network"
+    }
+  ]
+}
