@@ -144,6 +144,16 @@
       "title": "Buses every 10 minutes. Why do you wait 10, not 5?",
       "caption": "Long gaps catch more riders because they're long. Here 78% of riders land in the two long gaps, so the average wait is the full 10 minutes. Same reason classes feel bigger than the school says.",
       "hashtags": "#math #probability #paradox #mindblown #statistics"
+    },
+    {
+      "id": "fw-008",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-22-test",
+      "video": "posting/ready/fw-008.mp4",
+      "status": "ready",
+      "title": "A 99% accurate test says you're sick. You're probably fine.",
+      "caption": "Rare disease, 1 in 1,000. Test 1,000 people: 1 real positive, about 10 false alarms. So a positive means about a 9% chance. Test positive twice and it jumps to 91%. (Illustration, not medical advice.)",
+      "hashtags": "#math #probability #statistics #mindblown #learnontiktok"
     }
   ]
 }

@@ -120,6 +120,14 @@
   "transparent": false
  },
  {
+  "id": "Short22Test",
+  "durationInSeconds": 39.6,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short3Algo",
   "durationInSeconds": 42,
   "fps": 30,
