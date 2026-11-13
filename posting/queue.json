@@ -66,6 +66,16 @@
       "hashtags": "#investing #ruleof72 #personalfinance #compoundinterest #moneytips"
     },
     {
+      "id": "fp-007",
+      "channel": "The Fine Print",
+      "short": "shorts/short-21-inflation",
+      "video": "posting/ready/fp-007.mp4",
+      "status": "ready",
+      "title": "Your cash says $10,000. In 24 years it buys half.",
+      "caption": "At 3% inflation, cash sitting at 0% loses half its buying power in about 24 years (72 ÷ 3). The number never changes. What it buys does.",
+      "hashtags": "#inflation #personalfinance #savings #moneytips #financialliteracy"
+    },
+    {
       "id": "fw-001",
       "channel": "Feels Wrong",
       "short": "shorts/short-5-prob",
