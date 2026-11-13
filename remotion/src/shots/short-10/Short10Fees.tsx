@@ -167,7 +167,7 @@ const Short10Fees: React.FC = () => {
         <Kicker text="SAME SAVER · SAME 40 YEARS" color={GOLD} y={200} at={REWIND_IN} until={F(8.4)} />
         <Kicker text="ONE PAYS 1% MORE" color={RED} y={200} at={F(8.6)} until={F(13.4)} />
         <Kicker text="40 YEARS OF COMPOUNDING" color={GOLD} y={200} at={GROW_IN} until={F(30.2)} />
-        <Kicker text="NOT 1% — 24%" color={RED} y={200} at={SHARE_IN} until={F(39.2)} />
+        <Kicker text="NOT 1%. 24%." color={RED} y={200} at={SHARE_IN} until={F(39.2)} />
 
         <ChartFrame scale={S} yTicks={[0, 400_000, 800_000, 1_200_000]} xTicks={[0, 10, 20, 30, 40]} />
 
