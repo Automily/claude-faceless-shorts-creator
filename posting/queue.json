@@ -56,6 +56,16 @@
       "hashtags": "#401k #retirement #personalfinance #investing #moneytips"
     },
     {
+      "id": "fp-006",
+      "channel": "The Fine Print",
+      "short": "shorts/short-19-rule72",
+      "video": "posting/ready/fp-006.mp4",
+      "status": "ready",
+      "title": "When does your money double? Divide 72 by the rate",
+      "caption": "At 8%, 72 ÷ 8 = 9 years to double. $10K becomes about $160K in 36 years. The same rule says a 24% credit card doubles your balance in about 3.",
+      "hashtags": "#investing #ruleof72 #personalfinance #compoundinterest #moneytips"
+    },
+    {
       "id": "fw-001",
       "channel": "Feels Wrong",
       "short": "shorts/short-5-prob",

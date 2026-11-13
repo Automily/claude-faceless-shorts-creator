@@ -88,6 +88,14 @@
   "transparent": false
  },
  {
+  "id": "Short19Rule72",
+  "durationInSeconds": 41.5,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short2Math",
   "durationInSeconds": 42,
   "fps": 30,
