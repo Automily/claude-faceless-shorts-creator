@@ -144,6 +144,14 @@
   "transparent": false
  },
  {
+  "id": "Short25Deferred",
+  "durationInSeconds": 39.4,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short3Algo",
   "durationInSeconds": 42,
   "fps": 30,

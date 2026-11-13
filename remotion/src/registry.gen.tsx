@@ -18,14 +18,15 @@ import Shot14, { compositionConfig as cfg14 } from './shots/short-21/Short21Infl
 import Shot15, { compositionConfig as cfg15 } from './shots/short-22/Short22Test';
 import Shot16, { compositionConfig as cfg16 } from './shots/short-23/Short23CarLoan';
 import Shot17, { compositionConfig as cfg17 } from './shots/short-24/Short24Friends';
-import Shot18, { compositionConfig as cfg18 } from './shots/short-3/Short3Algo';
-import Shot19, { compositionConfig as cfg19 } from './shots/short-4/Short4Reflog';
-import Shot20, { compositionConfig as cfg20 } from './shots/short-5/Short5Monty';
-import Shot21, { compositionConfig as cfg21 } from './shots/short-6/Short6Sheet';
-import Shot22, { compositionConfig as cfg22 } from './shots/short-7/Short7Kids';
-import Shot23, { compositionConfig as cfg23 } from './shots/short-8/Short8Phish';
-import Shot24, { compositionConfig as cfg24 } from './shots/short-9/Short9Chords';
-import Shot25, { compositionConfig as cfg25 } from './shots/vox-1/Vox1Coffee';
+import Shot18, { compositionConfig as cfg18 } from './shots/short-25/Short25Deferred';
+import Shot19, { compositionConfig as cfg19 } from './shots/short-3/Short3Algo';
+import Shot20, { compositionConfig as cfg20 } from './shots/short-4/Short4Reflog';
+import Shot21, { compositionConfig as cfg21 } from './shots/short-5/Short5Monty';
+import Shot22, { compositionConfig as cfg22 } from './shots/short-6/Short6Sheet';
+import Shot23, { compositionConfig as cfg23 } from './shots/short-7/Short7Kids';
+import Shot24, { compositionConfig as cfg24 } from './shots/short-8/Short8Phish';
+import Shot25, { compositionConfig as cfg25 } from './shots/short-9/Short9Chords';
+import Shot26, { compositionConfig as cfg26 } from './shots/vox-1/Vox1Coffee';
 
 export const shots: { Comp: React.FC; config: any }[] = [
   { Comp: Shot0 as React.FC, config: cfg0 },
@@ -54,4 +55,5 @@ export const shots: { Comp: React.FC; config: any }[] = [
   { Comp: Shot23 as React.FC, config: cfg23 },
   { Comp: Shot24 as React.FC, config: cfg24 },
   { Comp: Shot25 as React.FC, config: cfg25 },
+  { Comp: Shot26 as React.FC, config: cfg26 },
 ];
