@@ -104,6 +104,14 @@
   "transparent": false
  },
  {
+  "id": "Short20Bus",
+  "durationInSeconds": 42.5,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short3Algo",
   "durationInSeconds": 42,
   "fps": 30,
