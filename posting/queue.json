@@ -46,6 +46,16 @@
       "hashtags": "#investing #stockmarket #personalfinance #moneytips #financialliteracy"
     },
     {
+      "id": "fp-005",
+      "channel": "The Fine Print",
+      "short": "shorts/short-18-match",
+      "video": "posting/ready/fp-005.mp4",
+      "status": "ready",
+      "title": "The only instant 100% return (your 401k match)",
+      "caption": "You put in $2,400, your employer adds $2,400. That's a 100% return on day one. Over 30 years, just the free half can grow to about $227K. Match terms and vesting vary.",
+      "hashtags": "#401k #retirement #personalfinance #investing #moneytips"
+    },
+    {
       "id": "fw-001",
       "channel": "Feels Wrong",
       "short": "shorts/short-5-prob",
