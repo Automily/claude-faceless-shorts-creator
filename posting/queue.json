@@ -10,10 +10,11 @@
       "channel": "The Fine Print",
       "short": "shorts/short-10-fees",
       "video": "posting/ready/fp-001.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "The 1% fee that eats 24% of your retirement",
       "caption": "1% sounds like nothing. Over 40 years it quietly takes a quarter of your money. Here's the math.",
-      "hashtags": "#personalfinance #investing #retirement #moneytips #financialliteracy"
+      "hashtags": "#personalfinance #investing #retirement #moneytips #financialliteracy",
+      "sent_at": "2026-11-14T11:45-05:00"
     },
     {
       "id": "fp-002",
@@ -100,10 +101,11 @@
       "channel": "Feels Wrong",
       "short": "shorts/short-5-prob",
       "video": "posting/ready/fw-001.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "Switching doors doubles your odds (it feels wrong)",
       "caption": "Three doors, one car. Switching wins 2 out of 3 times. Your gut says 50/50. Your gut is wrong.",
-      "hashtags": "#math #probability #montyhall #paradox #mindblown"
+      "hashtags": "#math #probability #montyhall #paradox #mindblown",
+      "sent_at": "2026-11-14T11:45-05:00"
     },
     {
       "id": "fw-002",
