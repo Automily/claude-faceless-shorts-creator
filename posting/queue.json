@@ -100,6 +100,16 @@
       "hashtags": "#creditcard #personalfinance #moneytips #debt #finance"
     },
     {
+      "id": "fp-010",
+      "channel": "The Fine Print",
+      "short": "shorts/short-27-jackpot",
+      "video": "posting/ready/fp-010.mp4",
+      "status": "ready",
+      "title": "A $1 billion jackpot isn't $1 billion",
+      "caption": "The advertised jackpot is 30 payments over 29 years, each 5% bigger than the last. Take the cash today and it's under half: about $450M on a ~$1B jackpot, before taxes.",
+      "hashtags": "#lottery #powerball #personalfinance #moneytips #finance"
+    },
+    {
       "id": "fw-001",
       "channel": "Feels Wrong",
       "short": "shorts/short-5-prob",
