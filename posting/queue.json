@@ -32,10 +32,11 @@
       "channel": "The Fine Print",
       "short": "shorts/short-14-minpay",
       "video": "posting/ready/fp-003.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "The minimum payment trap: $5,000, 19 years",
       "caption": "Pay only the minimum on a $5,000 card at 22% and it takes 19 years and $8,100 in interest. Keep paying that first payment instead and it's gone in under 5.",
-      "hashtags": "#creditcard #debt #personalfinance #moneytips #financialliteracy"
+      "hashtags": "#creditcard #debt #personalfinance #moneytips #financialliteracy",
+      "sent_at": "2026-11-15T11:45-05:00"
     },
     {
       "id": "fp-004",
@@ -124,10 +125,11 @@
       "channel": "Feels Wrong",
       "short": "shorts/short-12-orbit",
       "video": "posting/ready/fw-003.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "Astronauts aren't weightless. They're falling.",
       "caption": "Gravity on the space station is about 90% of what you feel right now. So why do they float?",
-      "hashtags": "#physics #space #science #mindblown #learnontiktok"
+      "hashtags": "#physics #space #science #mindblown #learnontiktok",
+      "sent_at": "2026-11-15T11:45-05:00"
     },
     {
       "id": "fw-004",
