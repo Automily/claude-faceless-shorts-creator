@@ -111,6 +111,16 @@
       "hashtags": "#lottery #powerball #personalfinance #moneytips #finance"
     },
     {
+      "id": "fp-011",
+      "channel": "The Fine Print",
+      "short": "shorts/short-29-mortgage",
+      "video": "posting/ready/fp-011.mp4",
+      "status": "ready",
+      "title": "A $400K mortgage costs $910K",
+      "caption": "30 years at 6.5% (example): $2,528/mo, and $510K of it is interest. More than the house. Add $200/mo to principal and you finish 5.6 years early and keep ~$112K.",
+      "hashtags": "#mortgage #homebuying #personalfinance #moneytips #realestate"
+    },
+    {
       "id": "fw-001",
       "channel": "Feels Wrong",
       "short": "shorts/short-5-prob",
