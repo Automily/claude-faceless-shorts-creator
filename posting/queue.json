@@ -65,10 +65,11 @@
       "channel": "The Fine Print",
       "short": "shorts/short-19-rule72",
       "video": "posting/ready/fp-006.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "When does your money double? Divide 72 by the rate",
       "caption": "At 8%, 72 ÷ 8 = 9 years to double. $10K becomes about $160K in 36 years. The same rule says a 24% credit card doubles your balance in about 3.",
-      "hashtags": "#investing #ruleof72 #personalfinance #compoundinterest #moneytips"
+      "hashtags": "#investing #ruleof72 #personalfinance #compoundinterest #moneytips",
+      "sent_at": "2026-11-16T18:45-05:00"
     },
     {
       "id": "fp-007",
@@ -180,10 +181,11 @@
       "channel": "Feels Wrong",
       "short": "shorts/short-17-billion",
       "video": "posting/ready/fw-006.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "A million seconds is 11 days. A billion is 31 years.",
       "caption": "One letter apart, so your brain files them side by side. A billion seconds ago was early 1995. A trillion seconds ago, people were painting cave walls.",
-      "hashtags": "#math #numbers #mindblown #mathfacts #learnontiktok"
+      "hashtags": "#math #numbers #mindblown #mathfacts #learnontiktok",
+      "sent_at": "2026-11-16T18:45-05:00"
     },
     {
       "id": "fw-007",
