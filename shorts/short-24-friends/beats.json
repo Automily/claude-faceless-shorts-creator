@@ -1,0 +1,535 @@
+{
+  "id": "short-24-friends",
+  "title": "Your Friends Have More Friends Than You",
+  "composition": "Short24Friends",
+  "channel": "Feels Wrong",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 37
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Your friends have more friends than you. And it's not because you're unpopular.",
+      "start": 0.4,
+      "end": 4.43,
+      "words": [
+        {
+          "w": "Your",
+          "start": 0.4,
+          "end": 0.609
+        },
+        {
+          "w": "friends",
+          "start": 0.655,
+          "end": 0.911
+        },
+        {
+          "w": "have",
+          "start": 0.957,
+          "end": 1.097
+        },
+        {
+          "w": "more",
+          "start": 1.131,
+          "end": 1.282
+        },
+        {
+          "w": "friends",
+          "start": 1.329,
+          "end": 1.573
+        },
+        {
+          "w": "than",
+          "start": 1.607,
+          "end": 1.724
+        },
+        {
+          "w": "you.",
+          "start": 1.77,
+          "end": 2.037
+        },
+        {
+          "w": "And",
+          "start": 2.362,
+          "end": 2.501
+        },
+        {
+          "w": "it's",
+          "start": 2.548,
+          "end": 2.664
+        },
+        {
+          "w": "not",
+          "start": 2.722,
+          "end": 2.885
+        },
+        {
+          "w": "because",
+          "start": 2.931,
+          "end": 3.14
+        },
+        {
+          "w": "you're",
+          "start": 3.163,
+          "end": 3.326
+        },
+        {
+          "w": "unpopular.",
+          "start": 3.349,
+          "end": 4.44
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Here's a friend group. Count each person's friends.",
+      "start": 5.8,
+      "end": 9.1,
+      "words": [
+        {
+          "w": "Here's",
+          "start": 5.8,
+          "end": 6.09
+        },
+        {
+          "w": "a",
+          "start": 6.125,
+          "end": 6.16
+        },
+        {
+          "w": "friend",
+          "start": 6.206,
+          "end": 6.404
+        },
+        {
+          "w": "group.",
+          "start": 6.45,
+          "end": 6.833
+        },
+        {
+          "w": "Count",
+          "start": 7.158,
+          "end": 7.414
+        },
+        {
+          "w": "each",
+          "start": 7.472,
+          "end": 7.623
+        },
+        {
+          "w": "person's",
+          "start": 7.669,
+          "end": 8.006
+        },
+        {
+          "w": "friends.",
+          "start": 8.041,
+          "end": 9.097
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Most have one or two. One person knows everyone.",
+      "start": 9.2,
+      "end": 12.68,
+      "words": [
+        {
+          "w": "Most",
+          "start": 9.2,
+          "end": 9.479
+        },
+        {
+          "w": "have",
+          "start": 9.513,
+          "end": 9.641
+        },
+        {
+          "w": "one",
+          "start": 9.688,
+          "end": 9.804
+        },
+        {
+          "w": "or",
+          "start": 9.827,
+          "end": 9.897
+        },
+        {
+          "w": "two.",
+          "start": 9.931,
+          "end": 10.303
+        },
+        {
+          "w": "One",
+          "start": 10.628,
+          "end": 10.802
+        },
+        {
+          "w": "person",
+          "start": 10.849,
+          "end": 11.116
+        },
+        {
+          "w": "knows",
+          "start": 11.15,
+          "end": 11.325
+        },
+        {
+          "w": "everyone.",
+          "start": 11.371,
+          "end": 12.683
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. How many people here have fewer friends than their friends do?",
+      "start": 12.8,
+      "end": 17.11,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 12.8,
+          "end": 13.311
+        },
+        {
+          "w": "How",
+          "start": 14.007,
+          "end": 14.147
+        },
+        {
+          "w": "many",
+          "start": 14.193,
+          "end": 14.333
+        },
+        {
+          "w": "people",
+          "start": 14.379,
+          "end": 14.611
+        },
+        {
+          "w": "here",
+          "start": 14.658,
+          "end": 14.82
+        },
+        {
+          "w": "have",
+          "start": 14.855,
+          "end": 14.994
+        },
+        {
+          "w": "fewer",
+          "start": 15.052,
+          "end": 15.343
+        },
+        {
+          "w": "friends",
+          "start": 15.412,
+          "end": 15.691
+        },
+        {
+          "w": "than",
+          "start": 15.714,
+          "end": 15.819
+        },
+        {
+          "w": "their",
+          "start": 15.853,
+          "end": 15.981
+        },
+        {
+          "w": "friends",
+          "start": 16.016,
+          "end": 16.271
+        },
+        {
+          "w": "do?",
+          "start": 16.318,
+          "end": 17.119
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Seven out of eight.",
+      "start": 17.6,
+      "end": 18.81,
+      "words": [
+        {
+          "w": "Seven",
+          "start": 17.6,
+          "end": 17.902
+        },
+        {
+          "w": "out",
+          "start": 17.937,
+          "end": 18.041
+        },
+        {
+          "w": "of",
+          "start": 18.076,
+          "end": 18.122
+        },
+        {
+          "w": "eight.",
+          "start": 18.169,
+          "end": 18.807
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "The popular one is on everyone's list, so they get counted again and again.",
+      "start": 19.8,
+      "end": 24.39,
+      "words": [
+        {
+          "w": "The",
+          "start": 19.8,
+          "end": 19.928
+        },
+        {
+          "w": "popular",
+          "start": 19.986,
+          "end": 20.415
+        },
+        {
+          "w": "one",
+          "start": 20.485,
+          "end": 20.624
+        },
+        {
+          "w": "is",
+          "start": 20.659,
+          "end": 20.729
+        },
+        {
+          "w": "on",
+          "start": 20.787,
+          "end": 20.868
+        },
+        {
+          "w": "everyone's",
+          "start": 20.949,
+          "end": 21.414
+        },
+        {
+          "w": "list,",
+          "start": 21.472,
+          "end": 21.739
+        },
+        {
+          "w": "so",
+          "start": 21.774,
+          "end": 21.901
+        },
+        {
+          "w": "they",
+          "start": 21.959,
+          "end": 22.087
+        },
+        {
+          "w": "get",
+          "start": 22.145,
+          "end": 22.273
+        },
+        {
+          "w": "counted",
+          "start": 22.331,
+          "end": 22.633
+        },
+        {
+          "w": "again",
+          "start": 22.668,
+          "end": 22.97
+        },
+        {
+          "w": "and",
+          "start": 23.039,
+          "end": 23.167
+        },
+        {
+          "w": "again.",
+          "start": 23.225,
+          "end": 24.398
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "Epidemiologists use this. Track the friends of random people, and you can spot a flu outbreak up to two weeks early.",
+      "start": 25.0,
+      "end": 31.73,
+      "words": [
+        {
+          "w": "Epidemiologists",
+          "start": 25.0,
+          "end": 25.998
+        },
+        {
+          "w": "use",
+          "start": 26.057,
+          "end": 26.242
+        },
+        {
+          "w": "this.",
+          "start": 26.277,
+          "end": 26.672
+        },
+        {
+          "w": "Track",
+          "start": 27.055,
+          "end": 27.322
+        },
+        {
+          "w": "the",
+          "start": 27.38,
+          "end": 27.45
+        },
+        {
+          "w": "friends",
+          "start": 27.496,
+          "end": 27.763
+        },
+        {
+          "w": "of",
+          "start": 27.81,
+          "end": 27.868
+        },
+        {
+          "w": "random",
+          "start": 27.961,
+          "end": 28.332
+        },
+        {
+          "w": "people,",
+          "start": 28.402,
+          "end": 28.889
+        },
+        {
+          "w": "and",
+          "start": 29.063,
+          "end": 29.191
+        },
+        {
+          "w": "you",
+          "start": 29.249,
+          "end": 29.319
+        },
+        {
+          "w": "can",
+          "start": 29.365,
+          "end": 29.47
+        },
+        {
+          "w": "spot",
+          "start": 29.505,
+          "end": 29.725
+        },
+        {
+          "w": "a",
+          "start": 29.76,
+          "end": 29.783
+        },
+        {
+          "w": "flu",
+          "start": 29.841,
+          "end": 30.027
+        },
+        {
+          "w": "outbreak",
+          "start": 30.085,
+          "end": 30.422
+        },
+        {
+          "w": "up",
+          "start": 30.468,
+          "end": 30.561
+        },
+        {
+          "w": "to",
+          "start": 30.608,
+          "end": 30.654
+        },
+        {
+          "w": "two",
+          "start": 30.7,
+          "end": 30.828
+        },
+        {
+          "w": "weeks",
+          "start": 30.863,
+          "end": 31.06
+        },
+        {
+          "w": "early.",
+          "start": 31.107,
+          "end": 31.734
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "It's not you. It's who gets counted.",
+      "start": 32.8,
+      "end": 35.25,
+      "words": [
+        {
+          "w": "It's",
+          "start": 32.8,
+          "end": 33.021
+        },
+        {
+          "w": "not",
+          "start": 33.079,
+          "end": 33.241
+        },
+        {
+          "w": "you.",
+          "start": 33.311,
+          "end": 33.706
+        },
+        {
+          "w": "It's",
+          "start": 34.031,
+          "end": 34.216
+        },
+        {
+          "w": "who",
+          "start": 34.24,
+          "end": 34.344
+        },
+        {
+          "w": "gets",
+          "start": 34.391,
+          "end": 34.541
+        },
+        {
+          "w": "counted.",
+          "start": 34.588,
+          "end": 35.261
+        }
+      ]
+    }
+  ],
+  "facts": {
+    "network": "hub 0 linked to 1..7, plus 1-2 and 3-4",
+    "degrees": [
+      7,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "fewer_than_friends": "7 of 8",
+    "study": "Christakis & Fowler 2010, PLoS ONE, 'Social network sensors for early detection of contagious outbreaks': friend group showed flu up to ~2 weeks earlier"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}

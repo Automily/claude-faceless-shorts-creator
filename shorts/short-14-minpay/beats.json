@@ -1,0 +1,554 @@
+{
+  "id": "short-14-minpay",
+  "title": "The Minimum Payment Trap",
+  "composition": "Short14MinPay",
+  "channel": "The Fine Print",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 39.5
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Five grand on a credit card, minimum payments only? Nineteen years.",
+      "start": 0.4,
+      "end": 4.71,
+      "words": [
+        {
+          "w": "Five",
+          "start": 0.4,
+          "end": 0.693
+        },
+        {
+          "w": "grand",
+          "start": 0.713,
+          "end": 0.922
+        },
+        {
+          "w": "on",
+          "start": 0.964,
+          "end": 1.017
+        },
+        {
+          "w": "a",
+          "start": 1.048,
+          "end": 1.069
+        },
+        {
+          "w": "credit",
+          "start": 1.11,
+          "end": 1.351
+        },
+        {
+          "w": "card,",
+          "start": 1.382,
+          "end": 1.592
+        },
+        {
+          "w": "minimum",
+          "start": 1.622,
+          "end": 1.874
+        },
+        {
+          "w": "payments",
+          "start": 1.915,
+          "end": 2.239
+        },
+        {
+          "w": "only?",
+          "start": 2.291,
+          "end": 2.689
+        },
+        {
+          "w": "Nineteen",
+          "start": 3.232,
+          "end": 3.629
+        },
+        {
+          "w": "years.",
+          "start": 3.682,
+          "end": 4.705
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "At twenty-two percent, the minimum is about one forty-two a month.",
+      "start": 4.8,
+      "end": 8.98,
+      "words": [
+        {
+          "w": "At",
+          "start": 4.8,
+          "end": 5.009
+        },
+        {
+          "w": "twenty-two",
+          "start": 5.044,
+          "end": 5.439
+        },
+        {
+          "w": "percent,",
+          "start": 5.508,
+          "end": 5.88
+        },
+        {
+          "w": "the",
+          "start": 5.903,
+          "end": 5.973
+        },
+        {
+          "w": "minimum",
+          "start": 6.042,
+          "end": 6.367
+        },
+        {
+          "w": "is",
+          "start": 6.414,
+          "end": 6.483
+        },
+        {
+          "w": "about",
+          "start": 6.53,
+          "end": 6.762
+        },
+        {
+          "w": "one",
+          "start": 6.832,
+          "end": 7.018
+        },
+        {
+          "w": "forty-two",
+          "start": 7.076,
+          "end": 7.482
+        },
+        {
+          "w": "a",
+          "start": 7.552,
+          "end": 7.575
+        },
+        {
+          "w": "month.",
+          "start": 7.621,
+          "end": 8.98
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "But sixty-five percent of that payment is just interest.",
+      "start": 9.2,
+      "end": 12.4,
+      "words": [
+        {
+          "w": "But",
+          "start": 9.2,
+          "end": 9.397
+        },
+        {
+          "w": "sixty-five",
+          "start": 9.444,
+          "end": 10.024
+        },
+        {
+          "w": "percent",
+          "start": 10.048,
+          "end": 10.338
+        },
+        {
+          "w": "of",
+          "start": 10.361,
+          "end": 10.407
+        },
+        {
+          "w": "that",
+          "start": 10.442,
+          "end": 10.558
+        },
+        {
+          "w": "payment",
+          "start": 10.605,
+          "end": 10.953
+        },
+        {
+          "w": "is",
+          "start": 11.011,
+          "end": 11.104
+        },
+        {
+          "w": "just",
+          "start": 11.174,
+          "end": 11.383
+        },
+        {
+          "w": "interest.",
+          "start": 11.464,
+          "end": 12.404
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "And as the balance drops, the minimum drops with it.",
+      "start": 12.9,
+      "end": 16.05,
+      "words": [
+        {
+          "w": "And",
+          "start": 12.9,
+          "end": 13.051
+        },
+        {
+          "w": "as",
+          "start": 13.109,
+          "end": 13.19
+        },
+        {
+          "w": "the",
+          "start": 13.237,
+          "end": 13.306
+        },
+        {
+          "w": "balance",
+          "start": 13.353,
+          "end": 13.689
+        },
+        {
+          "w": "drops,",
+          "start": 13.713,
+          "end": 14.073
+        },
+        {
+          "w": "the",
+          "start": 14.096,
+          "end": 14.177
+        },
+        {
+          "w": "minimum",
+          "start": 14.235,
+          "end": 14.56
+        },
+        {
+          "w": "drops",
+          "start": 14.595,
+          "end": 14.862
+        },
+        {
+          "w": "with",
+          "start": 14.897,
+          "end": 15.059
+        },
+        {
+          "w": "it.",
+          "start": 15.106,
+          "end": 16.058
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. How long until it's gone?",
+      "start": 16.6,
+      "end": 19.21,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 16.6,
+          "end": 17.157
+        },
+        {
+          "w": "How",
+          "start": 17.854,
+          "end": 18.04
+        },
+        {
+          "w": "long",
+          "start": 18.109,
+          "end": 18.295
+        },
+        {
+          "w": "until",
+          "start": 18.341,
+          "end": 18.55
+        },
+        {
+          "w": "it's",
+          "start": 18.597,
+          "end": 18.713
+        },
+        {
+          "w": "gone?",
+          "start": 18.748,
+          "end": 19.851
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Nineteen years. Thirteen grand paid. Eight thousand of it, interest.",
+      "start": 19.95,
+      "end": 25.75,
+      "words": [
+        {
+          "w": "Nineteen",
+          "start": 19.95,
+          "end": 20.438
+        },
+        {
+          "w": "years.",
+          "start": 20.496,
+          "end": 20.972
+        },
+        {
+          "w": "Thirteen",
+          "start": 21.25,
+          "end": 21.657
+        },
+        {
+          "w": "grand",
+          "start": 21.715,
+          "end": 21.935
+        },
+        {
+          "w": "paid.",
+          "start": 22.005,
+          "end": 22.411
+        },
+        {
+          "w": "Eight",
+          "start": 23.108,
+          "end": 23.317
+        },
+        {
+          "w": "thousand",
+          "start": 23.352,
+          "end": 23.712
+        },
+        {
+          "w": "of",
+          "start": 23.77,
+          "end": 23.839
+        },
+        {
+          "w": "it,",
+          "start": 23.897,
+          "end": 24.083
+        },
+        {
+          "w": "interest.",
+          "start": 24.199,
+          "end": 25.755
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "Now pay that first one forty-two every month, and never let it shrink.",
+      "start": 25.95,
+      "end": 29.8,
+      "words": [
+        {
+          "w": "Now",
+          "start": 25.95,
+          "end": 26.159
+        },
+        {
+          "w": "pay",
+          "start": 26.229,
+          "end": 26.391
+        },
+        {
+          "w": "that",
+          "start": 26.438,
+          "end": 26.565
+        },
+        {
+          "w": "first",
+          "start": 26.635,
+          "end": 26.879
+        },
+        {
+          "w": "one",
+          "start": 26.937,
+          "end": 27.076
+        },
+        {
+          "w": "forty-two",
+          "start": 27.123,
+          "end": 27.552
+        },
+        {
+          "w": "every",
+          "start": 27.622,
+          "end": 27.784
+        },
+        {
+          "w": "month,",
+          "start": 27.831,
+          "end": 28.144
+        },
+        {
+          "w": "and",
+          "start": 28.26,
+          "end": 28.4
+        },
+        {
+          "w": "never",
+          "start": 28.481,
+          "end": 28.667
+        },
+        {
+          "w": "let",
+          "start": 28.713,
+          "end": 28.829
+        },
+        {
+          "w": "it",
+          "start": 28.864,
+          "end": 28.934
+        },
+        {
+          "w": "shrink.",
+          "start": 28.969,
+          "end": 29.805
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Gone in under five years. You keep about five thousand dollars.",
+      "start": 30.0,
+      "end": 34.23,
+      "words": [
+        {
+          "w": "Gone",
+          "start": 30.0,
+          "end": 30.325
+        },
+        {
+          "w": "in",
+          "start": 30.348,
+          "end": 30.395
+        },
+        {
+          "w": "under",
+          "start": 30.441,
+          "end": 30.604
+        },
+        {
+          "w": "five",
+          "start": 30.662,
+          "end": 30.917
+        },
+        {
+          "w": "years.",
+          "start": 30.952,
+          "end": 31.451
+        },
+        {
+          "w": "You",
+          "start": 32.148,
+          "end": 32.276
+        },
+        {
+          "w": "keep",
+          "start": 32.334,
+          "end": 32.496
+        },
+        {
+          "w": "about",
+          "start": 32.543,
+          "end": 32.74
+        },
+        {
+          "w": "five",
+          "start": 32.798,
+          "end": 33.053
+        },
+        {
+          "w": "thousand",
+          "start": 33.088,
+          "end": 33.437
+        },
+        {
+          "w": "dollars.",
+          "start": 33.483,
+          "end": 34.923
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "The minimum isn't your plan. It's the bank's.",
+      "start": 35.2,
+      "end": 37.84,
+      "words": [
+        {
+          "w": "The",
+          "start": 35.2,
+          "end": 35.328
+        },
+        {
+          "w": "minimum",
+          "start": 35.374,
+          "end": 35.676
+        },
+        {
+          "w": "isn't",
+          "start": 35.734,
+          "end": 35.931
+        },
+        {
+          "w": "your",
+          "start": 35.966,
+          "end": 36.082
+        },
+        {
+          "w": "plan.",
+          "start": 36.129,
+          "end": 36.593
+        },
+        {
+          "w": "It's",
+          "start": 36.802,
+          "end": 37.0
+        },
+        {
+          "w": "the",
+          "start": 37.046,
+          "end": 37.116
+        },
+        {
+          "w": "bank's.",
+          "start": 37.162,
+          "end": 37.847
+        }
+      ]
+    }
+  ],
+  "money": {
+    "balance": 5000,
+    "apr": 0.22,
+    "min_formula": "max($25, 1% of balance + monthly interest) — a common issuer formula",
+    "first_min": 141.67,
+    "first_interest": 91.67,
+    "interest_share": 0.647,
+    "min_only": {
+      "months": 230,
+      "years": 19.2,
+      "total_paid": 13100,
+      "interest": 8100
+    },
+    "fixed_142": {
+      "months": 58,
+      "years": 4.8,
+      "total_paid": 8121,
+      "interest": 3121
+    },
+    "saved": 4979
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}

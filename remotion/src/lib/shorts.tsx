@@ -96,7 +96,7 @@ export const Captions: React.FC<{
           flexWrap: 'wrap',
           justifyContent: 'center',
           alignItems: 'center',
-          columnGap: size * 0.28,
+          columnGap: size * 0.42, // room for the active word's 1.05 punch-in so long words never touch
           rowGap: size * 0.14,
           maxWidth: '100%',
           ...(plate

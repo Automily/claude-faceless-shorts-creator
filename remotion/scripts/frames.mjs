@@ -3,6 +3,8 @@
 // Writes out/qa/<id>-f<frame>.png — phone-scale legibility checks for shorts.
 import { bundle } from '@remotion/bundler';
 import { selectComposition, renderStill } from '@remotion/renderer';
+// Optional: point Remotion at a local Chrome/Chromium instead of downloading one.
+const browserExecutable = process.env.REMOTION_BROWSER_EXECUTABLE || null;
 import { mkdirSync } from 'fs';
 import { fileURLToPath } from 'url';
 import path from 'path';
@@ -26,12 +28,12 @@ console.log('bundling...');
 // publicDir must be passed explicitly: remotion.config.ts only applies to the CLI,
 // not the programmatic bundle() API. ../media is the public root.
 const serveUrl = await bundle({ entryPoint: path.join(root, 'src', 'index.ts'), publicDir: path.join(root, '..', 'media') });
-const composition = await selectComposition({ serveUrl, id });
+const composition = await selectComposition({ browserExecutable, serveUrl, id });
 
 for (const frame of frames) {
   const f = Math.max(0, Math.min(composition.durationInFrames - 1, frame));
   const out = path.join(outDir, `${id}-f${String(f).padStart(4, '0')}.png`);
-  await renderStill({ serveUrl, composition, output: out, frame: f, scale: SCALE, overwrite: true, imageFormat: 'png' });
+  await renderStill({ browserExecutable, serveUrl, composition, output: out, frame: f, scale: SCALE, overwrite: true, imageFormat: 'png' });
   console.log('  ->', path.relative(root, out));
 }
 console.log('done');

@@ -15,32 +15,32 @@
       "beat": "hook",
       "text": "Astronauts aren't weightless. They're falling.",
       "start": 0.4,
-      "end": 2.85,
+      "end": 2.83,
       "words": [
         {
           "w": "Astronauts",
           "start": 0.4,
-          "end": 0.922
+          "end": 0.939
         },
         {
           "w": "aren't",
-          "start": 0.978,
-          "end": 1.194
+          "start": 1.006,
+          "end": 1.231
         },
         {
           "w": "weightless.",
-          "start": 1.251,
-          "end": 1.773
+          "start": 1.264,
+          "end": 1.781
         },
         {
           "w": "They're",
-          "start": 1.818,
-          "end": 2.068
+          "start": 1.871,
+          "end": 2.107
         },
         {
           "w": "falling.",
-          "start": 2.101,
-          "end": 2.85
+          "start": 2.14,
+          "end": 2.825
         }
       ]
     },
@@ -48,37 +48,37 @@
       "beat": "hook",
       "text": "They just keep missing the Earth.",
       "start": 2.9,
-      "end": 4.89,
+      "end": 5.08,
       "words": [
         {
           "w": "They",
           "start": 2.9,
-          "end": 3.063
+          "end": 3.109
         },
         {
           "w": "just",
-          "start": 3.121,
-          "end": 3.26
+          "start": 3.167,
+          "end": 3.341
         },
         {
           "w": "keep",
-          "start": 3.295,
-          "end": 3.446
+          "start": 3.399,
+          "end": 3.585
         },
         {
           "w": "missing",
-          "start": 3.492,
-          "end": 3.736
+          "start": 3.655,
+          "end": 3.91
         },
         {
           "w": "the",
-          "start": 3.771,
-          "end": 3.84
+          "start": 3.957,
+          "end": 4.026
         },
         {
           "w": "Earth.",
-          "start": 3.887,
-          "end": 4.897
+          "start": 4.084,
+          "end": 5.083
         }
       ]
     },
@@ -91,36 +91,36 @@
         {
           "w": "Newton",
           "start": 5.2,
-          "end": 5.467
+          "end": 5.502
         },
         {
           "w": "figured",
-          "start": 5.525,
-          "end": 5.78
+          "start": 5.548,
+          "end": 5.792
         },
         {
           "w": "this",
-          "start": 5.804,
-          "end": 5.92
+          "start": 5.815,
+          "end": 5.943
         },
         {
           "w": "out",
-          "start": 5.966,
-          "end": 6.071
+          "start": 6.001,
+          "end": 6.129
         },
         {
           "w": "with",
-          "start": 6.094,
-          "end": 6.187
-        },
-        {
-          "w": "a",
-          "start": 6.222,
+          "start": 6.152,
           "end": 6.245
         },
         {
+          "w": "a",
+          "start": 6.28,
+          "end": 6.303
+        },
+        {
           "w": "cannon.",
-          "start": 6.291,
+          "start": 6.338,
           "end": 7.011
         }
       ]
@@ -129,42 +129,42 @@
       "beat": "setup",
       "text": "Fire it slow, and the ball lands.",
       "start": 8.1,
-      "end": 10.51,
+      "end": 10.1,
       "words": [
         {
           "w": "Fire",
           "start": 8.1,
-          "end": 8.46
+          "end": 8.425
         },
         {
           "w": "it",
-          "start": 8.495,
-          "end": 8.564
+          "start": 8.46,
+          "end": 8.53
         },
         {
           "w": "slow,",
-          "start": 8.622,
-          "end": 9.122
+          "start": 8.576,
+          "end": 8.878
         },
         {
           "w": "and",
-          "start": 9.157,
-          "end": 9.319
+          "start": 8.901,
+          "end": 8.971
         },
         {
           "w": "the",
-          "start": 9.365,
-          "end": 9.435
+          "start": 9.006,
+          "end": 9.075
         },
         {
           "w": "ball",
-          "start": 9.493,
-          "end": 9.714
+          "start": 9.11,
+          "end": 9.296
         },
         {
           "w": "lands.",
-          "start": 9.772,
-          "end": 10.515
+          "start": 9.354,
+          "end": 10.097
         }
       ]
     },
@@ -172,42 +172,42 @@
       "beat": "setup",
       "text": "Fire it faster, it lands further away.",
       "start": 10.9,
-      "end": 13.66,
+      "end": 13.62,
       "words": [
         {
           "w": "Fire",
           "start": 10.9,
-          "end": 11.169
+          "end": 11.218
         },
         {
           "w": "it",
-          "start": 11.199,
-          "end": 11.259
+          "start": 11.249,
+          "end": 11.31
         },
         {
           "w": "faster,",
-          "start": 11.298,
-          "end": 11.836
+          "start": 11.362,
+          "end": 11.783
         },
         {
           "w": "it",
-          "start": 11.936,
-          "end": 12.036
+          "start": 11.804,
+          "end": 11.876
         },
         {
           "w": "lands",
-          "start": 12.086,
-          "end": 12.295
+          "start": 11.938,
+          "end": 12.184
         },
         {
           "w": "further",
-          "start": 12.335,
-          "end": 12.584
+          "start": 12.235,
+          "end": 12.513
         },
         {
           "w": "away.",
-          "start": 12.634,
-          "end": 13.65
+          "start": 12.564,
+          "end": 13.611
         }
       ]
     },
@@ -215,85 +215,85 @@
       "beat": "quiz",
       "text": "Pause. What if you fire it fast enough?",
       "start": 13.7,
-      "end": 17.18,
+      "end": 16.58,
       "words": [
         {
           "w": "Pause.",
           "start": 13.7,
-          "end": 14.246
+          "end": 14.222
         },
         {
           "w": "What",
-          "start": 15.058,
-          "end": 15.233
+          "start": 14.664,
+          "end": 14.826
         },
         {
           "w": "if",
-          "start": 15.267,
-          "end": 15.314
+          "start": 14.849,
+          "end": 14.896
         },
         {
           "w": "you",
-          "start": 15.349,
-          "end": 15.418
+          "start": 14.931,
+          "end": 15.0
         },
         {
           "w": "fire",
-          "start": 15.476,
-          "end": 15.72
+          "start": 15.07,
+          "end": 15.325
         },
         {
           "w": "it",
-          "start": 15.755,
-          "end": 15.825
+          "start": 15.36,
+          "end": 15.43
         },
         {
           "w": "fast",
-          "start": 15.859,
-          "end": 16.138
+          "start": 15.476,
+          "end": 15.767
         },
         {
           "w": "enough?",
-          "start": 16.196,
-          "end": 17.183
+          "start": 15.825,
+          "end": 16.579
         }
       ]
     },
     {
       "beat": "reveal",
-      "text": "Three kilometres a second. Five. Seven.",
+      "text": "Three kilometers a second. Five. Seven.",
       "start": 17.6,
-      "end": 22.14,
+      "end": 20.24,
       "words": [
         {
           "w": "Three",
           "start": 17.6,
-          "end": 17.855
+          "end": 17.844
         },
         {
-          "w": "kilometres",
-          "start": 17.902,
-          "end": 18.366
+          "w": "kilometers",
+          "start": 17.879,
+          "end": 18.297
         },
         {
           "w": "a",
-          "start": 18.413,
-          "end": 18.448
+          "start": 18.343,
+          "end": 18.366
         },
         {
           "w": "second.",
-          "start": 18.506,
-          "end": 19.005
+          "start": 18.413,
+          "end": 18.796
         },
         {
           "w": "Five.",
-          "start": 19.7,
-          "end": 20.246
+          "start": 18.877,
+          "end": 19.295
         },
         {
           "w": "Seven.",
-          "start": 20.943,
-          "end": 22.15
+          "start": 19.411,
+          "end": 20.247
         }
       ]
     },
@@ -301,7 +301,7 @@
       "beat": "reveal",
       "text": "At seven point seven, it never lands.",
       "start": 22.2,
-      "end": 24.8,
+      "end": 24.61,
       "words": [
         {
           "w": "At",
@@ -310,33 +310,33 @@
         },
         {
           "w": "seven",
-          "start": 22.455,
-          "end": 22.711
+          "start": 22.444,
+          "end": 22.676
         },
         {
           "w": "point",
-          "start": 22.757,
-          "end": 22.966
+          "start": 22.722,
+          "end": 22.92
         },
         {
           "w": "seven,",
-          "start": 23.024,
-          "end": 23.373
+          "start": 22.978,
+          "end": 23.303
         },
         {
           "w": "it",
-          "start": 23.419,
-          "end": 23.547
+          "start": 23.338,
+          "end": 23.465
         },
         {
           "w": "never",
-          "start": 23.628,
-          "end": 23.872
+          "start": 23.558,
+          "end": 23.791
         },
         {
           "w": "lands.",
-          "start": 23.93,
-          "end": 24.801
+          "start": 23.849,
+          "end": 24.615
         }
       ]
     },
@@ -344,17 +344,17 @@
       "beat": "reveal",
       "text": "It just falls around the planet. That's orbit.",
       "start": 25.8,
-      "end": 28.68,
+      "end": 29.0,
       "words": [
         {
           "w": "It",
           "start": 25.8,
-          "end": 25.951
+          "end": 25.963
         },
         {
           "w": "just",
           "start": 25.997,
-          "end": 26.137
+          "end": 26.125
         },
         {
           "w": "falls",
@@ -364,27 +364,27 @@
         {
           "w": "around",
           "start": 26.45,
-          "end": 26.648
+          "end": 26.636
         },
         {
           "w": "the",
-          "start": 26.671,
-          "end": 26.74
+          "start": 26.659,
+          "end": 26.729
         },
         {
           "w": "planet.",
-          "start": 26.764,
-          "end": 27.193
+          "start": 26.752,
+          "end": 27.205
         },
         {
           "w": "That's",
-          "start": 27.344,
-          "end": 27.588
+          "start": 27.588,
+          "end": 27.832
         },
         {
           "w": "orbit.",
-          "start": 27.634,
-          "end": 28.679
+          "start": 27.878,
+          "end": 29.004
         }
       ]
     },
@@ -392,110 +392,105 @@
       "beat": "twist",
       "text": "Up there, gravity is still nearly ninety percent as strong.",
       "start": 29.8,
-      "end": 33.88,
+      "end": 33.83,
       "words": [
         {
           "w": "Up",
           "start": 29.8,
-          "end": 29.986
+          "end": 30.009
         },
         {
           "w": "there,",
-          "start": 30.044,
-          "end": 30.473
+          "start": 30.067,
+          "end": 30.427
         },
         {
           "w": "gravity",
-          "start": 30.752,
-          "end": 31.147
+          "start": 30.601,
+          "end": 31.019
         },
         {
           "w": "is",
-          "start": 31.205,
-          "end": 31.263
+          "start": 31.065,
+          "end": 31.124
         },
         {
           "w": "still",
-          "start": 31.298,
-          "end": 31.507
+          "start": 31.158,
+          "end": 31.379
         },
         {
           "w": "nearly",
-          "start": 31.576,
-          "end": 31.855
+          "start": 31.449,
+          "end": 31.704
         },
         {
           "w": "ninety",
-          "start": 31.936,
-          "end": 32.18
+          "start": 31.785,
+          "end": 32.029
         },
         {
           "w": "percent",
-          "start": 32.226,
-          "end": 32.517
+          "start": 32.087,
+          "end": 32.412
         },
         {
           "w": "as",
-          "start": 32.552,
-          "end": 32.61
+          "start": 32.459,
+          "end": 32.528
         },
         {
           "w": "strong.",
-          "start": 32.633,
-          "end": 33.887
+          "start": 32.563,
+          "end": 33.84
         }
       ]
     },
     {
       "beat": "twist",
-      "text": "Every second, the station falls four point three metres.",
+      "text": "Every second, it falls four point three meters.",
       "start": 34.0,
-      "end": 37.16,
+      "end": 37.12,
       "words": [
         {
           "w": "Every",
           "start": 34.0,
-          "end": 34.256
+          "end": 34.289
         },
         {
           "w": "second,",
-          "start": 34.305,
-          "end": 34.649
+          "start": 34.345,
+          "end": 34.745
         },
         {
-          "w": "the",
-          "start": 34.777,
-          "end": 34.867
-        },
-        {
-          "w": "station",
-          "start": 34.916,
-          "end": 35.191
+          "w": "it",
+          "start": 34.889,
+          "end": 35.012
         },
         {
           "w": "falls",
-          "start": 35.24,
-          "end": 35.437
+          "start": 35.067,
+          "end": 35.3
         },
         {
           "w": "four",
-          "start": 35.496,
-          "end": 35.683
+          "start": 35.367,
+          "end": 35.555
         },
         {
           "w": "point",
-          "start": 35.732,
-          "end": 35.909
+          "start": 35.622,
+          "end": 35.811
         },
         {
           "w": "three",
-          "start": 35.949,
-          "end": 36.116
+          "start": 35.844,
+          "end": 36.022
         },
         {
-          "w": "metres.",
-          "start": 36.156,
-          "end": 37.15
+          "w": "meters.",
+          "start": 36.066,
+          "end": 37.111
         }
       ]
     },
@@ -503,7 +498,7 @@
       "beat": "payoff",
       "text": "And the Earth curves away by exactly the same amount.",
       "start": 37.2,
-      "end": 40.07,
+      "end": 40.16,
       "words": [
         {
           "w": "And",
@@ -513,47 +508,47 @@
         {
           "w": "the",
           "start": 37.432,
-          "end": 37.502
+          "end": 37.513
         },
         {
           "w": "Earth",
-          "start": 37.56,
-          "end": 37.757
+          "start": 37.583,
+          "end": 37.815
         },
         {
           "w": "curves",
-          "start": 37.815,
-          "end": 38.071
+          "start": 37.873,
+          "end": 38.152
         },
         {
           "w": "away",
-          "start": 38.117,
-          "end": 38.315
+          "start": 38.187,
+          "end": 38.396
         },
         {
           "w": "by",
-          "start": 38.373,
-          "end": 38.489
+          "start": 38.454,
+          "end": 38.558
         },
         {
           "w": "exactly",
-          "start": 38.582,
-          "end": 39.069
+          "start": 38.628,
+          "end": 39.116
         },
         {
           "w": "the",
-          "start": 39.116,
-          "end": 39.185
+          "start": 39.162,
+          "end": 39.232
         },
         {
           "w": "same",
-          "start": 39.22,
-          "end": 39.418
+          "start": 39.278,
+          "end": 39.499
         },
         {
           "w": "amount.",
-          "start": 39.452,
-          "end": 40.079
+          "start": 39.522,
+          "end": 40.172
         }
       ]
     }

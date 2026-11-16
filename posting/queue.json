@@ -1,0 +1,241 @@
+{
+  "_doc": "Posting queue. status: building -> needs-voice -> ready -> sent. At each slot (11:45 + 18:45 ET) the oldest 'ready' item per channel is sent to the user with its caption, then marked 'sent'. No ready item = slot skipped, never filler. Final mp4s live in posting/ready/ (committed: they carry paid voice).",
+  "slots_et": [
+    "11:45",
+    "18:45"
+  ],
+  "items": [
+    {
+      "id": "fp-001",
+      "channel": "The Fine Print",
+      "short": "shorts/short-10-fees",
+      "video": "posting/ready/fp-001.mp4",
+      "status": "sent",
+      "title": "The 1% fee that eats 24% of your retirement",
+      "caption": "1% sounds like nothing. Over 40 years it quietly takes a quarter of your money. Here's the math.",
+      "hashtags": "#personalfinance #investing #retirement #moneytips #financialliteracy",
+      "sent_at": "2026-11-14T11:45-05:00"
+    },
+    {
+      "id": "fp-002",
+      "channel": "The Fine Print",
+      "short": "shorts/short-13-tax",
+      "video": "posting/ready/fp-002.mp4",
+      "status": "sent",
+      "title": "A raise can't lower your pay (the tax bracket myth)",
+      "caption": "Getting bumped into the 22% bracket doesn't put your whole paycheck at 22%. Only the dollars above the line. Here's the math on a $1,000 raise.",
+      "hashtags": "#taxes #personalfinance #moneytips #taxbrackets #financialliteracy",
+      "sent_at": "2026-11-14T18:45-05:00"
+    },
+    {
+      "id": "fp-003",
+      "channel": "The Fine Print",
+      "short": "shorts/short-14-minpay",
+      "video": "posting/ready/fp-003.mp4",
+      "status": "sent",
+      "title": "The minimum payment trap: $5,000, 19 years",
+      "caption": "Pay only the minimum on a $5,000 card at 22% and it takes 19 years and $8,100 in interest. Keep paying that first payment instead and it's gone in under 5.",
+      "hashtags": "#creditcard #debt #personalfinance #moneytips #financialliteracy",
+      "sent_at": "2026-11-15T11:45-05:00"
+    },
+    {
+      "id": "fp-004",
+      "channel": "The Fine Print",
+      "short": "shorts/short-15-loss",
+      "video": "posting/ready/fp-004.mp4",
+      "status": "sent",
+      "title": "Lose 20%, gain 20%... you're still down",
+      "caption": "$10,000 drops 20% to $8,000. A 20% gain only gets you to $9,600. You need 25% just to break even, and a 50% loss needs 100%.",
+      "hashtags": "#investing #stockmarket #personalfinance #moneytips #financialliteracy",
+      "sent_at": "2026-11-15T18:45-05:00"
+    },
+    {
+      "id": "fp-005",
+      "channel": "The Fine Print",
+      "short": "shorts/short-18-match",
+      "video": "posting/ready/fp-005.mp4",
+      "status": "sent",
+      "title": "The only instant 100% return (your 401k match)",
+      "caption": "You put in $2,400, your employer adds $2,400. That's a 100% return on day one. Over 30 years, just the free half can grow to about $227K. Match terms and vesting vary.",
+      "hashtags": "#401k #retirement #personalfinance #investing #moneytips",
+      "sent_at": "2026-11-16T11:45-05:00"
+    },
+    {
+      "id": "fp-006",
+      "channel": "The Fine Print",
+      "short": "shorts/short-19-rule72",
+      "video": "posting/ready/fp-006.mp4",
+      "status": "sent",
+      "title": "When does your money double? Divide 72 by the rate",
+      "caption": "At 8%, 72 ÷ 8 = 9 years to double. $10K becomes about $160K in 36 years. The same rule says a 24% credit card doubles your balance in about 3.",
+      "hashtags": "#investing #ruleof72 #personalfinance #compoundinterest #moneytips",
+      "sent_at": "2026-11-16T18:45-05:00"
+    },
+    {
+      "id": "fp-007",
+      "channel": "The Fine Print",
+      "short": "shorts/short-21-inflation",
+      "video": "posting/ready/fp-007.mp4",
+      "status": "ready",
+      "title": "Your cash says $10,000. In 24 years it buys half.",
+      "caption": "At 3% inflation, cash sitting at 0% loses half its buying power in about 24 years (72 ÷ 3). The number never changes. What it buys does.",
+      "hashtags": "#inflation #personalfinance #savings #moneytips #financialliteracy"
+    },
+    {
+      "id": "fp-008",
+      "channel": "The Fine Print",
+      "short": "shorts/short-23-carloan",
+      "video": "posting/ready/fp-008.mp4",
+      "status": "ready",
+      "title": "The lower car payment that costs $3,124 more",
+      "caption": "$40,000 car at 7% (example). 4 years: $958/mo, $5,977 interest. 6 years: $682/mo, $9,101 interest. 7 years: over $10,700. A smaller payment isn't a cheaper car.",
+      "hashtags": "#carbuying #carloan #personalfinance #moneytips #debt"
+    },
+    {
+      "id": "fp-009",
+      "channel": "The Fine Print",
+      "short": "shorts/short-25-deferred",
+      "video": "posting/ready/fp-009.mp4",
+      "status": "ready",
+      "title": "\"No interest for 12 months\" — miss by $1, pay $195",
+      "caption": "$1,200 TV on a store card, 0% if paid in full in 12 months. Leave $1 and you can owe ~$195 of interest on the full amount, back to day one. Look for the word \"deferred.\" (Example at 29.99% APR; terms vary.)",
+      "hashtags": "#creditcard #personalfinance #moneytips #debt #finance"
+    },
+    {
+      "id": "fp-010",
+      "channel": "The Fine Print",
+      "short": "shorts/short-27-jackpot",
+      "video": "posting/ready/fp-010.mp4",
+      "status": "ready",
+      "title": "A $1 billion jackpot isn't $1 billion",
+      "caption": "The advertised jackpot is 30 payments over 29 years, each 5% bigger than the last. Take the cash today and it's under half: about $450M on a ~$1B jackpot, before taxes.",
+      "hashtags": "#lottery #powerball #personalfinance #moneytips #finance"
+    },
+    {
+      "id": "fp-011",
+      "channel": "The Fine Print",
+      "short": "shorts/short-29-mortgage",
+      "video": "posting/ready/fp-011.mp4",
+      "status": "ready",
+      "title": "A $400K mortgage costs $910K",
+      "caption": "30 years at 6.5% (example): $2,528/mo, and $510K of it is interest. More than the house. Add $200/mo to principal and you finish 5.6 years early and keep ~$112K.",
+      "hashtags": "#mortgage #homebuying #personalfinance #moneytips #realestate"
+    },
+    {
+      "id": "fw-001",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-5-prob",
+      "video": "posting/ready/fw-001.mp4",
+      "status": "sent",
+      "title": "Switching doors doubles your odds (it feels wrong)",
+      "caption": "Three doors, one car. Switching wins 2 out of 3 times. Your gut says 50/50. Your gut is wrong.",
+      "hashtags": "#math #probability #montyhall #paradox #mindblown",
+      "sent_at": "2026-11-14T11:45-05:00"
+    },
+    {
+      "id": "fw-002",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-11-map",
+      "video": "posting/ready/fw-002.mp4",
+      "status": "sent",
+      "title": "Africa is 14x bigger than Greenland. Your map lied.",
+      "caption": "On the map on your wall they look the same size. They are not even close.",
+      "hashtags": "#geography #maps #mercator #mindblown #learnontiktok",
+      "sent_at": "2026-11-14T18:45-05:00"
+    },
+    {
+      "id": "fw-003",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-12-orbit",
+      "video": "posting/ready/fw-003.mp4",
+      "status": "sent",
+      "title": "Astronauts aren't weightless. They're falling.",
+      "caption": "Gravity on the space station is about 90% of what you feel right now. So why do they float?",
+      "hashtags": "#physics #space #science #mindblown #learnontiktok",
+      "sent_at": "2026-11-15T11:45-05:00"
+    },
+    {
+      "id": "fw-004",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-2-math",
+      "video": "posting/ready/fw-004.mp4",
+      "status": "sent",
+      "title": "Multiply any number by 11 in your head",
+      "caption": "No calculator, two seconds. Pause and try 72 x 11 first.",
+      "hashtags": "#math #mathtricks #mentalmath #learnontiktok #mathfacts",
+      "sent_at": "2026-11-15T18:45-05:00"
+    },
+    {
+      "id": "fw-005",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-16-bday",
+      "video": "posting/ready/fw-005.mp4",
+      "status": "sent",
+      "title": "23 people, 50% chance two share a birthday",
+      "caption": "365 days, only 23 people, and it's a coin flip. The trick: it's not 23 chances, it's 253 pairs. At 70 people it's 99.9%.",
+      "hashtags": "#math #probability #birthdayparadox #mindblown #learnontiktok",
+      "sent_at": "2026-11-16T11:45-05:00"
+    },
+    {
+      "id": "fw-006",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-17-billion",
+      "video": "posting/ready/fw-006.mp4",
+      "status": "sent",
+      "title": "A million seconds is 11 days. A billion is 31 years.",
+      "caption": "One letter apart, so your brain files them side by side. A billion seconds ago was early 1995. A trillion seconds ago, people were painting cave walls.",
+      "hashtags": "#math #numbers #mindblown #mathfacts #learnontiktok",
+      "sent_at": "2026-11-16T18:45-05:00"
+    },
+    {
+      "id": "fw-007",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-20-bus",
+      "video": "posting/ready/fw-007.mp4",
+      "status": "ready",
+      "title": "Buses every 10 minutes. Why do you wait 10, not 5?",
+      "caption": "Long gaps catch more riders because they're long. Here 78% of riders land in the two long gaps, so the average wait is the full 10 minutes. Same reason classes feel bigger than the school says.",
+      "hashtags": "#math #probability #paradox #mindblown #statistics"
+    },
+    {
+      "id": "fw-008",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-22-test",
+      "video": "posting/ready/fw-008.mp4",
+      "status": "ready",
+      "title": "A 99% accurate test says you're sick. You're probably fine.",
+      "caption": "Rare disease, 1 in 1,000. Test 1,000 people: 1 real positive, about 10 false alarms. So a positive means about a 9% chance. Test positive twice and it jumps to 91%. (Illustration, not medical advice.)",
+      "hashtags": "#math #probability #statistics #mindblown #learnontiktok"
+    },
+    {
+      "id": "fw-009",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-24-friends",
+      "video": "posting/ready/fw-009.mp4",
+      "status": "ready",
+      "title": "Your friends have more friends than you (it's math)",
+      "caption": "In this friend group, 7 of 8 people have fewer friends than their friends do. Popular people show up on everyone's list, so they get counted again and again. Scientists use it to spot flu outbreaks up to 2 weeks early.",
+      "hashtags": "#math #friendshipparadox #statistics #mindblown #learnontiktok"
+    },
+    {
+      "id": "fw-010",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-26-point9",
+      "video": "posting/ready/fw-010.mp4",
+      "status": "ready",
+      "title": "0.999... = 1. Not almost. Exactly.",
+      "caption": "1/3 = 0.333... Multiply by 3: 3/3 = 0.999... and 3/3 is 1. Still not sure? Try to find a number between them. There isn't one.",
+      "hashtags": "#math #mathfacts #mindblown #infinity #learnontiktok"
+    },
+    {
+      "id": "fw-011",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-28-simpson",
+      "video": "posting/ready/fw-011.mp4",
+      "status": "ready",
+      "title": "Wins both groups. Loses overall. (Real data)",
+      "caption": "Kidney stone study: treatment A beat B for small stones (93% vs 87%) and large stones (73% vs 69%), but lost overall (78% vs 83%). A got the hard cases. That's Simpson's paradox.",
+      "hashtags": "#statistics #math #simpsonsparadox #mindblown #datascience"
+    }
+  ]
+}
