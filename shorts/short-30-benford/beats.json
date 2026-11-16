@@ -1,0 +1,78 @@
+{
+  "id": "short-30-benford",
+  "title": "Why So Many Numbers Start With 1",
+  "composition": "Short30Benford",
+  "channel": "Feels Wrong",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 40
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "In real-world numbers, almost a third start with a one. Only about one in twenty start with a nine.",
+      "start": 0.4,
+      "end": 6.4
+    },
+    {
+      "beat": "setup",
+      "text": "You'd expect every first digit about eleven percent of the time.",
+      "start": 6.6,
+      "end": 10.2
+    },
+    {
+      "beat": "setup",
+      "text": "Take the first thousand powers of two. Two, four, eight, sixteen, and on.",
+      "start": 10.4,
+      "end": 15.2
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. How many start with a one?",
+      "start": 15.4,
+      "end": 18.2
+    },
+    {
+      "beat": "reveal",
+      "text": "Three hundred and one. Thirty percent. Nines? Just forty-five.",
+      "start": 18.4,
+      "end": 23.4
+    },
+    {
+      "beat": "reveal",
+      "text": "It's Benford's law. Populations, prices, river lengths: lots of real data does this.",
+      "start": 23.6,
+      "end": 29.2
+    },
+    {
+      "beat": "twist",
+      "text": "So when someone makes numbers up, the digits come out too even. Auditors check for exactly that.",
+      "start": 29.4,
+      "end": 35.4
+    },
+    {
+      "beat": "loop",
+      "text": "Ones everywhere. Nines almost never.",
+      "start": 35.6,
+      "end": 38.4
+    }
+  ],
+  "facts": {
+    "benford": "P(d)=log10(1+1/d): 1 -> 30.1%, 9 -> 4.6%",
+    "powers_of_2_1_to_1000": {
+      "1": 301,
+      "2": 176,
+      "3": 125,
+      "4": 97,
+      "5": 79,
+      "6": 69,
+      "7": 56,
+      "8": 52,
+      "9": 45
+    },
+    "uses": "Benford analysis is a standard forensic-accounting screen for fabricated figures (e.g. Nigrini)"
+  }
+}
