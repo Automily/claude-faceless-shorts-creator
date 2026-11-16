@@ -54,10 +54,11 @@
       "channel": "The Fine Print",
       "short": "shorts/short-18-match",
       "video": "posting/ready/fp-005.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "The only instant 100% return (your 401k match)",
       "caption": "You put in $2,400, your employer adds $2,400. That's a 100% return on day one. Over 30 years, just the free half can grow to about $227K. Match terms and vesting vary.",
-      "hashtags": "#401k #retirement #personalfinance #investing #moneytips"
+      "hashtags": "#401k #retirement #personalfinance #investing #moneytips",
+      "sent_at": "2026-11-16T11:45-05:00"
     },
     {
       "id": "fp-006",
@@ -158,10 +159,11 @@
       "channel": "Feels Wrong",
       "short": "shorts/short-16-bday",
       "video": "posting/ready/fw-005.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "23 people, 50% chance two share a birthday",
       "caption": "365 days, only 23 people, and it's a coin flip. The trick: it's not 23 chances, it's 253 pairs. At 70 people it's 99.9%.",
-      "hashtags": "#math #probability #birthdayparadox #mindblown #learnontiktok"
+      "hashtags": "#math #probability #birthdayparadox #mindblown #learnontiktok",
+      "sent_at": "2026-11-16T11:45-05:00"
     },
     {
       "id": "fw-006",
