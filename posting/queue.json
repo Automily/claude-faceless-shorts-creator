@@ -214,6 +214,16 @@
       "title": "0.999... = 1. Not almost. Exactly.",
       "caption": "1/3 = 0.333... Multiply by 3: 3/3 = 0.999... and 3/3 is 1. Still not sure? Try to find a number between them. There isn't one.",
       "hashtags": "#math #mathfacts #mindblown #infinity #learnontiktok"
+    },
+    {
+      "id": "fw-011",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-28-simpson",
+      "video": "posting/ready/fw-011.mp4",
+      "status": "ready",
+      "title": "Wins both groups. Loses overall. (Real data)",
+      "caption": "Kidney stone study: treatment A beat B for small stones (93% vs 87%) and large stones (73% vs 69%), but lost overall (78% vs 83%). A got the hard cases. That's Simpson's paradox.",
+      "hashtags": "#statistics #math #simpsonsparadox #mindblown #datascience"
     }
   ]
 }
