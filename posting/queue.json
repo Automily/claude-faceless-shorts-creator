@@ -76,10 +76,11 @@
       "channel": "The Fine Print",
       "short": "shorts/short-21-inflation",
       "video": "posting/ready/fp-007.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "Your cash says $10,000. In 24 years it buys half.",
       "caption": "At 3% inflation, cash sitting at 0% loses half its buying power in about 24 years (72 ÷ 3). The number never changes. What it buys does.",
-      "hashtags": "#inflation #personalfinance #savings #moneytips #financialliteracy"
+      "hashtags": "#inflation #personalfinance #savings #moneytips #financialliteracy",
+      "sent_at": "2026-11-17T11:45-05:00"
     },
     {
       "id": "fp-008",
@@ -192,10 +193,11 @@
       "channel": "Feels Wrong",
       "short": "shorts/short-20-bus",
       "video": "posting/ready/fw-007.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "Buses every 10 minutes. Why do you wait 10, not 5?",
       "caption": "Long gaps catch more riders because they're long. Here 78% of riders land in the two long gaps, so the average wait is the full 10 minutes. Same reason classes feel bigger than the school says.",
-      "hashtags": "#math #probability #paradox #mindblown #statistics"
+      "hashtags": "#math #probability #paradox #mindblown #statistics",
+      "sent_at": "2026-11-17T11:45-05:00"
     },
     {
       "id": "fw-008",
