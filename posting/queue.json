@@ -87,10 +87,11 @@
       "channel": "The Fine Print",
       "short": "shorts/short-23-carloan",
       "video": "posting/ready/fp-008.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "The lower car payment that costs $3,124 more",
       "caption": "$40,000 car at 7% (example). 4 years: $958/mo, $5,977 interest. 6 years: $682/mo, $9,101 interest. 7 years: over $10,700. A smaller payment isn't a cheaper car.",
-      "hashtags": "#carbuying #carloan #personalfinance #moneytips #debt"
+      "hashtags": "#carbuying #carloan #personalfinance #moneytips #debt",
+      "sent_at": "2026-11-17T18:45-05:00"
     },
     {
       "id": "fp-009",
@@ -204,10 +205,11 @@
       "channel": "Feels Wrong",
       "short": "shorts/short-22-test",
       "video": "posting/ready/fw-008.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "A 99% accurate test says you're sick. You're probably fine.",
       "caption": "Rare disease, 1 in 1,000. Test 1,000 people: 1 real positive, about 10 false alarms. So a positive means about a 9% chance. Test positive twice and it jumps to 91%. (Illustration, not medical advice.)",
-      "hashtags": "#math #probability #statistics #mindblown #learnontiktok"
+      "hashtags": "#math #probability #statistics #mindblown #learnontiktok",
+      "sent_at": "2026-11-17T18:45-05:00"
     },
     {
       "id": "fw-009",
