@@ -109,10 +109,11 @@
       "channel": "The Fine Print",
       "short": "shorts/short-27-jackpot",
       "video": "posting/ready/fp-010.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "A $1 billion jackpot isn't $1 billion",
       "caption": "The advertised jackpot is 30 payments over 29 years, each 5% bigger than the last. Take the cash today and it's under half: about $450M on a ~$1B jackpot, before taxes.",
-      "hashtags": "#lottery #powerball #personalfinance #moneytips #finance"
+      "hashtags": "#lottery #powerball #personalfinance #moneytips #finance",
+      "sent_at": "2026-11-18T18:45-05:00"
     },
     {
       "id": "fp-011",
@@ -228,10 +229,11 @@
       "channel": "Feels Wrong",
       "short": "shorts/short-26-point9",
       "video": "posting/ready/fw-010.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "0.999... = 1. Not almost. Exactly.",
       "caption": "1/3 = 0.333... Multiply by 3: 3/3 = 0.999... and 3/3 is 1. Still not sure? Try to find a number between them. There isn't one.",
-      "hashtags": "#math #mathfacts #mindblown #infinity #learnontiktok"
+      "hashtags": "#math #mathfacts #mindblown #infinity #learnontiktok",
+      "sent_at": "2026-11-18T18:45-05:00"
     },
     {
       "id": "fw-011",
