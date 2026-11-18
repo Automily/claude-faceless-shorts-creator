@@ -98,10 +98,11 @@
       "channel": "The Fine Print",
       "short": "shorts/short-25-deferred",
       "video": "posting/ready/fp-009.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "\"No interest for 12 months\" — miss by $1, pay $195",
       "caption": "$1,200 TV on a store card, 0% if paid in full in 12 months. Leave $1 and you can owe ~$195 of interest on the full amount, back to day one. Look for the word \"deferred.\" (Example at 29.99% APR; terms vary.)",
-      "hashtags": "#creditcard #personalfinance #moneytips #debt #finance"
+      "hashtags": "#creditcard #personalfinance #moneytips #debt #finance",
+      "sent_at": "2026-11-18T11:45-05:00"
     },
     {
       "id": "fp-010",
@@ -216,10 +217,11 @@
       "channel": "Feels Wrong",
       "short": "shorts/short-24-friends",
       "video": "posting/ready/fw-009.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "Your friends have more friends than you (it's math)",
       "caption": "In this friend group, 7 of 8 people have fewer friends than their friends do. Popular people show up on everyone's list, so they get counted again and again. Scientists use it to spot flu outbreaks up to 2 weeks early.",
-      "hashtags": "#math #friendshipparadox #statistics #mindblown #learnontiktok"
+      "hashtags": "#math #friendshipparadox #statistics #mindblown #learnontiktok",
+      "sent_at": "2026-11-18T11:45-05:00"
     },
     {
       "id": "fw-010",
