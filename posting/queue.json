@@ -120,10 +120,11 @@
       "channel": "The Fine Print",
       "short": "shorts/short-29-mortgage",
       "video": "posting/ready/fp-011.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "A $400K mortgage costs $910K",
       "caption": "30 years at 6.5% (example): $2,528/mo, and $510K of it is interest. More than the house. Add $200/mo to principal and you finish 5.6 years early and keep ~$112K.",
-      "hashtags": "#mortgage #homebuying #personalfinance #moneytips #realestate"
+      "hashtags": "#mortgage #homebuying #personalfinance #moneytips #realestate",
+      "sent_at": "2026-11-19T11:45-05:00"
     },
     {
       "id": "fw-001",
@@ -240,10 +241,11 @@
       "channel": "Feels Wrong",
       "short": "shorts/short-28-simpson",
       "video": "posting/ready/fw-011.mp4",
-      "status": "ready",
+      "status": "sent",
       "title": "Wins both groups. Loses overall. (Real data)",
       "caption": "Kidney stone study: treatment A beat B for small stones (93% vs 87%) and large stones (73% vs 69%), but lost overall (78% vs 83%). A got the hard cases. That's Simpson's paradox.",
-      "hashtags": "#statistics #math #simpsonsparadox #mindblown #datascience"
+      "hashtags": "#statistics #math #simpsonsparadox #mindblown #datascience",
+      "sent_at": "2026-11-19T11:45-05:00"
     }
   ]
 }
