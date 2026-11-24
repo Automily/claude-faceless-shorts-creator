@@ -295,20 +295,22 @@
    "channel": "Candlelit Tales",
    "short": "tales/tale-2-monkeys-paw",
    "video": "posting/ready/tale-002.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "Three wishes. The third one knocked at the door.",
    "caption": "The Monkey's Paw (W. W. Jacobs, 1902). A cursed paw grants three wishes to prove that fate punishes anyone who meddles with it. The first wish was for £200. The second wish... you'll see. What would you have done with the last one? 🕯️",
-   "hashtags": "#themonkeyspaw #scarystories #horrorstory #storytime #animation"
+   "hashtags": "#themonkeyspaw #scarystories #horrorstory #storytime #animation",
+   "sent_at": "2026-11-24T22:45:58+00:00"
   },
   {
    "id": "fp-014",
    "channel": "The Fine Print",
    "short": "shorts/short-33-util",
    "video": "posting/ready/fp-014.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "You paid in full. Your credit score still dropped.",
    "caption": "Your card usually reports your balance on the statement date, not the due date. Spend $900 on a $1,000 limit and pay it off on time: the bureaus still see 90% utilization. Amounts owed are about 30% of a FICO score. Pay before the statement closes and they see $50 instead, which is 5%. Same card, same spending, different date. (Illustrative, not advice.)",
-   "hashtags": "#creditscore #creditcard #personalfinance #moneytips #fico"
+   "hashtags": "#creditscore #creditcard #personalfinance #moneytips #fico",
+   "sent_at": "2026-11-24T22:45:58+00:00"
   },
   {
    "id": "tale-003",
