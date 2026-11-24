@@ -1,0 +1,138 @@
+{
+  "master": "remotion/out/Tale1GodfatherDeath-voiced.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "remotion/out/Tale1GodfatherDeath-voiced.mp4",
+    "out": "tales/tale-1-godfather-death/output/tale-1-sfx.mp4",
+    "end_s": 53.5,
+    "duck": true
+  },
+  "note": "100% library. Heroes: the bed spin, the flame falling into blackout.",
+  "events": [
+    {
+      "at_s": 0.4,
+      "sfx_id": "wind-soft",
+      "gain_db": -16,
+      "cue": "night wind bed under the hook",
+      "optional": true
+    },
+    {
+      "at_s": 5.3,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -11,
+      "cue": "to the poor man"
+    },
+    {
+      "at_s": 6.4,
+      "sfx_id": "whoosh-wind",
+      "gain_db": -12,
+      "cue": "Death arrives"
+    },
+    {
+      "at_s": 14.4,
+      "sfx_id": "chime-magic",
+      "gain_db": -13,
+      "cue": "\"look for me\": Death's eyes"
+    },
+    {
+      "at_s": 16.7,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "cue": "HEAD: LIVES"
+    },
+    {
+      "at_s": 18.9,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -11,
+      "cue": "Death glides to the feet"
+    },
+    {
+      "at_s": 19.15,
+      "sfx_id": "knock-solid",
+      "gain_db": -10,
+      "cue": "FEET: MINE"
+    },
+    {
+      "at_s": 22.0,
+      "sfx_id": "sparkle-soft",
+      "gain_db": -13,
+      "cue": "windows light up",
+      "optional": true
+    },
+    {
+      "at_s": 25.0,
+      "sfx_id": "page-flip",
+      "gain_db": -11,
+      "cue": "the castle"
+    },
+    {
+      "at_s": 27.2,
+      "sfx_id": "impact-soft",
+      "gain_db": -9,
+      "cue": "Death at her feet"
+    },
+    {
+      "at_s": 29.8,
+      "sfx_id": "pop-reveal",
+      "gain_db": -10,
+      "cue": "PauseCard"
+    },
+    {
+      "at_s": 30.0,
+      "sfx_id": "clock-tick-soft",
+      "gain_db": -15,
+      "cue": "pause countdown",
+      "optional": true
+    },
+    {
+      "at_s": 32.9,
+      "sfx_id": "whoosh-reverse",
+      "gain_db": -8,
+      "cue": "HERO 1: the bed spins"
+    },
+    {
+      "at_s": 36.0,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -10,
+      "cue": "she lives"
+    },
+    {
+      "at_s": 38.0,
+      "sfx_id": "whoosh-wind",
+      "gain_db": -11,
+      "cue": "into the cave of candles"
+    },
+    {
+      "at_s": 43.4,
+      "sfx_id": "riser-soft",
+      "gain_db": -11,
+      "cue": "zoom to the stub"
+    },
+    {
+      "at_s": 45.8,
+      "sfx_id": "impact-soft",
+      "gain_db": -9,
+      "cue": "\"about to go out\""
+    },
+    {
+      "at_s": 48.1,
+      "sfx_id": "chime-magic",
+      "gain_db": -13,
+      "cue": "the new candle"
+    },
+    {
+      "at_s": 50.2,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -6,
+      "cue": "HERO 2: the flame falls, blackout"
+    },
+    {
+      "at_s": 51.9,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -14,
+      "cue": "fade back into the title",
+      "optional": true
+    }
+  ]
+}

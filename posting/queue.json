@@ -266,6 +266,16 @@
       "title": "30% of real-world numbers start with a 1",
       "caption": "You'd expect each first digit 11% of the time. Take the first 1,000 powers of two: 301 start with a 1, only 45 with a 9. That's Benford's law, and auditors use it to catch made-up numbers.",
       "hashtags": "#math #benfordslaw #statistics #mindblown #mathfacts"
+    },
+    {
+      "id": "tale-001",
+      "channel": "Tales (pilot)",
+      "short": "tales/tale-1-godfather-death",
+      "video": "posting/ready/tale-001.mp4",
+      "status": "review",
+      "title": "The doctor who tried to cheat Death",
+      "caption": "A Brothers Grimm tale: Death becomes a boy's godfather and gives him one gift. If Death stands at the head of the bed, the patient lives. At the feet, they die. Then the princess falls ill...",
+      "hashtags": "#story #grimmtales #folklore #animation #darkfairytales"
     }
   ]
 }
