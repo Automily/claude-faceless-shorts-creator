@@ -7,7 +7,7 @@
     "width": 1080,
     "height": 1920,
     "fps": 30,
-    "durationSec": 40
+    "durationSec": 40.8
   },
   "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
   "vo": [
@@ -15,49 +15,535 @@
       "beat": "hook",
       "text": "In real-world numbers, almost a third start with a one. Only about one in twenty start with a nine.",
       "start": 0.4,
-      "end": 6.4
+      "end": 6.52,
+      "words": [
+        {
+          "w": "In",
+          "start": 0.4,
+          "end": 0.55
+        },
+        {
+          "w": "real-world",
+          "start": 0.624,
+          "end": 1.062
+        },
+        {
+          "w": "numbers,",
+          "start": 1.115,
+          "end": 1.574
+        },
+        {
+          "w": "almost",
+          "start": 1.767,
+          "end": 2.087
+        },
+        {
+          "w": "a",
+          "start": 2.13,
+          "end": 2.162
+        },
+        {
+          "w": "third",
+          "start": 2.237,
+          "end": 2.482
+        },
+        {
+          "w": "start",
+          "start": 2.524,
+          "end": 2.76
+        },
+        {
+          "w": "with",
+          "start": 2.792,
+          "end": 2.899
+        },
+        {
+          "w": "a",
+          "start": 2.931,
+          "end": 2.952
+        },
+        {
+          "w": "one.",
+          "start": 3.027,
+          "end": 3.369
+        },
+        {
+          "w": "Only",
+          "start": 3.774,
+          "end": 3.999
+        },
+        {
+          "w": "about",
+          "start": 4.041,
+          "end": 4.244
+        },
+        {
+          "w": "one",
+          "start": 4.319,
+          "end": 4.511
+        },
+        {
+          "w": "in",
+          "start": 4.543,
+          "end": 4.585
+        },
+        {
+          "w": "twenty",
+          "start": 4.629,
+          "end": 4.874
+        },
+        {
+          "w": "start",
+          "start": 4.927,
+          "end": 5.141
+        },
+        {
+          "w": "with",
+          "start": 5.173,
+          "end": 5.269
+        },
+        {
+          "w": "a",
+          "start": 5.301,
+          "end": 5.322
+        },
+        {
+          "w": "nine.",
+          "start": 5.386,
+          "end": 6.507
+        }
+      ]
     },
     {
       "beat": "setup",
       "text": "You'd expect every first digit about eleven percent of the time.",
       "start": 6.6,
-      "end": 10.2
+      "end": 10.31,
+      "words": [
+        {
+          "w": "You'd",
+          "start": 6.6,
+          "end": 6.829
+        },
+        {
+          "w": "expect",
+          "start": 6.872,
+          "end": 7.231
+        },
+        {
+          "w": "every",
+          "start": 7.319,
+          "end": 7.602
+        },
+        {
+          "w": "first",
+          "start": 7.689,
+          "end": 7.951
+        },
+        {
+          "w": "digit",
+          "start": 8.016,
+          "end": 8.278
+        },
+        {
+          "w": "about",
+          "start": 8.321,
+          "end": 8.507
+        },
+        {
+          "w": "eleven",
+          "start": 8.55,
+          "end": 8.822
+        },
+        {
+          "w": "percent",
+          "start": 8.866,
+          "end": 9.105
+        },
+        {
+          "w": "of",
+          "start": 9.138,
+          "end": 9.182
+        },
+        {
+          "w": "the",
+          "start": 9.214,
+          "end": 9.28
+        },
+        {
+          "w": "time.",
+          "start": 9.313,
+          "end": 10.303
+        }
+      ]
     },
     {
       "beat": "setup",
       "text": "Take the first thousand powers of two. Two, four, eight, sixteen, and on.",
       "start": 10.4,
-      "end": 15.2
+      "end": 15.65,
+      "words": [
+        {
+          "w": "Take",
+          "start": 10.4,
+          "end": 10.657
+        },
+        {
+          "w": "the",
+          "start": 10.687,
+          "end": 10.746
+        },
+        {
+          "w": "first",
+          "start": 10.786,
+          "end": 11.003
+        },
+        {
+          "w": "thousand",
+          "start": 11.052,
+          "end": 11.389
+        },
+        {
+          "w": "powers",
+          "start": 11.438,
+          "end": 11.715
+        },
+        {
+          "w": "of",
+          "start": 11.755,
+          "end": 11.804
+        },
+        {
+          "w": "two.",
+          "start": 11.863,
+          "end": 12.219
+        },
+        {
+          "w": "Two,",
+          "start": 12.496,
+          "end": 12.911
+        },
+        {
+          "w": "four,",
+          "start": 13.04,
+          "end": 13.494
+        },
+        {
+          "w": "eight,",
+          "start": 13.771,
+          "end": 14.107
+        },
+        {
+          "w": "sixteen,",
+          "start": 14.285,
+          "end": 14.809
+        },
+        {
+          "w": "and",
+          "start": 14.869,
+          "end": 15.017
+        },
+        {
+          "w": "on.",
+          "start": 15.096,
+          "end": 16.213
+        }
+      ]
     },
     {
       "beat": "quiz",
       "text": "Pause. How many start with a one?",
-      "start": 15.4,
-      "end": 18.2
+      "start": 16.3,
+      "end": 18.85,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 16.3,
+          "end": 16.857
+        },
+        {
+          "w": "How",
+          "start": 17.298,
+          "end": 17.438
+        },
+        {
+          "w": "many",
+          "start": 17.473,
+          "end": 17.624
+        },
+        {
+          "w": "start",
+          "start": 17.682,
+          "end": 17.914
+        },
+        {
+          "w": "with",
+          "start": 17.937,
+          "end": 18.041
+        },
+        {
+          "w": "a",
+          "start": 18.076,
+          "end": 18.111
+        },
+        {
+          "w": "one?",
+          "start": 18.227,
+          "end": 18.854
+        }
+      ]
     },
     {
       "beat": "reveal",
       "text": "Three hundred and one. Thirty percent. Nines? Just forty-five.",
-      "start": 18.4,
-      "end": 23.4
+      "start": 19.3,
+      "end": 23.52,
+      "words": [
+        {
+          "w": "Three",
+          "start": 19.3,
+          "end": 19.567
+        },
+        {
+          "w": "hundred",
+          "start": 19.613,
+          "end": 19.834
+        },
+        {
+          "w": "and",
+          "start": 19.857,
+          "end": 19.927
+        },
+        {
+          "w": "one.",
+          "start": 20.008,
+          "end": 20.298
+        },
+        {
+          "w": "Thirty",
+          "start": 20.577,
+          "end": 20.856
+        },
+        {
+          "w": "percent.",
+          "start": 20.914,
+          "end": 21.401
+        },
+        {
+          "w": "Nines?",
+          "start": 21.61,
+          "end": 22.168
+        },
+        {
+          "w": "Just",
+          "start": 22.319,
+          "end": 22.516
+        },
+        {
+          "w": "forty-five.",
+          "start": 22.586,
+          "end": 23.526
+        }
+      ]
     },
     {
       "beat": "reveal",
       "text": "It's Benford's law. Populations, prices, river lengths: lots of real data does this.",
-      "start": 23.6,
-      "end": 29.2
+      "start": 24.5,
+      "end": 30.22,
+      "words": [
+        {
+          "w": "It's",
+          "start": 24.5,
+          "end": 24.677
+        },
+        {
+          "w": "Benford's",
+          "start": 24.721,
+          "end": 25.086
+        },
+        {
+          "w": "law.",
+          "start": 25.131,
+          "end": 25.518
+        },
+        {
+          "w": "Populations,",
+          "start": 25.75,
+          "end": 26.525
+        },
+        {
+          "w": "prices,",
+          "start": 26.614,
+          "end": 27.21
+        },
+        {
+          "w": "river",
+          "start": 27.377,
+          "end": 27.598
+        },
+        {
+          "w": "lengths:",
+          "start": 27.642,
+          "end": 28.051
+        },
+        {
+          "w": "lots",
+          "start": 28.416,
+          "end": 28.637
+        },
+        {
+          "w": "of",
+          "start": 28.671,
+          "end": 28.726
+        },
+        {
+          "w": "real",
+          "start": 28.837,
+          "end": 29.047
+        },
+        {
+          "w": "data",
+          "start": 29.102,
+          "end": 29.312
+        },
+        {
+          "w": "does",
+          "start": 29.357,
+          "end": 29.511
+        },
+        {
+          "w": "this.",
+          "start": 29.545,
+          "end": 30.209
+        }
+      ]
     },
     {
       "beat": "twist",
       "text": "So when someone makes numbers up, the digits come out too even. Auditors check for exactly that.",
-      "start": 29.4,
-      "end": 35.4
+      "start": 30.3,
+      "end": 36.41,
+      "words": [
+        {
+          "w": "So",
+          "start": 30.3,
+          "end": 30.479
+        },
+        {
+          "w": "when",
+          "start": 30.534,
+          "end": 30.657
+        },
+        {
+          "w": "someone",
+          "start": 30.702,
+          "end": 30.958
+        },
+        {
+          "w": "makes",
+          "start": 30.992,
+          "end": 31.171
+        },
+        {
+          "w": "numbers",
+          "start": 31.237,
+          "end": 31.516
+        },
+        {
+          "w": "up,",
+          "start": 31.583,
+          "end": 31.862
+        },
+        {
+          "w": "the",
+          "start": 32.13,
+          "end": 32.231
+        },
+        {
+          "w": "digits",
+          "start": 32.275,
+          "end": 32.531
+        },
+        {
+          "w": "come",
+          "start": 32.565,
+          "end": 32.688
+        },
+        {
+          "w": "out",
+          "start": 32.721,
+          "end": 32.832
+        },
+        {
+          "w": "too",
+          "start": 32.866,
+          "end": 32.967
+        },
+        {
+          "w": "even.",
+          "start": 33.056,
+          "end": 33.402
+        },
+        {
+          "w": "Auditors",
+          "start": 33.892,
+          "end": 34.361
+        },
+        {
+          "w": "check",
+          "start": 34.439,
+          "end": 34.651
+        },
+        {
+          "w": "for",
+          "start": 34.707,
+          "end": 34.796
+        },
+        {
+          "w": "exactly",
+          "start": 34.874,
+          "end": 35.343
+        },
+        {
+          "w": "that.",
+          "start": 35.387,
+          "end": 36.413
+        }
+      ]
     },
     {
       "beat": "loop",
       "text": "Ones everywhere. Nines almost never.",
-      "start": 35.6,
-      "end": 38.4
+      "start": 36.5,
+      "end": 39.51,
+      "words": [
+        {
+          "w": "Ones",
+          "start": 36.5,
+          "end": 36.837
+        },
+        {
+          "w": "everywhere.",
+          "start": 36.895,
+          "end": 37.452
+        },
+        {
+          "w": "Nines",
+          "start": 37.963,
+          "end": 38.416
+        },
+        {
+          "w": "almost",
+          "start": 38.509,
+          "end": 38.857
+        },
+        {
+          "w": "never.",
+          "start": 38.915,
+          "end": 39.519
+        }
+      ]
     }
   ],
   "facts": {
@@ -74,5 +560,6 @@
       "9": 45
     },
     "uses": "Benford analysis is a standard forensic-accounting screen for fabricated figures (e.g. Nigrini)"
-  }
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
 }

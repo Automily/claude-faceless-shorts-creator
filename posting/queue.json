@@ -246,6 +246,16 @@
       "caption": "Kidney stone study: treatment A beat B for small stones (93% vs 87%) and large stones (73% vs 69%), but lost overall (78% vs 83%). A got the hard cases. That's Simpson's paradox.",
       "hashtags": "#statistics #math #simpsonsparadox #mindblown #datascience",
       "sent_at": "2026-11-19T11:45-05:00"
+    },
+    {
+      "id": "fw-012",
+      "channel": "Feels Wrong",
+      "short": "shorts/short-30-benford",
+      "video": "posting/ready/fw-012.mp4",
+      "status": "ready",
+      "title": "30% of real-world numbers start with a 1",
+      "caption": "You'd expect each first digit 11% of the time. Take the first 1,000 powers of two: 301 start with a 1, only 45 with a 9. That's Benford's law, and auditors use it to catch made-up numbers.",
+      "hashtags": "#math #benfordslaw #statistics #mindblown #mathfacts"
     }
   ]
 }

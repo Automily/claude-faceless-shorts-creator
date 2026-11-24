@@ -192,6 +192,14 @@
   "transparent": false
  },
  {
+  "id": "Short30Benford",
+  "durationInSeconds": 40.8,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short4Reflog",
   "durationInSeconds": 34,
   "fps": 30,

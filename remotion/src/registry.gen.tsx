@@ -24,13 +24,14 @@ import Shot20, { compositionConfig as cfg20 } from './shots/short-27/Short27Jack
 import Shot21, { compositionConfig as cfg21 } from './shots/short-28/Short28Simpson';
 import Shot22, { compositionConfig as cfg22 } from './shots/short-29/Short29Mortgage';
 import Shot23, { compositionConfig as cfg23 } from './shots/short-3/Short3Algo';
-import Shot24, { compositionConfig as cfg24 } from './shots/short-4/Short4Reflog';
-import Shot25, { compositionConfig as cfg25 } from './shots/short-5/Short5Monty';
-import Shot26, { compositionConfig as cfg26 } from './shots/short-6/Short6Sheet';
-import Shot27, { compositionConfig as cfg27 } from './shots/short-7/Short7Kids';
-import Shot28, { compositionConfig as cfg28 } from './shots/short-8/Short8Phish';
-import Shot29, { compositionConfig as cfg29 } from './shots/short-9/Short9Chords';
-import Shot30, { compositionConfig as cfg30 } from './shots/vox-1/Vox1Coffee';
+import Shot24, { compositionConfig as cfg24 } from './shots/short-30/Short30Benford';
+import Shot25, { compositionConfig as cfg25 } from './shots/short-4/Short4Reflog';
+import Shot26, { compositionConfig as cfg26 } from './shots/short-5/Short5Monty';
+import Shot27, { compositionConfig as cfg27 } from './shots/short-6/Short6Sheet';
+import Shot28, { compositionConfig as cfg28 } from './shots/short-7/Short7Kids';
+import Shot29, { compositionConfig as cfg29 } from './shots/short-8/Short8Phish';
+import Shot30, { compositionConfig as cfg30 } from './shots/short-9/Short9Chords';
+import Shot31, { compositionConfig as cfg31 } from './shots/vox-1/Vox1Coffee';
 
 export const shots: { Comp: React.FC; config: any }[] = [
   { Comp: Shot0 as React.FC, config: cfg0 },
@@ -64,4 +65,5 @@ export const shots: { Comp: React.FC; config: any }[] = [
   { Comp: Shot28 as React.FC, config: cfg28 },
   { Comp: Shot29 as React.FC, config: cfg29 },
   { Comp: Shot30 as React.FC, config: cfg30 },
+  { Comp: Shot31 as React.FC, config: cfg31 },
 ];
