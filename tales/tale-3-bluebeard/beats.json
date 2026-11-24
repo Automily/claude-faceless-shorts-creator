@@ -1,0 +1,1056 @@
+{
+  "id": "tale-3-bluebeard",
+  "title": "Bluebeard (Charles Perrault, 1697)",
+  "composition": "Tale3Bluebeard",
+  "channel": "Candlelit Tales",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 69.3
+  },
+  "voicePlan": "elevenlabs:JBFqnCBsd6RMkjVDRZzb (George, storyteller)",
+  "source": "Charles Perrault, 'La Barbe bleue' (Histoires ou contes du temps passé, 1697) — public domain; retold and condensed",
+  "style": "shadow-puppet silhouettes, castle by candlelight; blood shown as abstract red light/pools, no gore",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "One key. One locked room. And a stain that would not wash away.",
+      "start": 0.4,
+      "end": 4.34,
+      "words": [
+        {
+          "w": "One",
+          "start": 0.4,
+          "end": 0.597
+        },
+        {
+          "w": "key.",
+          "start": 0.655,
+          "end": 1.062
+        },
+        {
+          "w": "One",
+          "start": 1.213,
+          "end": 1.41
+        },
+        {
+          "w": "locked",
+          "start": 1.468,
+          "end": 1.712
+        },
+        {
+          "w": "room.",
+          "start": 1.758,
+          "end": 2.176
+        },
+        {
+          "w": "And",
+          "start": 2.35,
+          "end": 2.49
+        },
+        {
+          "w": "a",
+          "start": 2.548,
+          "end": 2.571
+        },
+        {
+          "w": "stain",
+          "start": 2.629,
+          "end": 2.943
+        },
+        {
+          "w": "that",
+          "start": 2.989,
+          "end": 3.082
+        },
+        {
+          "w": "would",
+          "start": 3.105,
+          "end": 3.233
+        },
+        {
+          "w": "not",
+          "start": 3.268,
+          "end": 3.372
+        },
+        {
+          "w": "wash",
+          "start": 3.407,
+          "end": 3.593
+        },
+        {
+          "w": "away.",
+          "start": 3.639,
+          "end": 4.347
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "A rich man with a beard so blue that people ran from him. He had married many times. No one knew what became of his wives.",
+      "start": 4.79,
+      "end": 13.08,
+      "words": [
+        {
+          "w": "A",
+          "start": 4.79,
+          "end": 4.929
+        },
+        {
+          "w": "rich",
+          "start": 5.01,
+          "end": 5.219
+        },
+        {
+          "w": "man",
+          "start": 5.277,
+          "end": 5.519
+        },
+        {
+          "w": "with",
+          "start": 5.577,
+          "end": 5.705
+        },
+        {
+          "w": "a",
+          "start": 5.74,
+          "end": 5.775
+        },
+        {
+          "w": "beard",
+          "start": 5.845,
+          "end": 6.18
+        },
+        {
+          "w": "so",
+          "start": 6.238,
+          "end": 6.423
+        },
+        {
+          "w": "blue",
+          "start": 6.504,
+          "end": 6.944
+        },
+        {
+          "w": "that",
+          "start": 7.072,
+          "end": 7.245
+        },
+        {
+          "w": "people",
+          "start": 7.292,
+          "end": 7.57
+        },
+        {
+          "w": "ran",
+          "start": 7.616,
+          "end": 7.848
+        },
+        {
+          "w": "from",
+          "start": 7.918,
+          "end": 8.068
+        },
+        {
+          "w": "him.",
+          "start": 8.126,
+          "end": 8.474
+        },
+        {
+          "w": "He",
+          "start": 8.914,
+          "end": 9.041
+        },
+        {
+          "w": "had",
+          "start": 9.111,
+          "end": 9.227
+        },
+        {
+          "w": "married",
+          "start": 9.285,
+          "end": 9.574
+        },
+        {
+          "w": "many",
+          "start": 9.62,
+          "end": 9.805
+        },
+        {
+          "w": "times.",
+          "start": 9.875,
+          "end": 10.501
+        },
+        {
+          "w": "No",
+          "start": 10.883,
+          "end": 11.034
+        },
+        {
+          "w": "one",
+          "start": 11.114,
+          "end": 11.242
+        },
+        {
+          "w": "knew",
+          "start": 11.277,
+          "end": 11.451
+        },
+        {
+          "w": "what",
+          "start": 11.497,
+          "end": 11.624
+        },
+        {
+          "w": "became",
+          "start": 11.67,
+          "end": 11.971
+        },
+        {
+          "w": "of",
+          "start": 12.006,
+          "end": 12.064
+        },
+        {
+          "w": "his",
+          "start": 12.111,
+          "end": 12.203
+        },
+        {
+          "w": "wives.",
+          "start": 12.273,
+          "end": 13.084
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "His new bride got every key to the castle, and one rule. Never open the little room at the end of the hall.",
+      "start": 13.18,
+      "end": 19.77,
+      "words": [
+        {
+          "w": "His",
+          "start": 13.18,
+          "end": 13.366
+        },
+        {
+          "w": "new",
+          "start": 13.447,
+          "end": 13.586
+        },
+        {
+          "w": "bride",
+          "start": 13.644,
+          "end": 13.969
+        },
+        {
+          "w": "got",
+          "start": 14.004,
+          "end": 14.167
+        },
+        {
+          "w": "every",
+          "start": 14.237,
+          "end": 14.515
+        },
+        {
+          "w": "key",
+          "start": 14.585,
+          "end": 14.759
+        },
+        {
+          "w": "to",
+          "start": 14.817,
+          "end": 14.875
+        },
+        {
+          "w": "the",
+          "start": 14.933,
+          "end": 15.003
+        },
+        {
+          "w": "castle,",
+          "start": 15.049,
+          "end": 15.572
+        },
+        {
+          "w": "and",
+          "start": 15.665,
+          "end": 15.804
+        },
+        {
+          "w": "one",
+          "start": 15.885,
+          "end": 16.059
+        },
+        {
+          "w": "rule.",
+          "start": 16.106,
+          "end": 16.582
+        },
+        {
+          "w": "Never",
+          "start": 17.093,
+          "end": 17.371
+        },
+        {
+          "w": "open",
+          "start": 17.441,
+          "end": 17.72
+        },
+        {
+          "w": "the",
+          "start": 17.766,
+          "end": 17.836
+        },
+        {
+          "w": "little",
+          "start": 17.87,
+          "end": 18.079
+        },
+        {
+          "w": "room",
+          "start": 18.126,
+          "end": 18.335
+        },
+        {
+          "w": "at",
+          "start": 18.393,
+          "end": 18.451
+        },
+        {
+          "w": "the",
+          "start": 18.486,
+          "end": 18.555
+        },
+        {
+          "w": "end",
+          "start": 18.602,
+          "end": 18.706
+        },
+        {
+          "w": "of",
+          "start": 18.753,
+          "end": 18.811
+        },
+        {
+          "w": "the",
+          "start": 18.846,
+          "end": 18.915
+        },
+        {
+          "w": "hall.",
+          "start": 18.973,
+          "end": 19.774
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Then he rode away on a journey.",
+      "start": 19.91,
+      "end": 22.6,
+      "words": [
+        {
+          "w": "Then",
+          "start": 19.91,
+          "end": 20.212
+        },
+        {
+          "w": "he",
+          "start": 20.282,
+          "end": 20.34
+        },
+        {
+          "w": "rode",
+          "start": 20.409,
+          "end": 20.618
+        },
+        {
+          "w": "away",
+          "start": 20.653,
+          "end": 20.943
+        },
+        {
+          "w": "on",
+          "start": 21.013,
+          "end": 21.117
+        },
+        {
+          "w": "a",
+          "start": 21.164,
+          "end": 21.187
+        },
+        {
+          "w": "journey.",
+          "start": 21.257,
+          "end": 22.604
+        }
+      ]
+    },
+    {
+      "beat": "turn",
+      "text": "She lasted one day. The door creaked open, and the floor was dark with blood. His missing wives hung along the walls.",
+      "start": 23.1,
+      "end": 31.17,
+      "words": [
+        {
+          "w": "She",
+          "start": 23.1,
+          "end": 23.251
+        },
+        {
+          "w": "lasted",
+          "start": 23.332,
+          "end": 23.691
+        },
+        {
+          "w": "one",
+          "start": 23.749,
+          "end": 23.9
+        },
+        {
+          "w": "day.",
+          "start": 23.935,
+          "end": 24.433
+        },
+        {
+          "w": "The",
+          "start": 24.815,
+          "end": 24.931
+        },
+        {
+          "w": "door",
+          "start": 24.978,
+          "end": 25.174
+        },
+        {
+          "w": "creaked",
+          "start": 25.244,
+          "end": 25.546
+        },
+        {
+          "w": "open,",
+          "start": 25.604,
+          "end": 25.986
+        },
+        {
+          "w": "and",
+          "start": 26.021,
+          "end": 26.16
+        },
+        {
+          "w": "the",
+          "start": 26.206,
+          "end": 26.275
+        },
+        {
+          "w": "floor",
+          "start": 26.322,
+          "end": 26.6
+        },
+        {
+          "w": "was",
+          "start": 26.647,
+          "end": 26.763
+        },
+        {
+          "w": "dark",
+          "start": 26.832,
+          "end": 27.11
+        },
+        {
+          "w": "with",
+          "start": 27.168,
+          "end": 27.296
+        },
+        {
+          "w": "blood.",
+          "start": 27.354,
+          "end": 27.875
+        },
+        {
+          "w": "His",
+          "start": 28.385,
+          "end": 28.559
+        },
+        {
+          "w": "missing",
+          "start": 28.628,
+          "end": 28.93
+        },
+        {
+          "w": "wives",
+          "start": 28.988,
+          "end": 29.358
+        },
+        {
+          "w": "hung",
+          "start": 29.405,
+          "end": 29.567
+        },
+        {
+          "w": "along",
+          "start": 29.614,
+          "end": 29.799
+        },
+        {
+          "w": "the",
+          "start": 29.845,
+          "end": 29.915
+        },
+        {
+          "w": "walls.",
+          "start": 29.961,
+          "end": 31.167
+        }
+      ]
+    },
+    {
+      "beat": "turn",
+      "text": "She dropped the key. She scrubbed it with sand, but the stain kept coming back. The key was enchanted.",
+      "start": 31.26,
+      "end": 37.52,
+      "words": [
+        {
+          "w": "She",
+          "start": 31.26,
+          "end": 31.446
+        },
+        {
+          "w": "dropped",
+          "start": 31.504,
+          "end": 31.771
+        },
+        {
+          "w": "the",
+          "start": 31.794,
+          "end": 31.864
+        },
+        {
+          "w": "key.",
+          "start": 31.91,
+          "end": 32.421
+        },
+        {
+          "w": "She",
+          "start": 32.595,
+          "end": 32.746
+        },
+        {
+          "w": "scrubbed",
+          "start": 32.827,
+          "end": 33.152
+        },
+        {
+          "w": "it",
+          "start": 33.187,
+          "end": 33.245
+        },
+        {
+          "w": "with",
+          "start": 33.28,
+          "end": 33.408
+        },
+        {
+          "w": "sand,",
+          "start": 33.454,
+          "end": 33.965
+        },
+        {
+          "w": "but",
+          "start": 34.046,
+          "end": 34.197
+        },
+        {
+          "w": "the",
+          "start": 34.221,
+          "end": 34.29
+        },
+        {
+          "w": "stain",
+          "start": 34.325,
+          "end": 34.639
+        },
+        {
+          "w": "kept",
+          "start": 34.708,
+          "end": 34.906
+        },
+        {
+          "w": "coming",
+          "start": 34.964,
+          "end": 35.207
+        },
+        {
+          "w": "back.",
+          "start": 35.265,
+          "end": 35.695
+        },
+        {
+          "w": "The",
+          "start": 35.753,
+          "end": 35.869
+        },
+        {
+          "w": "key",
+          "start": 35.916,
+          "end": 36.078
+        },
+        {
+          "w": "was",
+          "start": 36.125,
+          "end": 36.229
+        },
+        {
+          "w": "enchanted.",
+          "start": 36.287,
+          "end": 37.529
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. He's home early. What do you do?",
+      "start": 37.86,
+      "end": 41.48,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 37.86,
+          "end": 38.44
+        },
+        {
+          "w": "He's",
+          "start": 38.591,
+          "end": 38.8
+        },
+        {
+          "w": "home",
+          "start": 38.847,
+          "end": 39.044
+        },
+        {
+          "w": "early.",
+          "start": 39.091,
+          "end": 39.578
+        },
+        {
+          "w": "What",
+          "start": 40.182,
+          "end": 40.368
+        },
+        {
+          "w": "do",
+          "start": 40.391,
+          "end": 40.449
+        },
+        {
+          "w": "you",
+          "start": 40.507,
+          "end": 40.577
+        },
+        {
+          "w": "do?",
+          "start": 40.646,
+          "end": 41.482
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "He saw the key. Now you'll take your place beside them, he said.",
+      "start": 42.73,
+      "end": 46.86,
+      "words": [
+        {
+          "w": "He",
+          "start": 42.73,
+          "end": 42.858
+        },
+        {
+          "w": "saw",
+          "start": 42.916,
+          "end": 43.067
+        },
+        {
+          "w": "the",
+          "start": 43.125,
+          "end": 43.194
+        },
+        {
+          "w": "key.",
+          "start": 43.241,
+          "end": 43.728
+        },
+        {
+          "w": "Now",
+          "start": 44.112,
+          "end": 44.286
+        },
+        {
+          "w": "you'll",
+          "start": 44.332,
+          "end": 44.518
+        },
+        {
+          "w": "take",
+          "start": 44.553,
+          "end": 44.727
+        },
+        {
+          "w": "your",
+          "start": 44.75,
+          "end": 44.866
+        },
+        {
+          "w": "place",
+          "start": 44.913,
+          "end": 45.145
+        },
+        {
+          "w": "beside",
+          "start": 45.18,
+          "end": 45.54
+        },
+        {
+          "w": "them,",
+          "start": 45.574,
+          "end": 45.772
+        },
+        {
+          "w": "he",
+          "start": 45.83,
+          "end": 45.9
+        },
+        {
+          "w": "said.",
+          "start": 45.958,
+          "end": 46.863
+        }
+      ],
+      "pad_before": 0.8
+    },
+    {
+      "beat": "reveal",
+      "text": "She begged for time to pray, and sent her sister Anne up the tower to watch the road.",
+      "start": 47.1,
+      "end": 52.53,
+      "words": [
+        {
+          "w": "She",
+          "start": 47.1,
+          "end": 47.286
+        },
+        {
+          "w": "begged",
+          "start": 47.367,
+          "end": 47.646
+        },
+        {
+          "w": "for",
+          "start": 47.68,
+          "end": 47.773
+        },
+        {
+          "w": "time",
+          "start": 47.831,
+          "end": 48.098
+        },
+        {
+          "w": "to",
+          "start": 48.133,
+          "end": 48.203
+        },
+        {
+          "w": "pray,",
+          "start": 48.273,
+          "end": 48.714
+        },
+        {
+          "w": "and",
+          "start": 48.83,
+          "end": 48.981
+        },
+        {
+          "w": "sent",
+          "start": 49.05,
+          "end": 49.271
+        },
+        {
+          "w": "her",
+          "start": 49.318,
+          "end": 49.399
+        },
+        {
+          "w": "sister",
+          "start": 49.457,
+          "end": 49.759
+        },
+        {
+          "w": "Anne",
+          "start": 49.828,
+          "end": 50.084
+        },
+        {
+          "w": "up",
+          "start": 50.142,
+          "end": 50.281
+        },
+        {
+          "w": "the",
+          "start": 50.339,
+          "end": 50.409
+        },
+        {
+          "w": "tower",
+          "start": 50.455,
+          "end": 50.746
+        },
+        {
+          "w": "to",
+          "start": 50.792,
+          "end": 50.838
+        },
+        {
+          "w": "watch",
+          "start": 50.908,
+          "end": 51.117
+        },
+        {
+          "w": "the",
+          "start": 51.175,
+          "end": 51.245
+        },
+        {
+          "w": "road.",
+          "start": 51.314,
+          "end": 52.533
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Anne, sister Anne, do you see anyone coming? Only dust, and the sun.",
+      "start": 52.7,
+      "end": 57.02,
+      "words": [
+        {
+          "w": "Anne,",
+          "start": 52.7,
+          "end": 53.037
+        },
+        {
+          "w": "sister",
+          "start": 53.06,
+          "end": 53.373
+        },
+        {
+          "w": "Anne,",
+          "start": 53.443,
+          "end": 53.78
+        },
+        {
+          "w": "do",
+          "start": 53.873,
+          "end": 53.977
+        },
+        {
+          "w": "you",
+          "start": 54.035,
+          "end": 54.105
+        },
+        {
+          "w": "see",
+          "start": 54.151,
+          "end": 54.279
+        },
+        {
+          "w": "anyone",
+          "start": 54.314,
+          "end": 54.616
+        },
+        {
+          "w": "coming?",
+          "start": 54.662,
+          "end": 55.092
+        },
+        {
+          "w": "Only",
+          "start": 55.335,
+          "end": 55.568
+        },
+        {
+          "w": "dust,",
+          "start": 55.626,
+          "end": 55.928
+        },
+        {
+          "w": "and",
+          "start": 55.951,
+          "end": 56.044
+        },
+        {
+          "w": "the",
+          "start": 56.09,
+          "end": 56.16
+        },
+        {
+          "w": "sun.",
+          "start": 56.195,
+          "end": 57.019
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "He raised his sword. Then the gate burst open. Her two brothers rode in and cut him down.",
+      "start": 57.44,
+      "end": 63.01,
+      "words": [
+        {
+          "w": "He",
+          "start": 57.44,
+          "end": 57.591
+        },
+        {
+          "w": "raised",
+          "start": 57.672,
+          "end": 57.974
+        },
+        {
+          "w": "his",
+          "start": 58.009,
+          "end": 58.102
+        },
+        {
+          "w": "sword.",
+          "start": 58.137,
+          "end": 58.589
+        },
+        {
+          "w": "Then",
+          "start": 58.682,
+          "end": 58.845
+        },
+        {
+          "w": "the",
+          "start": 58.88,
+          "end": 58.949
+        },
+        {
+          "w": "gate",
+          "start": 58.984,
+          "end": 59.205
+        },
+        {
+          "w": "burst",
+          "start": 59.251,
+          "end": 59.553
+        },
+        {
+          "w": "open.",
+          "start": 59.611,
+          "end": 59.994
+        },
+        {
+          "w": "Her",
+          "start": 60.168,
+          "end": 60.308
+        },
+        {
+          "w": "two",
+          "start": 60.354,
+          "end": 60.493
+        },
+        {
+          "w": "brothers",
+          "start": 60.551,
+          "end": 60.888
+        },
+        {
+          "w": "rode",
+          "start": 60.969,
+          "end": 61.248
+        },
+        {
+          "w": "in",
+          "start": 61.295,
+          "end": 61.376
+        },
+        {
+          "w": "and",
+          "start": 61.434,
+          "end": 61.503
+        },
+        {
+          "w": "cut",
+          "start": 61.562,
+          "end": 61.724
+        },
+        {
+          "w": "him",
+          "start": 61.771,
+          "end": 61.863
+        },
+        {
+          "w": "down.",
+          "start": 61.921,
+          "end": 63.013
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "And the little key? It stayed stained forever.",
+      "start": 63.79,
+      "end": 67.08,
+      "words": [
+        {
+          "w": "And",
+          "start": 63.79,
+          "end": 63.941
+        },
+        {
+          "w": "the",
+          "start": 63.987,
+          "end": 64.057
+        },
+        {
+          "w": "little",
+          "start": 64.092,
+          "end": 64.336
+        },
+        {
+          "w": "key?",
+          "start": 64.37,
+          "end": 64.823
+        },
+        {
+          "w": "It",
+          "start": 65.264,
+          "end": 65.415
+        },
+        {
+          "w": "stayed",
+          "start": 65.473,
+          "end": 65.81
+        },
+        {
+          "w": "stained",
+          "start": 65.868,
+          "end": 66.263
+        },
+        {
+          "w": "forever.",
+          "start": 66.309,
+          "end": 67.087
+        }
+      ],
+      "pad_before": 0.4
+    }
+  ],
+  "voiceStatus": "elevenlabs:JBFqnCBsd6RMkjVDRZzb"
+}

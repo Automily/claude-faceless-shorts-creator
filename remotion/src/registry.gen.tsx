@@ -36,7 +36,8 @@ import Shot32, { compositionConfig as cfg32 } from './shots/short-8/Short8Phish'
 import Shot33, { compositionConfig as cfg33 } from './shots/short-9/Short9Chords';
 import Shot34, { compositionConfig as cfg34 } from './shots/tale-1/Tale1GodfatherDeath';
 import Shot35, { compositionConfig as cfg35 } from './shots/tale-2/Tale2MonkeysPaw';
-import Shot36, { compositionConfig as cfg36 } from './shots/vox-1/Vox1Coffee';
+import Shot36, { compositionConfig as cfg36 } from './shots/tale-3/Tale3Bluebeard';
+import Shot37, { compositionConfig as cfg37 } from './shots/vox-1/Vox1Coffee';
 
 export const shots: { Comp: React.FC; config: any }[] = [
   { Comp: Shot0 as React.FC, config: cfg0 },
@@ -76,4 +77,5 @@ export const shots: { Comp: React.FC; config: any }[] = [
   { Comp: Shot34 as React.FC, config: cfg34 },
   { Comp: Shot35 as React.FC, config: cfg35 },
   { Comp: Shot36 as React.FC, config: cfg36 },
+  { Comp: Shot37 as React.FC, config: cfg37 },
 ];
