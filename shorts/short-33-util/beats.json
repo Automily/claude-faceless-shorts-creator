@@ -1,0 +1,604 @@
+{
+  "id": "short-33-util",
+  "title": "Paid in full, score still drops",
+  "composition": "Short33Util",
+  "channel": "The Fine Print",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 43.6
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "You pay your credit card in full every month. Your score can still drop.",
+      "start": 0.4,
+      "end": 4.87,
+      "words": [
+        {
+          "w": "You",
+          "start": 0.4,
+          "end": 0.557
+        },
+        {
+          "w": "pay",
+          "start": 0.623,
+          "end": 0.769
+        },
+        {
+          "w": "your",
+          "start": 0.814,
+          "end": 0.914
+        },
+        {
+          "w": "credit",
+          "start": 0.958,
+          "end": 1.193
+        },
+        {
+          "w": "card",
+          "start": 1.227,
+          "end": 1.406
+        },
+        {
+          "w": "in",
+          "start": 1.45,
+          "end": 1.495
+        },
+        {
+          "w": "full",
+          "start": 1.562,
+          "end": 1.774
+        },
+        {
+          "w": "every",
+          "start": 1.842,
+          "end": 2.02
+        },
+        {
+          "w": "month.",
+          "start": 2.065,
+          "end": 2.422
+        },
+        {
+          "w": "Your",
+          "start": 2.792,
+          "end": 2.936
+        },
+        {
+          "w": "score",
+          "start": 2.981,
+          "end": 3.227
+        },
+        {
+          "w": "can",
+          "start": 3.26,
+          "end": 3.361
+        },
+        {
+          "w": "still",
+          "start": 3.406,
+          "end": 3.585
+        },
+        {
+          "w": "drop.",
+          "start": 3.64,
+          "end": 4.869
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Say your limit is one thousand dollars, and you spend nine hundred.",
+      "start": 4.95,
+      "end": 8.56,
+      "words": [
+        {
+          "w": "Say",
+          "start": 4.95,
+          "end": 5.145
+        },
+        {
+          "w": "your",
+          "start": 5.188,
+          "end": 5.287
+        },
+        {
+          "w": "limit",
+          "start": 5.33,
+          "end": 5.515
+        },
+        {
+          "w": "is",
+          "start": 5.548,
+          "end": 5.612
+        },
+        {
+          "w": "one",
+          "start": 5.678,
+          "end": 5.819
+        },
+        {
+          "w": "thousand",
+          "start": 5.852,
+          "end": 6.133
+        },
+        {
+          "w": "dollars,",
+          "start": 6.177,
+          "end": 6.47
+        },
+        {
+          "w": "and",
+          "start": 6.492,
+          "end": 6.568
+        },
+        {
+          "w": "you",
+          "start": 6.611,
+          "end": 6.688
+        },
+        {
+          "w": "spend",
+          "start": 6.752,
+          "end": 7.013
+        },
+        {
+          "w": "nine",
+          "start": 7.122,
+          "end": 7.328
+        },
+        {
+          "w": "hundred.",
+          "start": 7.35,
+          "end": 8.555
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "You pay it all on the due date. No interest. Perfect.",
+      "start": 8.64,
+      "end": 12.01,
+      "words": [
+        {
+          "w": "You",
+          "start": 8.64,
+          "end": 8.803
+        },
+        {
+          "w": "pay",
+          "start": 8.869,
+          "end": 8.999
+        },
+        {
+          "w": "it",
+          "start": 9.032,
+          "end": 9.086
+        },
+        {
+          "w": "all",
+          "start": 9.129,
+          "end": 9.249
+        },
+        {
+          "w": "on",
+          "start": 9.304,
+          "end": 9.348
+        },
+        {
+          "w": "the",
+          "start": 9.38,
+          "end": 9.445
+        },
+        {
+          "w": "due",
+          "start": 9.467,
+          "end": 9.609
+        },
+        {
+          "w": "date.",
+          "start": 9.631,
+          "end": 9.957
+        },
+        {
+          "w": "No",
+          "start": 10.218,
+          "end": 10.338
+        },
+        {
+          "w": "interest.",
+          "start": 10.392,
+          "end": 10.839
+        },
+        {
+          "w": "Perfect.",
+          "start": 11.143,
+          "end": 11.993
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "But your card usually reports your balance weeks earlier, on the statement date.",
+      "start": 12.07,
+      "end": 16.88,
+      "words": [
+        {
+          "w": "But",
+          "start": 12.07,
+          "end": 12.248
+        },
+        {
+          "w": "your",
+          "start": 12.304,
+          "end": 12.482
+        },
+        {
+          "w": "card",
+          "start": 12.548,
+          "end": 12.826
+        },
+        {
+          "w": "usually",
+          "start": 12.904,
+          "end": 13.216
+        },
+        {
+          "w": "reports",
+          "start": 13.271,
+          "end": 13.616
+        },
+        {
+          "w": "your",
+          "start": 13.66,
+          "end": 13.783
+        },
+        {
+          "w": "balance",
+          "start": 13.839,
+          "end": 14.183
+        },
+        {
+          "w": "weeks",
+          "start": 14.239,
+          "end": 14.495
+        },
+        {
+          "w": "earlier,",
+          "start": 14.55,
+          "end": 15.028
+        },
+        {
+          "w": "on",
+          "start": 15.229,
+          "end": 15.351
+        },
+        {
+          "w": "the",
+          "start": 15.385,
+          "end": 15.451
+        },
+        {
+          "w": "statement",
+          "start": 15.474,
+          "end": 15.807
+        },
+        {
+          "w": "date.",
+          "start": 15.851,
+          "end": 16.875
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. What does the credit bureau see?",
+      "start": 16.95,
+      "end": 20.52,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 16.95,
+          "end": 17.565
+        },
+        {
+          "w": "What",
+          "start": 18.169,
+          "end": 18.366
+        },
+        {
+          "w": "does",
+          "start": 18.413,
+          "end": 18.575
+        },
+        {
+          "w": "the",
+          "start": 18.61,
+          "end": 18.68
+        },
+        {
+          "w": "credit",
+          "start": 18.726,
+          "end": 18.982
+        },
+        {
+          "w": "bureau",
+          "start": 19.028,
+          "end": 19.342
+        },
+        {
+          "w": "see?",
+          "start": 19.423,
+          "end": 20.526
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Nine hundred out of a thousand. Ninety percent utilization.",
+      "start": 21.13,
+      "end": 25.29,
+      "words": [
+        {
+          "w": "Nine",
+          "start": 21.13,
+          "end": 21.432
+        },
+        {
+          "w": "hundred",
+          "start": 21.465,
+          "end": 21.681
+        },
+        {
+          "w": "out",
+          "start": 21.702,
+          "end": 21.789
+        },
+        {
+          "w": "of",
+          "start": 21.81,
+          "end": 21.854
+        },
+        {
+          "w": "a",
+          "start": 21.886,
+          "end": 21.919
+        },
+        {
+          "w": "thousand.",
+          "start": 21.962,
+          "end": 22.512
+        },
+        {
+          "w": "Ninety",
+          "start": 23.161,
+          "end": 23.442
+        },
+        {
+          "w": "percent",
+          "start": 23.496,
+          "end": 23.776
+        },
+        {
+          "w": "utilization.",
+          "start": 23.83,
+          "end": 25.277
+        }
+      ],
+      "pad_before": 0.6
+    },
+    {
+      "beat": "reveal",
+      "text": "Amounts owed are about thirty percent of a FICO score. Under ten percent looks best.",
+      "start": 25.36,
+      "end": 31.86,
+      "words": [
+        {
+          "w": "Amounts",
+          "start": 25.36,
+          "end": 25.798
+        },
+        {
+          "w": "owed",
+          "start": 25.886,
+          "end": 26.205
+        },
+        {
+          "w": "are",
+          "start": 26.512,
+          "end": 26.764
+        },
+        {
+          "w": "about",
+          "start": 26.797,
+          "end": 27.016
+        },
+        {
+          "w": "thirty",
+          "start": 27.071,
+          "end": 27.323
+        },
+        {
+          "w": "percent",
+          "start": 27.378,
+          "end": 27.685
+        },
+        {
+          "w": "of",
+          "start": 27.74,
+          "end": 27.806
+        },
+        {
+          "w": "a",
+          "start": 27.849,
+          "end": 27.872
+        },
+        {
+          "w": "FICO",
+          "start": 27.937,
+          "end": 28.365
+        },
+        {
+          "w": "score.",
+          "start": 28.431,
+          "end": 28.881
+        },
+        {
+          "w": "Under",
+          "start": 29.539,
+          "end": 29.769
+        },
+        {
+          "w": "ten",
+          "start": 29.835,
+          "end": 30.011
+        },
+        {
+          "w": "percent",
+          "start": 30.076,
+          "end": 30.406
+        },
+        {
+          "w": "looks",
+          "start": 30.449,
+          "end": 30.635
+        },
+        {
+          "w": "best.",
+          "start": 30.69,
+          "end": 31.853
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "The fix is free: pay before the statement closes. Fifty dollars reported. Five percent.",
+      "start": 31.95,
+      "end": 39.34,
+      "words": [
+        {
+          "w": "The",
+          "start": 31.95,
+          "end": 32.104
+        },
+        {
+          "w": "fix",
+          "start": 32.158,
+          "end": 32.322
+        },
+        {
+          "w": "is",
+          "start": 32.387,
+          "end": 32.453
+        },
+        {
+          "w": "free:",
+          "start": 32.519,
+          "end": 32.956
+        },
+        {
+          "w": "pay",
+          "start": 33.371,
+          "end": 33.612
+        },
+        {
+          "w": "before",
+          "start": 33.677,
+          "end": 33.962
+        },
+        {
+          "w": "the",
+          "start": 33.995,
+          "end": 34.061
+        },
+        {
+          "w": "statement",
+          "start": 34.094,
+          "end": 34.421
+        },
+        {
+          "w": "closes.",
+          "start": 34.454,
+          "end": 35.077
+        },
+        {
+          "w": "Fifty",
+          "start": 35.973,
+          "end": 36.258
+        },
+        {
+          "w": "dollars",
+          "start": 36.302,
+          "end": 36.564
+        },
+        {
+          "w": "reported.",
+          "start": 36.619,
+          "end": 37.154
+        },
+        {
+          "w": "Five",
+          "start": 37.811,
+          "end": 38.084
+        },
+        {
+          "w": "percent.",
+          "start": 38.128,
+          "end": 39.341
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "Same card. Same spending. Different date.",
+      "start": 39.43,
+      "end": 42.49,
+      "words": [
+        {
+          "w": "Same",
+          "start": 39.43,
+          "end": 39.697
+        },
+        {
+          "w": "card.",
+          "start": 39.743,
+          "end": 40.173
+        },
+        {
+          "w": "Same",
+          "start": 40.417,
+          "end": 40.684
+        },
+        {
+          "w": "spending.",
+          "start": 40.719,
+          "end": 41.276
+        },
+        {
+          "w": "Different",
+          "start": 41.52,
+          "end": 41.856
+        },
+        {
+          "w": "date.",
+          "start": 41.891,
+          "end": 42.495
+        }
+      ]
+    }
+  ],
+  "money": {
+    "limit": 1000,
+    "spend": 900,
+    "util": "900/1000=90%",
+    "fico": "amounts owed ~30% of FICO score (myFICO)",
+    "best": "<10% (single digits) tends to score best; <30% common guideline",
+    "reporting": "most issuers report the statement balance to bureaus",
+    "fix": "pay before statement closing date -> $50 reported = 5%",
+    "caveat": "utilization has no memory in most current scores (FICO 8); trended-data models differ"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}

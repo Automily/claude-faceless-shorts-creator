@@ -15,7 +15,7 @@
       "beat": "hook",
       "text": "Pay in four is zero interest. Miss one payment, and it's a seven hundred percent loan.",
       "start": 0.4,
-      "end": 6.33,
+      "end": 6.57,
       "words": [
         {
           "w": "Pay",
@@ -103,7 +103,7 @@
       "beat": "setup",
       "text": "A hundred dollar order. Four payments of twenty-five, every two weeks.",
       "start": 6.64,
-      "end": 11.42,
+      "end": 11.08,
       "words": [
         {
           "w": "A",
@@ -166,7 +166,7 @@
       "beat": "setup",
       "text": "No interest. No fees. If you pay on time.",
       "start": 11.18,
-      "end": 15.31,
+      "end": 15.04,
       "words": [
         {
           "w": "No",
@@ -219,7 +219,7 @@
       "beat": "setup",
       "text": "Miss one, and the late fee can be seven dollars.",
       "start": 15.13,
-      "end": 17.96,
+      "end": 17.95,
       "words": [
         {
           "w": "Miss",
@@ -277,7 +277,7 @@
       "beat": "quiz",
       "text": "Pause. Seven dollars to borrow twenty-five, for two weeks. What's that as an APR?",
       "start": 18.04,
-      "end": 23.96,
+      "end": 24.17,
       "words": [
         {
           "w": "Pause.",
@@ -355,7 +355,7 @@
       "beat": "reveal",
       "text": "Seven over twenty-five is twenty-eight percent. In two weeks.",
       "start": 24.26,
-      "end": 28.53,
+      "end": 28.24,
       "words": [
         {
           "w": "Seven",
@@ -408,7 +408,7 @@
       "beat": "reveal",
       "text": "There are twenty-six two-week stretches in a year. That's about seven hundred thirty percent.",
       "start": 28.32,
-      "end": 34.03,
+      "end": 33.77,
       "words": [
         {
           "w": "There",
@@ -486,7 +486,7 @@
       "beat": "twist",
       "text": "The same twenty-five on a credit card at twenty-two percent? About twenty cents.",
       "start": 33.85,
-      "end": 38.67,
+      "end": 38.5,
       "words": [
         {
           "w": "The",

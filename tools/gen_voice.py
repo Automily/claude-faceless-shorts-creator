@@ -182,7 +182,6 @@ def main():
         tts_text = line.get("tts", line["text"])  # optional tagged/phonetic variant for TTS
         h = hashlib.sha1(f"{args.voice}|{args.model}|{tts_text}".encode()).hexdigest()[:8]
         raw = os.path.join(vdir, f"line-{i:02d}-{h}.mp3")
-        fit = os.path.join(vdir, f"line-{i:02d}-{h}-fit.wav")
 
         if args.dry_run:
             print(f"{i:4d} {start:6.2f} {window:6.2f}      ?     ?  {tts_text}")
@@ -197,6 +196,8 @@ def main():
         tempo = 1.0
         if dur > window:
             tempo = min(MAX_ATEMPO, dur / window)
+        # the fitted clip is cached PER TEMPO — re-timing a line must re-fit it
+        fit = os.path.join(vdir, f"line-{i:02d}-{h}-t{tempo:.4f}-fit.wav")
         if args.force or not os.path.exists(fit):
             run(["ffmpeg", "-y", "-v", "error", "-i", raw,
                  "-filter:a", f"atempo={tempo:.4f}", "-ar", "44100", "-ac", "2", fit])
