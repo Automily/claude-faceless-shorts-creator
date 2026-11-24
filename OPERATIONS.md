@@ -1,6 +1,6 @@
 # OPERATIONS.md — the content-farm state (read this first in any new session)
 
-Last updated: 2026-11-24. The user (owner) runs this as a faceless-shorts business; Claude acts as CEO:
+Last updated: 2026-11-24 (aggressive schedule live). The user (owner) runs this as a faceless-shorts business; Claude acts as CEO:
 picks topics, builds, QA's, and pings the owner with finished videos to post manually.
 
 ## Channels
@@ -16,7 +16,7 @@ Branding (names, handles, bios, logos): `BRANDING.md`, `branding/logos/`.
 
 ## Open decisions (waiting on the owner)
 1. Candlelit Tales vs Tales After Dark — and rename the Feels Wrong account or open a new one.
-2. Approve the pilot `posting/ready/tale-001.mp4` (Godfather Death) or ask for style changes.
+2. ✅ Tales pilot approved and posted 2026-11-24 (owner: "Perfect. Posted").
 3. Whether to post the last Feels Wrong video (`fw-012`, Benford's law) or drop it.
 4. Plugins suggested for install (animation-studio, Remotion, watch-video) — check with ListPlugins.
 
@@ -33,6 +33,12 @@ Next FP topics: BNPL real APR, credit utilization, emergency-fund months, mortga
 credit-card float, Roth vs traditional break-even, car lease money factor, student-loan capitalized interest.
 Next tales: The Monkey's Paw, Bluebeard, Pied Piper (real ending), Anansi & the sky god's stories, The Juniper Tree,
 The Three Army Surgeons, Baba Yaga, The Robber Bridegroom.
+
+## Context hygiene
+- Owner wants the conversation compacted every other day or so. Only the owner can type `/compact`
+  (it also auto-compacts when long). The 20:45 slot reminds them every 2 days.
+- Last compact reminder: 2026-11-24 (owner asked; compacted same day)
+- Keep THIS file current before ending any turn — it is what survives compaction.
 
 ## Owner rules (hard)
 - **No cost.** No paid image/video generation (no fal, no OpenArt credits). ElevenLabs Creator plan is the only spend.
