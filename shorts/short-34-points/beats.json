@@ -1,0 +1,687 @@
+{
+  "id": "short-34-points",
+  "title": "Mortgage points: the 5-year break-even",
+  "composition": "Short34Points",
+  "channel": "The Fine Print",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 45.9
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Paying three thousand dollars to lower your mortgage rate only pays off if you keep the loan five years.",
+      "start": 0.4,
+      "end": 5.73,
+      "words": [
+        {
+          "w": "Paying",
+          "start": 0.4,
+          "end": 0.699
+        },
+        {
+          "w": "three",
+          "start": 0.744,
+          "end": 0.943
+        },
+        {
+          "w": "thousand",
+          "start": 0.976,
+          "end": 1.287
+        },
+        {
+          "w": "dollars",
+          "start": 1.331,
+          "end": 1.597
+        },
+        {
+          "w": "to",
+          "start": 1.641,
+          "end": 1.696
+        },
+        {
+          "w": "lower",
+          "start": 1.763,
+          "end": 1.962
+        },
+        {
+          "w": "your",
+          "start": 2.006,
+          "end": 2.095
+        },
+        {
+          "w": "mortgage",
+          "start": 2.15,
+          "end": 2.472
+        },
+        {
+          "w": "rate",
+          "start": 2.505,
+          "end": 2.671
+        },
+        {
+          "w": "only",
+          "start": 2.715,
+          "end": 2.938
+        },
+        {
+          "w": "pays",
+          "start": 2.993,
+          "end": 3.226
+        },
+        {
+          "w": "off",
+          "start": 3.292,
+          "end": 3.436
+        },
+        {
+          "w": "if",
+          "start": 3.481,
+          "end": 3.536
+        },
+        {
+          "w": "you",
+          "start": 3.58,
+          "end": 3.657
+        },
+        {
+          "w": "keep",
+          "start": 3.724,
+          "end": 3.89
+        },
+        {
+          "w": "the",
+          "start": 3.935,
+          "end": 4.001
+        },
+        {
+          "w": "loan",
+          "start": 4.046,
+          "end": 4.234
+        },
+        {
+          "w": "five",
+          "start": 4.311,
+          "end": 4.577
+        },
+        {
+          "w": "years.",
+          "start": 4.621,
+          "end": 5.719
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "A three hundred thousand dollar loan. Thirty years, at six and a half percent.",
+      "start": 5.81,
+      "end": 10.43,
+      "words": [
+        {
+          "w": "A",
+          "start": 5.81,
+          "end": 5.907
+        },
+        {
+          "w": "three",
+          "start": 5.972,
+          "end": 6.166
+        },
+        {
+          "w": "hundred",
+          "start": 6.198,
+          "end": 6.404
+        },
+        {
+          "w": "thousand",
+          "start": 6.435,
+          "end": 6.727
+        },
+        {
+          "w": "dollar",
+          "start": 6.77,
+          "end": 6.985
+        },
+        {
+          "w": "loan.",
+          "start": 7.029,
+          "end": 7.363
+        },
+        {
+          "w": "Thirty",
+          "start": 7.622,
+          "end": 7.902
+        },
+        {
+          "w": "years,",
+          "start": 7.956,
+          "end": 8.323
+        },
+        {
+          "w": "at",
+          "start": 8.464,
+          "end": 8.593
+        },
+        {
+          "w": "six",
+          "start": 8.647,
+          "end": 8.809
+        },
+        {
+          "w": "and",
+          "start": 8.852,
+          "end": 8.917
+        },
+        {
+          "w": "a",
+          "start": 8.949,
+          "end": 8.971
+        },
+        {
+          "w": "half",
+          "start": 9.014,
+          "end": 9.143
+        },
+        {
+          "w": "percent.",
+          "start": 9.186,
+          "end": 10.427
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "One point costs one percent of the loan. Three thousand dollars. It often cuts the rate by about a quarter percent.",
+      "start": 10.52,
+      "end": 17.95,
+      "words": [
+        {
+          "w": "One",
+          "start": 10.52,
+          "end": 10.782
+        },
+        {
+          "w": "point",
+          "start": 10.825,
+          "end": 11.022
+        },
+        {
+          "w": "costs",
+          "start": 11.076,
+          "end": 11.327
+        },
+        {
+          "w": "one",
+          "start": 11.393,
+          "end": 11.611
+        },
+        {
+          "w": "percent",
+          "start": 11.654,
+          "end": 11.949
+        },
+        {
+          "w": "of",
+          "start": 11.97,
+          "end": 12.015
+        },
+        {
+          "w": "the",
+          "start": 12.058,
+          "end": 12.124
+        },
+        {
+          "w": "loan.",
+          "start": 12.167,
+          "end": 12.571
+        },
+        {
+          "w": "Three",
+          "start": 12.931,
+          "end": 13.181
+        },
+        {
+          "w": "thousand",
+          "start": 13.225,
+          "end": 13.552
+        },
+        {
+          "w": "dollars.",
+          "start": 13.596,
+          "end": 14.13
+        },
+        {
+          "w": "It",
+          "start": 14.785,
+          "end": 14.926
+        },
+        {
+          "w": "often",
+          "start": 14.97,
+          "end": 15.232
+        },
+        {
+          "w": "cuts",
+          "start": 15.287,
+          "end": 15.493
+        },
+        {
+          "w": "the",
+          "start": 15.537,
+          "end": 15.602
+        },
+        {
+          "w": "rate",
+          "start": 15.657,
+          "end": 15.831
+        },
+        {
+          "w": "by",
+          "start": 15.864,
+          "end": 15.985
+        },
+        {
+          "w": "about",
+          "start": 16.049,
+          "end": 16.235
+        },
+        {
+          "w": "a",
+          "start": 16.267,
+          "end": 16.29
+        },
+        {
+          "w": "quarter",
+          "start": 16.344,
+          "end": 16.584
+        },
+        {
+          "w": "percent.",
+          "start": 16.638,
+          "end": 17.937
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. How long until that three thousand comes back?",
+      "start": 18.03,
+      "end": 22.53,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 18.03,
+          "end": 18.587
+        },
+        {
+          "w": "How",
+          "start": 19.539,
+          "end": 19.725
+        },
+        {
+          "w": "long",
+          "start": 19.806,
+          "end": 20.004
+        },
+        {
+          "w": "until",
+          "start": 20.05,
+          "end": 20.271
+        },
+        {
+          "w": "that",
+          "start": 20.317,
+          "end": 20.445
+        },
+        {
+          "w": "three",
+          "start": 20.515,
+          "end": 20.758
+        },
+        {
+          "w": "thousand",
+          "start": 20.793,
+          "end": 21.141
+        },
+        {
+          "w": "comes",
+          "start": 21.2,
+          "end": 21.397
+        },
+        {
+          "w": "back?",
+          "start": 21.443,
+          "end": 22.535
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "At six and a half: eighteen ninety-six a month. At six and a quarter: eighteen forty-seven.",
+      "start": 23.07,
+      "end": 28.5,
+      "words": [
+        {
+          "w": "At",
+          "start": 23.07,
+          "end": 23.242
+        },
+        {
+          "w": "six",
+          "start": 23.296,
+          "end": 23.468
+        },
+        {
+          "w": "and",
+          "start": 23.511,
+          "end": 23.575
+        },
+        {
+          "w": "a",
+          "start": 23.618,
+          "end": 23.639
+        },
+        {
+          "w": "half:",
+          "start": 23.693,
+          "end": 24.058
+        },
+        {
+          "w": "eighteen",
+          "start": 24.252,
+          "end": 24.585
+        },
+        {
+          "w": "ninety-six",
+          "start": 24.639,
+          "end": 25.068
+        },
+        {
+          "w": "a",
+          "start": 25.123,
+          "end": 25.144
+        },
+        {
+          "w": "month.",
+          "start": 25.187,
+          "end": 25.552
+        },
+        {
+          "w": "At",
+          "start": 26.111,
+          "end": 26.24
+        },
+        {
+          "w": "six",
+          "start": 26.294,
+          "end": 26.476
+        },
+        {
+          "w": "and",
+          "start": 26.52,
+          "end": 26.583
+        },
+        {
+          "w": "a",
+          "start": 26.606,
+          "end": 26.638
+        },
+        {
+          "w": "quarter:",
+          "start": 26.681,
+          "end": 27.132
+        },
+        {
+          "w": "eighteen",
+          "start": 27.293,
+          "end": 27.604
+        },
+        {
+          "w": "forty-seven.",
+          "start": 27.658,
+          "end": 28.485
+        }
+      ],
+      "pad_before": 0.6
+    },
+    {
+      "beat": "reveal",
+      "text": "You save forty-nine dollars a month. Three thousand, divided by forty-nine, is sixty-one months.",
+      "start": 28.56,
+      "end": 35.07,
+      "words": [
+        {
+          "w": "You",
+          "start": 28.56,
+          "end": 28.746
+        },
+        {
+          "w": "save",
+          "start": 28.856,
+          "end": 29.119
+        },
+        {
+          "w": "forty-nine",
+          "start": 29.164,
+          "end": 29.624
+        },
+        {
+          "w": "dollars",
+          "start": 29.657,
+          "end": 29.931
+        },
+        {
+          "w": "a",
+          "start": 29.975,
+          "end": 30.008
+        },
+        {
+          "w": "month.",
+          "start": 30.052,
+          "end": 30.458
+        },
+        {
+          "w": "Three",
+          "start": 31.028,
+          "end": 31.302
+        },
+        {
+          "w": "thousand,",
+          "start": 31.346,
+          "end": 31.73
+        },
+        {
+          "w": "divided",
+          "start": 31.763,
+          "end": 32.07
+        },
+        {
+          "w": "by",
+          "start": 32.103,
+          "end": 32.191
+        },
+        {
+          "w": "forty-nine,",
+          "start": 32.267,
+          "end": 32.936
+        },
+        {
+          "w": "is",
+          "start": 33.167,
+          "end": 33.321
+        },
+        {
+          "w": "sixty-one",
+          "start": 33.375,
+          "end": 33.913
+        },
+        {
+          "w": "months.",
+          "start": 33.945,
+          "end": 35.053
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "Just over five years. Sell or refinance before then, and the point lost you money.",
+      "start": 35.15,
+      "end": 41.19,
+      "words": [
+        {
+          "w": "Just",
+          "start": 35.15,
+          "end": 35.403
+        },
+        {
+          "w": "over",
+          "start": 35.447,
+          "end": 35.59
+        },
+        {
+          "w": "five",
+          "start": 35.645,
+          "end": 35.843
+        },
+        {
+          "w": "years.",
+          "start": 35.877,
+          "end": 36.284
+        },
+        {
+          "w": "Sell",
+          "start": 37.055,
+          "end": 37.341
+        },
+        {
+          "w": "or",
+          "start": 37.407,
+          "end": 37.529
+        },
+        {
+          "w": "refinance",
+          "start": 37.617,
+          "end": 38.157
+        },
+        {
+          "w": "before",
+          "start": 38.189,
+          "end": 38.475
+        },
+        {
+          "w": "then,",
+          "start": 38.508,
+          "end": 38.817
+        },
+        {
+          "w": "and",
+          "start": 39.015,
+          "end": 39.147
+        },
+        {
+          "w": "the",
+          "start": 39.191,
+          "end": 39.258
+        },
+        {
+          "w": "point",
+          "start": 39.301,
+          "end": 39.5
+        },
+        {
+          "w": "lost",
+          "start": 39.543,
+          "end": 39.753
+        },
+        {
+          "w": "you",
+          "start": 39.796,
+          "end": 39.863
+        },
+        {
+          "w": "money.",
+          "start": 39.918,
+          "end": 41.184
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "After that, it's all savings. Before that, it's a fee.",
+      "start": 41.27,
+      "end": 44.79,
+      "words": [
+        {
+          "w": "After",
+          "start": 41.27,
+          "end": 41.572
+        },
+        {
+          "w": "that,",
+          "start": 41.618,
+          "end": 41.85
+        },
+        {
+          "w": "it's",
+          "start": 41.885,
+          "end": 42.036
+        },
+        {
+          "w": "all",
+          "start": 42.094,
+          "end": 42.292
+        },
+        {
+          "w": "savings.",
+          "start": 42.373,
+          "end": 42.988
+        },
+        {
+          "w": "Before",
+          "start": 43.267,
+          "end": 43.592
+        },
+        {
+          "w": "that,",
+          "start": 43.627,
+          "end": 43.882
+        },
+        {
+          "w": "it's",
+          "start": 43.929,
+          "end": 44.103
+        },
+        {
+          "w": "a",
+          "start": 44.138,
+          "end": 44.172
+        },
+        {
+          "w": "fee.",
+          "start": 44.219,
+          "end": 44.799
+        }
+      ]
+    }
+  ],
+  "money": {
+    "loan": 300000,
+    "term": "30y",
+    "rates": [
+      0.065,
+      0.0625
+    ],
+    "pmt": [
+      1896.2,
+      1847.15
+    ],
+    "save": 49.05,
+    "point_cost": 3000,
+    "breakeven_months": 61.2,
+    "caveat": "rate cut per point varies by lender; ~0.25% is a common rule of thumb; ignores taxes/opportunity cost"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}
