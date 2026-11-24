@@ -101,3 +101,45 @@ New shorts every week.
 - **Link in bio:** none yet. Add when there's a lead magnet or affiliate page worth sending people to.
 - **AI disclosure:** our animation isn't realistic footage, so YouTube's altered/synthetic label isn't
   required; tick it if a future video uses realistic AI visuals or a cloned real voice.
+
+---
+
+## Channel B (new) — **Candlelit Tales** (replaces Feels Wrong)
+
+*Old tales with dark twists — folklore, myths and Grimm stories — retold in shadow-puppet silhouettes by candlelight.*
+
+| Field | Value |
+|---|---|
+| Name | Candlelit Tales |
+| Handle | `@candlelittales` (fallbacks: `@candlelit.tales`, `@candlelittalesyt`) |
+| **Backup name** | **Tales After Dark** — `@talesafterdark` (same logo works) |
+| Tagline | One candle. One story. Stay till the end. |
+| Look | black silhouettes on glowing dusk / night / cave skies; candle and moon; warm gold `#ffcf6b` accent |
+| Narrator | ElevenLabs "George" (warm British storyteller) |
+| Avatar | `branding/logos/candlelit-tales.png` — a lit candle between a hooded Death and a traveler |
+
+**TikTok bio (≤80):**
+```
+Old tales with dark twists, told in shadow. A new one every week.
+```
+
+**Instagram bio (≤150):**
+```
+Old tales with dark twists 🕯️
+Folklore, myths and Grimm stories, retold in shadow.
+One candle. One story. Stay till the end.
+```
+
+**YouTube description:**
+```
+Old tales with dark twists.
+
+Folklore, myths, fables and the original Brothers Grimm stories (the ones before
+they were made gentle), retold in under a minute as shadow-puppet animation by
+candlelight. Every story is public domain, every frame is hand-built, and every
+ending is the real one.
+
+One candle. One story. Stay till the end.
+```
+
+**Hashtags (rotate 3–5):** #story #folklore #grimmtales #darkfairytales #mythology #animation #storytime
