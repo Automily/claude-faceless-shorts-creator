@@ -20,6 +20,20 @@ Branding (names, handles, bios, logos): `BRANDING.md`, `branding/logos/`.
 3. Whether to post the last Feels Wrong video (`fw-012`, Benford's law) or drop it.
 4. Plugins suggested for install (animation-studio, Remotion, watch-video) — check with ListPlugins.
 
+## Aggressive schedule (owner asked 2026-11-24) — America/New_York
+| Slot | The Fine Print | Candlelit Tales |
+|---|---|---|
+| 08:45 | ✅ | |
+| 12:45 | ✅ | |
+| 17:45 | ✅ | ✅ |
+| 20:45 | | ✅ |
+= 3/day Fine Print (21/wk), 2/day Tales (14/wk). Feels Wrong is retired (fw-012 held). Buffer targets: FP ≥ 6 ready, Tales ≥ 4.
+Tales run 61–70s so TikTok cuts qualify for Creator Rewards (> 60s). Empty buffer → skip the slot, never filler.
+Next FP topics: BNPL real APR, credit utilization, emergency-fund months, mortgage points, CD vs HYSA, latte-factor honest math,
+credit-card float, Roth vs traditional break-even, car lease money factor, student-loan capitalized interest.
+Next tales: The Monkey's Paw, Bluebeard, Pied Piper (real ending), Anansi & the sky god's stories, The Juniper Tree,
+The Three Army Surgeons, Baba Yaga, The Robber Bridegroom.
+
 ## Owner rules (hard)
 - **No cost.** No paid image/video generation (no fal, no OpenArt credits). ElevenLabs Creator plan is the only spend.
 - Quality over volume: never send anything that hasn't passed QA. Never post filler.
@@ -28,7 +42,7 @@ Branding (names, handles, bios, logos): `BRANDING.md`, `branding/logos/`.
 ## Posting pipeline
 - Queue: `posting/queue.json` (status: building → needs-voice → ready → sent; `review` = owner must approve first).
 - Finished videos are committed in `posting/ready/<id>.mp4` (they carry paid voice — don't regenerate).
-- Scheduled task "Shorts posting slot" (11:45 + 18:45 America/New_York, trigger `trig_01FUkDcxeK3kPQMFu2QZaDQ5`)
+- Scheduled task "Shorts posting slot" (see Aggressive schedule above, trigger `trig_01FUkDcxeK3kPQMFu2QZaDQ5`)
   fires into the ORIGINAL session (`session_01RsWdropN7WuCajWdfSQNfT`). Each slot: send the oldest `ready` item per
   channel with SendUserFile + caption, mark `sent`, commit, push; if a channel has < 6 ready, build more.
   A new session must re-point or recreate this task (update_trigger can't change the session; create a new one
