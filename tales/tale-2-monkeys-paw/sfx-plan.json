@@ -1,0 +1,206 @@
+{
+ "master": "remotion/out/Tale2MonkeysPaw-voiced.mp4",
+ "master_fps": 30,
+ "catalog": "media/library/sfx/catalog.json",
+ "render": {
+  "preview": "remotion/out/Tale2MonkeysPaw-voiced.mp4",
+  "out": "tales/tale-2-monkeys-paw/output/tale-2-sfx.mp4",
+  "end_s": 68.1,
+  "duck": true
+ },
+ "note": "100% library.",
+ "events": [
+  {
+   "at_s": 0.3,
+   "sfx_id": "wind-soft",
+   "gain_db": -16,
+   "cue": "night wind under the hook"
+  },
+  {
+   "at_s": 4.81,
+   "sfx_id": "knock-solid",
+   "gain_db": -9,
+   "cue": "knock"
+  },
+  {
+   "at_s": 5.02,
+   "sfx_id": "knock-solid",
+   "gain_db": -9,
+   "cue": "knock"
+  },
+  {
+   "at_s": 5.23,
+   "sfx_id": "knock-solid",
+   "gain_db": -9,
+   "cue": "knock"
+  },
+  {
+   "at_s": 6.4,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -11,
+   "cue": "inside, firelight"
+  },
+  {
+   "at_s": 9.1,
+   "sfx_id": "warm-shimmer",
+   "gain_db": -13,
+   "cue": "the paw close-up"
+  },
+  {
+   "at_s": 14.3,
+   "sfx_id": "chime-magic",
+   "gain_db": -13,
+   "cue": "fate rules"
+  },
+  {
+   "at_s": 18.5,
+   "sfx_id": "pop-reveal",
+   "gain_db": -11,
+   "cue": "3 x 3"
+  },
+  {
+   "at_s": 21.8,
+   "sfx_id": "whoosh-wind",
+   "gain_db": -11,
+   "cue": "thrown on the fire"
+  },
+  {
+   "at_s": 22.4,
+   "sfx_id": "impact-soft",
+   "gain_db": -12,
+   "cue": "flare"
+  },
+  {
+   "at_s": 26.5,
+   "sfx_id": "chime-magic",
+   "gain_db": -12,
+   "cue": "wish 1: finger curls"
+  },
+  {
+   "at_s": 30.1,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -11,
+   "cue": "to the factory"
+  },
+  {
+   "at_s": 33.8,
+   "sfx_id": "impact-deep-soft",
+   "gain_db": -7,
+   "cue": "HERO: the machinery"
+  },
+  {
+   "at_s": 37.7,
+   "sfx_id": "stamp-hit",
+   "gain_db": -10,
+   "cue": "\u00a3200"
+  },
+  {
+   "at_s": 39.69,
+   "sfx_id": "pop-reveal",
+   "gain_db": -10,
+   "cue": "PauseCard"
+  },
+  {
+   "at_s": 40.0,
+   "sfx_id": "clock-tick-soft",
+   "gain_db": -16,
+   "cue": "pause"
+  },
+  {
+   "at_s": 45.6,
+   "sfx_id": "chime-magic",
+   "gain_db": -11,
+   "cue": "wish 2"
+  },
+  {
+   "at_s": 47.6,
+   "sfx_id": "owl-hoot",
+   "gain_db": -15,
+   "cue": "graveyard"
+  },
+  {
+   "at_s": 47.7,
+   "sfx_id": "wind-soft",
+   "gain_db": -15,
+   "cue": "graveyard wind"
+  },
+  {
+   "at_s": 54.68,
+   "sfx_id": "knock-solid",
+   "gain_db": -6,
+   "cue": "knock"
+  },
+  {
+   "at_s": 54.9,
+   "sfx_id": "knock-solid",
+   "gain_db": -6,
+   "cue": "knock"
+  },
+  {
+   "at_s": 55.12,
+   "sfx_id": "knock-solid",
+   "gain_db": -6,
+   "cue": "knock"
+  },
+  {
+   "at_s": 56.2,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -12,
+   "cue": "she runs to the bolt"
+  },
+  {
+   "at_s": 57.0,
+   "sfx_id": "knock-solid",
+   "gain_db": -6,
+   "cue": "knock"
+  },
+  {
+   "at_s": 57.22,
+   "sfx_id": "knock-solid",
+   "gain_db": -6,
+   "cue": "knock"
+  },
+  {
+   "at_s": 58.5,
+   "sfx_id": "knock-solid",
+   "gain_db": -6,
+   "cue": "knock"
+  },
+  {
+   "at_s": 58.72,
+   "sfx_id": "knock-solid",
+   "gain_db": -6,
+   "cue": "knock"
+  },
+  {
+   "at_s": 59.5,
+   "sfx_id": "knock-solid",
+   "gain_db": -6,
+   "cue": "knock"
+  },
+  {
+   "at_s": 59.72,
+   "sfx_id": "knock-solid",
+   "gain_db": -6,
+   "cue": "knock"
+  },
+  {
+   "at_s": 60.15,
+   "sfx_id": "impact-deep-soft",
+   "gain_db": -6,
+   "cue": "HERO: wish 3"
+  },
+  {
+   "at_s": 61.8,
+   "sfx_id": "wind-soft",
+   "gain_db": -14,
+   "cue": "empty road"
+  },
+  {
+   "at_s": 65.7,
+   "sfx_id": "whoosh-reverse",
+   "gain_db": -11,
+   "cue": "back to the door"
+  }
+ ]
+}
