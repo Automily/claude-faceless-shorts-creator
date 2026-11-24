@@ -208,6 +208,14 @@
   "transparent": false
  },
  {
+  "id": "Short32Bnpl",
+  "durationInSeconds": 42.6,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short4Reflog",
   "durationInSeconds": 34,
   "fps": 30,
