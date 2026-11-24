@@ -120,13 +120,13 @@ New shorts every week.
 
 **TikTok bio (≤80):**
 ```
-Old tales with dark twists, told in shadow. A new one every week.
+Old tales with dark twists, told in shadow 🕯️ New story every night.
 ```
 
 **Instagram bio (≤150):**
 ```
 Old tales with dark twists 🕯️
-Folklore, myths and Grimm stories, retold in shadow.
+Folklore, Grimm & classic horror, retold in shadow.
 One candle. One story. Stay till the end.
 ```
 
@@ -134,11 +134,12 @@ One candle. One story. Stay till the end.
 ```
 Old tales with dark twists.
 
-Folklore, myths, fables and the original Brothers Grimm stories (the ones before
-they were made gentle), retold in under a minute as shadow-puppet animation by
+Folklore, myths, classic horror and the original Brothers Grimm stories (the ones before
+they were made gentle), retold as shadow-puppet animation by
 candlelight. Every story is public domain, every frame is hand-built, and every
 ending is the real one.
 
+New stories every night.
 One candle. One story. Stay till the end.
 ```
 

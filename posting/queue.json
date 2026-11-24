@@ -273,10 +273,11 @@
    "channel": "Candlelit Tales",
    "short": "tales/tale-1-godfather-death",
    "video": "posting/ready/tale-001.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "The doctor who tried to cheat Death",
    "caption": "A Brothers Grimm tale: Death becomes a boy's godfather and gives him one gift. If Death stands at the head of the bed, the patient lives. At the feet, they die. Then the princess falls ill...",
-   "hashtags": "#story #grimmtales #folklore #animation #darkfairytales"
+   "hashtags": "#story #grimmtales #folklore #animation #darkfairytales",
+   "sent_at": "2026-11-24T13:46:38+00:00"
   },
   {
    "id": "fp-013",
