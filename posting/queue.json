@@ -127,6 +127,16 @@
       "sent_at": "2026-11-19T11:45-05:00"
     },
     {
+      "id": "fp-012",
+      "channel": "The Fine Print",
+      "short": "shorts/short-31-x25",
+      "video": "posting/ready/fp-012.mp4",
+      "status": "ready",
+      "title": "How much do you need to retire? Multiply by 25",
+      "caption": "The 4% rule in one line: yearly spending × 25. Spend $40K a year, you need about $1M. Flip it: every $1/yr you cut is $25 less to save. Cut $100/month = $30,000 less. (Rule of thumb from historical data, not a guarantee.)",
+      "hashtags": "#retirement #fire #personalfinance #investing #moneytips"
+    },
+    {
       "id": "fw-001",
       "channel": "Feels Wrong",
       "short": "shorts/short-5-prob",
