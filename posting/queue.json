@@ -328,10 +328,11 @@
    "channel": "The Fine Print",
    "short": "shorts/short-34-points",
    "video": "posting/ready/fp-015.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "Mortgage points only pay off after 5 years",
    "caption": "One mortgage point costs 1% of the loan: $3,000 on $300K. If it cuts your rate from 6.50% to 6.25%, you save $49 a month. $3,000 ÷ $49 = 61 months to break even. Sell or refinance before about 5 years and the point lost you money. (Rate cut per point varies by lender; illustrative, not advice.)",
-   "hashtags": "#mortgage #homebuying #realestate #personalfinance #moneytips"
+   "hashtags": "#mortgage #homebuying #realestate #personalfinance #moneytips",
+   "sent_at": "2026-11-25T13:46:49+00:00"
   },
   {
    "id": "fp-016",
