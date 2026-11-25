@@ -5,10 +5,10 @@
  "render": {
   "preview": "remotion/out/Tale4PiedPiper-voiced.mp4",
   "out": "tales/tale-4-pied-piper/output/tale-4-sfx.mp4",
-  "end_s": 62.0,
+  "end_s": 75.7,
   "duck": true
  },
- "note": "100% library.",
+ "note": "100% library. Piper POV version.",
  "events": [
   {
    "at_s": 0.3,
@@ -23,160 +23,202 @@
    "cue": "the pipe"
   },
   {
-   "at_s": 5.4,
+   "at_s": 4.0,
    "sfx_id": "whoosh-soft",
    "gain_db": -11,
    "cue": "to Hamelin"
   },
   {
-   "at_s": 5.9,
+   "at_s": 4.3,
    "sfx_id": "stamp-hit",
    "gain_db": -10,
    "cue": "1284"
   },
   {
-   "at_s": 7.5,
+   "at_s": 6.3,
    "sfx_id": "keys-typing-soft",
-   "gain_db": -14,
-   "cue": "rats scurry (scratchy)"
+   "gain_db": -13,
+   "cue": "rats scratching"
   },
   {
-   "at_s": 10.1,
+   "at_s": 9.7,
+   "sfx_id": "riser-soft",
+   "gain_db": -12,
+   "cue": "in the walls push-in"
+  },
+  {
+   "at_s": 12.1,
    "sfx_id": "whoosh-wind",
    "gain_db": -12,
-   "cue": "stranger arrives"
+   "cue": "I walk in"
   },
   {
-   "at_s": 13.0,
+   "at_s": 16.7,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -11,
+   "cue": "across the table"
+  },
+  {
+   "at_s": 18.5,
    "sfx_id": "chime-reward",
    "gain_db": -12,
    "cue": "for a price"
   },
   {
-   "at_s": 15.8,
-   "sfx_id": "warm-shimmer",
-   "gain_db": -12,
-   "cue": "he plays"
+   "at_s": 19.9,
+   "sfx_id": "impact-soft",
+   "gain_db": -10,
+   "cue": "handshake"
   },
   {
-   "at_s": 18.5,
+   "at_s": 21.4,
+   "sfx_id": "warm-shimmer",
+   "gain_db": -10,
+   "cue": "I lift my pipe"
+  },
+  {
+   "at_s": 23.5,
+   "sfx_id": "keys-typing-soft",
+   "gain_db": -13,
+   "cue": "rats pour out"
+  },
+  {
+   "at_s": 26.2,
    "sfx_id": "stream-soft",
    "gain_db": -12,
    "cue": "the river"
   },
   {
-   "at_s": 19.25,
-   "sfx_id": "impact-soft",
-   "gain_db": -10,
-   "cue": "drowned"
-  },
-  {
-   "at_s": 21.4,
+   "at_s": 27.5,
    "sfx_id": "impact-deep-soft",
-   "gain_db": -7,
-   "cue": "refused to pay"
+   "gain_db": -8,
+   "cue": "not one comes out"
   },
   {
-   "at_s": 23.3,
-   "sfx_id": "whoosh-wind",
-   "gain_db": -12,
-   "cue": "he leaves"
+   "at_s": 29.2,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -11,
+   "cue": "back for pay"
   },
   {
-   "at_s": 26.4,
+   "at_s": 31.6,
    "sfx_id": "impact-soft",
    "gain_db": -9,
-   "cue": "he came back"
+   "cue": "they laugh"
   },
   {
-   "at_s": 30.65,
+   "at_s": 33.3,
+   "sfx_id": "whoosh-wind",
+   "gain_db": -12,
+   "cue": "I leave"
+  },
+  {
+   "at_s": 36.7,
+   "sfx_id": "chime-magic",
+   "gain_db": -14,
+   "cue": "church bells-ish"
+  },
+  {
+   "at_s": 38.2,
+   "sfx_id": "impact-deep-soft",
+   "gain_db": -7,
+   "cue": "I come back"
+  },
+  {
+   "at_s": 42.5,
    "sfx_id": "pop-reveal",
    "gain_db": -10,
    "cue": "PauseCard"
   },
   {
-   "at_s": 30.9,
+   "at_s": 42.8,
    "sfx_id": "clock-tick-soft",
    "gain_db": -16,
    "cue": "pause"
   },
   {
-   "at_s": 33.95,
+   "at_s": 46.6,
    "sfx_id": "warm-shimmer",
-   "gain_db": -11,
-   "cue": "he plays again"
+   "gain_db": -9,
+   "cue": "one song"
   },
   {
-   "at_s": 37.4,
+   "at_s": 48.0,
+   "sfx_id": "knock-solid",
+   "gain_db": -14,
+   "cue": "doors creak"
+  },
+  {
+   "at_s": 51.2,
    "sfx_id": "impact-deep-soft",
    "gain_db": -6,
    "cue": "HERO: 130 children"
   },
   {
-   "at_s": 39.7,
+   "at_s": 56.4,
    "sfx_id": "chime-magic",
-   "gain_db": -11,
+   "gain_db": -10,
    "cue": "mountain opens"
   },
   {
-   "at_s": 41.0,
+   "at_s": 57.9,
    "sfx_id": "impact-deep-soft",
    "gain_db": -7,
    "cue": "it closes"
   },
   {
-   "at_s": 43.5,
+   "at_s": 58.6,
    "sfx_id": "wind-soft",
    "gain_db": -14,
-   "cue": "search"
+   "cue": "mothers"
   },
   {
-   "at_s": 43.6,
-   "sfx_id": "owl-hoot",
-   "gain_db": -16,
-   "cue": "night"
-  },
-  {
-   "at_s": 46.67,
+   "at_s": 61.4,
    "sfx_id": "impact-soft",
    "gain_db": -10,
-   "cue": "nothing"
+   "cue": "nothing answers"
   },
   {
-   "at_s": 50.2,
+   "at_s": 65.2,
    "sfx_id": "pop-reveal",
    "gain_db": -13,
    "cue": "blind"
   },
   {
-   "at_s": 51.4,
+   "at_s": 66.4,
    "sfx_id": "pop-reveal",
    "gain_db": -13,
    "cue": "mute"
   },
   {
-   "at_s": 53.0,
+   "at_s": 67.9,
    "sfx_id": "pop-reveal",
    "gain_db": -13,
    "cue": "coat"
   },
   {
-   "at_s": 55.4,
+   "at_s": 69.8,
    "sfx_id": "page-flip",
    "gain_db": -10,
-   "cue": "the records"
+   "cue": "the year"
   },
   {
-   "at_s": 57.4,
+   "at_s": 71.0,
    "sfx_id": "stamp-hit",
    "gain_db": -9,
    "cue": "1284"
   },
   {
-   "at_s": 60.4,
+   "at_s": 72.5,
+   "sfx_id": "impact-deep-soft",
+   "gain_db": -8,
+   "cue": "pay the piper"
+  },
+  {
+   "at_s": 74.1,
    "sfx_id": "whoosh-reverse",
    "gain_db": -12,
-   "cue": "back to the procession"
+   "cue": "loop"
   }
  ]
 }

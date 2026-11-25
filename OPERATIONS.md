@@ -34,6 +34,19 @@ credit-card float, Roth vs traditional break-even, student-loan capitalized inte
 Built tales: 1 Godfather Death, 2 Monkey's Paw, 3 Bluebeard, 4 Pied Piper. Next tales: Anansi & the sky god's stories, The Juniper Tree,
 The Three Army Surgeons, Baba Yaga, The Robber Bridegroom.
 
+## Story style (owner direction 2026-11-25) — applies to EVERY new video
+Make it immersive: put the viewer INSIDE the scenario. More exciting, more creative.
+- **Candlelit Tales:** tell it from the main character's point of view, FIRST PERSON, PRESENT TENSE
+  ("I lift the pipe. Every rat in Hamelin follows me."). Sensory detail (sounds, smells, cold), short punchy
+  sentences, the narrator's motive and feeling. Villain or victim POV both fine — pick whoever makes the
+  twist hit hardest. Visuals: add POV shots (the narrator's hands, what they see over a table/through a door),
+  closer framings, camera push-ins on the moment of dread. Still public-domain plots, still the real ending.
+- **The Fine Print:** open IN a scene, second person ("You're at the dealership. The finance guy slides a
+  paper over...", "You tap 'Pay in 4' at checkout..."). The viewer makes the choice, THEN the math reveals
+  what it cost them. Visuals: the thing they'd see (the contract, the checkout screen, the statement) first,
+  then the charts. Still: show the math, never advise.
+- Pause-card question becomes the viewer's decision ("What do you sign?", "What would you play?").
+
 ## Context hygiene
 - Owner wants the conversation compacted every other day or so. Only the owner can type `/compact`
   (it also auto-compacts when long). The 20:45 slot reminds them every 2 days.

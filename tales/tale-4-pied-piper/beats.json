@@ -1,926 +1,1065 @@
 {
   "id": "tale-4-pied-piper",
-  "title": "The Pied Piper of Hamelin (the real ending)",
+  "title": "The Pied Piper (told by the Piper)",
   "composition": "Tale4PiedPiper",
   "channel": "Candlelit Tales",
   "format": {
     "width": 1080,
     "height": 1920,
     "fps": 30,
-    "durationSec": 62.0
+    "durationSec": 75.7
   },
   "voicePlan": "elevenlabs:JBFqnCBsd6RMkjVDRZzb (George, storyteller)",
   "source": "Brothers Grimm, 'Die Kinder zu Hameln' (Deutsche Sagen no. 245, 1816) — public domain; retold and condensed. 1284 / 130 children per the legend and Hamelin town records.",
-  "style": "shadow-puppet silhouettes; the piper's coat is the only colour",
+  "style": "Piper's POV, first person present; shadow-puppet; POV close-ups of the pipe in his hands; the coat is the only colour",
   "vo": [
     {
       "beat": "hook",
-      "text": "A town refused to pay one bill. It cost them a hundred and thirty children.",
+      "text": "They owed me my pay. So I took something worth more.",
       "start": 0.4,
-      "end": 5.18,
+      "end": 3.69,
       "words": [
         {
-          "w": "A",
+          "w": "They",
           "start": 0.4,
-          "end": 0.504
+          "end": 0.597
         },
         {
-          "w": "town",
-          "start": 0.574,
-          "end": 0.818
+          "w": "owed",
+          "start": 0.655,
+          "end": 0.83
         },
         {
-          "w": "refused",
-          "start": 0.888,
-          "end": 1.248
+          "w": "me",
+          "start": 0.864,
+          "end": 0.946
         },
         {
-          "w": "to",
-          "start": 1.271,
-          "end": 1.317
-        },
-        {
-          "w": "pay",
-          "start": 1.375,
-          "end": 1.573
-        },
-        {
-          "w": "one",
-          "start": 1.665,
-          "end": 1.84
-        },
-        {
-          "w": "bill.",
-          "start": 1.886,
-          "end": 2.327
-        },
-        {
-          "w": "It",
-          "start": 2.571,
-          "end": 2.71
-        },
-        {
-          "w": "cost",
-          "start": 2.757,
-          "end": 2.989
-        },
-        {
-          "w": "them",
-          "start": 3.024,
-          "end": 3.152
-        },
-        {
-          "w": "a",
-          "start": 3.198,
-          "end": 3.221
-        },
-        {
-          "w": "hundred",
-          "start": 3.291,
-          "end": 3.57
-        },
-        {
-          "w": "and",
-          "start": 3.604,
-          "end": 3.674
-        },
-        {
-          "w": "thirty",
-          "start": 3.732,
-          "end": 4.034
-        },
-        {
-          "w": "children.",
-          "start": 4.092,
-          "end": 5.183
-        }
-      ]
-    },
-    {
-      "beat": "setup",
-      "text": "In twelve eighty-four, the town of Hamelin was overrun with rats.",
-      "start": 5.64,
-      "end": 9.81,
-      "words": [
-        {
-          "w": "In",
-          "start": 5.64,
-          "end": 5.791
-        },
-        {
-          "w": "twelve",
-          "start": 5.837,
-          "end": 6.128
-        },
-        {
-          "w": "eighty-four,",
-          "start": 6.162,
-          "end": 6.871
-        },
-        {
-          "w": "the",
-          "start": 6.952,
-          "end": 7.056
-        },
-        {
-          "w": "town",
-          "start": 7.103,
-          "end": 7.323
-        },
-        {
-          "w": "of",
-          "start": 7.37,
-          "end": 7.428
-        },
-        {
-          "w": "Hamelin",
-          "start": 7.474,
-          "end": 7.858
-        },
-        {
-          "w": "was",
-          "start": 7.916,
-          "end": 8.032
-        },
-        {
-          "w": "overrun",
-          "start": 8.101,
-          "end": 8.566
-        },
-        {
-          "w": "with",
-          "start": 8.612,
-          "end": 8.751
-        },
-        {
-          "w": "rats.",
-          "start": 8.821,
-          "end": 9.82
-        }
-      ]
-    },
-    {
-      "beat": "setup",
-      "text": "A stranger in a coat of many colors offered to clear them, for a price. The town agreed.",
-      "start": 10.08,
-      "end": 15.55,
-      "words": [
-        {
-          "w": "A",
-          "start": 10.08,
-          "end": 10.184
-        },
-        {
-          "w": "stranger",
-          "start": 10.254,
-          "end": 10.684
-        },
-        {
-          "w": "in",
-          "start": 10.742,
-          "end": 10.811
-        },
-        {
-          "w": "a",
-          "start": 10.846,
-          "end": 10.869
-        },
-        {
-          "w": "coat",
-          "start": 10.951,
-          "end": 11.195
-        },
-        {
-          "w": "of",
-          "start": 11.253,
-          "end": 11.322
-        },
-        {
-          "w": "many",
-          "start": 11.392,
-          "end": 11.601
-        },
-        {
-          "w": "colors",
-          "start": 11.671,
-          "end": 12.007
-        },
-        {
-          "w": "offered",
-          "start": 12.089,
-          "end": 12.39
-        },
-        {
-          "w": "to",
-          "start": 12.414,
-          "end": 12.46
-        },
-        {
-          "w": "clear",
-          "start": 12.53,
-          "end": 12.762
-        },
-        {
-          "w": "them,",
-          "start": 12.808,
-          "end": 12.994
-        },
-        {
-          "w": "for",
-          "start": 13.029,
-          "end": 13.157
-        },
-        {
-          "w": "a",
-          "start": 13.215,
-          "end": 13.238
-        },
-        {
-          "w": "price.",
-          "start": 13.284,
-          "end": 13.83
-        },
-        {
-          "w": "The",
-          "start": 14.341,
-          "end": 14.457
-        },
-        {
-          "w": "town",
-          "start": 14.515,
-          "end": 14.724
-        },
-        {
-          "w": "agreed.",
-          "start": 14.77,
-          "end": 15.56
-        }
-      ]
-    },
-    {
-      "beat": "setup",
-      "text": "He played his pipe, and every rat followed him into the river, and drowned.",
-      "start": 15.78,
-      "end": 20.23,
-      "words": [
-        {
-          "w": "He",
-          "start": 15.78,
-          "end": 15.908
-        },
-        {
-          "w": "played",
-          "start": 15.966,
-          "end": 16.198
-        },
-        {
-          "w": "his",
-          "start": 16.233,
-          "end": 16.326
-        },
-        {
-          "w": "pipe,",
-          "start": 16.395,
-          "end": 16.72
-        },
-        {
-          "w": "and",
-          "start": 16.744,
-          "end": 16.848
-        },
-        {
-          "w": "every",
-          "start": 16.929,
-          "end": 17.196
-        },
-        {
-          "w": "rat",
-          "start": 17.266,
-          "end": 17.475
-        },
-        {
-          "w": "followed",
-          "start": 17.556,
-          "end": 17.893
-        },
-        {
-          "w": "him",
-          "start": 17.939,
-          "end": 18.067
-        },
-        {
-          "w": "into",
-          "start": 18.137,
-          "end": 18.311
-        },
-        {
-          "w": "the",
-          "start": 18.369,
-          "end": 18.439
-        },
-        {
-          "w": "river,",
-          "start": 18.497,
-          "end": 18.915
-        },
-        {
-          "w": "and",
-          "start": 19.031,
-          "end": 19.182
-        },
-        {
-          "w": "drowned.",
-          "start": 19.24,
-          "end": 20.238
-        }
-      ]
-    },
-    {
-      "beat": "turn",
-      "text": "Then the town refused to pay.",
-      "start": 20.69,
-      "end": 22.92,
-      "words": [
-        {
-          "w": "Then",
-          "start": 20.69,
-          "end": 20.934
-        },
-        {
-          "w": "the",
-          "start": 20.98,
-          "end": 21.05
-        },
-        {
-          "w": "town",
-          "start": 21.096,
-          "end": 21.363
-        },
-        {
-          "w": "refused",
-          "start": 21.421,
-          "end": 21.828
-        },
-        {
-          "w": "to",
-          "start": 21.851,
-          "end": 21.909
+          "w": "my",
+          "start": 1.004,
+          "end": 1.12
         },
         {
           "w": "pay.",
-          "start": 21.967,
-          "end": 22.919
+          "start": 1.189,
+          "end": 1.642
+        },
+        {
+          "w": "So",
+          "start": 1.7,
+          "end": 1.828
+        },
+        {
+          "w": "I",
+          "start": 1.898,
+          "end": 1.921
+        },
+        {
+          "w": "took",
+          "start": 1.991,
+          "end": 2.176
+        },
+        {
+          "w": "something",
+          "start": 2.211,
+          "end": 2.501
+        },
+        {
+          "w": "worth",
+          "start": 2.571,
+          "end": 2.826
+        },
+        {
+          "w": "more.",
+          "start": 2.885,
+          "end": 3.697
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Hamelin. Twelve eighty-four. Rats in the bread. Rats in the cradles. You can hear them in the walls at night.",
+      "start": 4.2,
+      "end": 12.0,
+      "words": [
+        {
+          "w": "Hamelin.",
+          "start": 4.2,
+          "end": 4.862
+        },
+        {
+          "w": "Twelve",
+          "start": 5.013,
+          "end": 5.396
+        },
+        {
+          "w": "eighty-four.",
+          "start": 5.442,
+          "end": 6.197
+        },
+        {
+          "w": "Rats",
+          "start": 6.348,
+          "end": 6.626
+        },
+        {
+          "w": "in",
+          "start": 6.673,
+          "end": 6.743
+        },
+        {
+          "w": "the",
+          "start": 6.789,
+          "end": 6.859
+        },
+        {
+          "w": "bread.",
+          "start": 6.894,
+          "end": 7.393
+        },
+        {
+          "w": "Rats",
+          "start": 7.904,
+          "end": 8.194
+        },
+        {
+          "w": "in",
+          "start": 8.24,
+          "end": 8.31
+        },
+        {
+          "w": "the",
+          "start": 8.345,
+          "end": 8.414
+        },
+        {
+          "w": "cradles.",
+          "start": 8.449,
+          "end": 9.134
+        },
+        {
+          "w": "You",
+          "start": 9.645,
+          "end": 9.761
+        },
+        {
+          "w": "can",
+          "start": 9.808,
+          "end": 9.924
+        },
+        {
+          "w": "hear",
+          "start": 9.982,
+          "end": 10.133
+        },
+        {
+          "w": "them",
+          "start": 10.179,
+          "end": 10.295
+        },
+        {
+          "w": "in",
+          "start": 10.33,
+          "end": 10.388
+        },
+        {
+          "w": "the",
+          "start": 10.423,
+          "end": 10.493
+        },
+        {
+          "w": "walls",
+          "start": 10.527,
+          "end": 10.829
+        },
+        {
+          "w": "at",
+          "start": 10.876,
+          "end": 10.957
+        },
+        {
+          "w": "night.",
+          "start": 11.015,
+          "end": 12.002
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "I walk in, wearing my coat of many colors, and I make them an offer. Your rats, gone. For a price. They shake my hand.",
+      "start": 12.15,
+      "end": 21.25,
+      "words": [
+        {
+          "w": "I",
+          "start": 12.15,
+          "end": 12.254
+        },
+        {
+          "w": "walk",
+          "start": 12.371,
+          "end": 12.591
+        },
+        {
+          "w": "in,",
+          "start": 12.684,
+          "end": 12.986
+        },
+        {
+          "w": "wearing",
+          "start": 13.044,
+          "end": 13.381
+        },
+        {
+          "w": "my",
+          "start": 13.439,
+          "end": 13.543
+        },
+        {
+          "w": "coat",
+          "start": 13.624,
+          "end": 13.857
+        },
+        {
+          "w": "of",
+          "start": 13.915,
+          "end": 13.973
+        },
+        {
+          "w": "many",
+          "start": 14.054,
+          "end": 14.251
+        },
+        {
+          "w": "colors,",
+          "start": 14.309,
+          "end": 14.844
+        },
+        {
+          "w": "and",
+          "start": 14.994,
+          "end": 15.134
+        },
+        {
+          "w": "I",
+          "start": 15.215,
+          "end": 15.238
+        },
+        {
+          "w": "make",
+          "start": 15.354,
+          "end": 15.552
+        },
+        {
+          "w": "them",
+          "start": 15.587,
+          "end": 15.714
+        },
+        {
+          "w": "an",
+          "start": 15.749,
+          "end": 15.807
+        },
+        {
+          "w": "offer.",
+          "start": 15.877,
+          "end": 16.446
+        },
+        {
+          "w": "Your",
+          "start": 16.887,
+          "end": 17.096
+        },
+        {
+          "w": "rats,",
+          "start": 17.154,
+          "end": 17.618
+        },
+        {
+          "w": "gone.",
+          "start": 17.734,
+          "end": 18.234
+        },
+        {
+          "w": "For",
+          "start": 18.477,
+          "end": 18.628
+        },
+        {
+          "w": "a",
+          "start": 18.675,
+          "end": 18.698
+        },
+        {
+          "w": "price.",
+          "start": 18.756,
+          "end": 19.337
+        },
+        {
+          "w": "They",
+          "start": 19.72,
+          "end": 19.894
+        },
+        {
+          "w": "shake",
+          "start": 19.94,
+          "end": 20.184
+        },
+        {
+          "w": "my",
+          "start": 20.231,
+          "end": 20.335
+        },
+        {
+          "w": "hand.",
+          "start": 20.405,
+          "end": 21.252
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "I lift my pipe. Every rat in Hamelin pours into the street behind me, down to the river. Not one comes out.",
+      "start": 21.38,
+      "end": 28.99,
+      "words": [
+        {
+          "w": "I",
+          "start": 21.38,
+          "end": 21.461
+        },
+        {
+          "w": "lift",
+          "start": 21.543,
+          "end": 21.728
+        },
+        {
+          "w": "my",
+          "start": 21.786,
+          "end": 21.879
+        },
+        {
+          "w": "pipe.",
+          "start": 21.949,
+          "end": 22.448
+        },
+        {
+          "w": "Every",
+          "start": 22.692,
+          "end": 22.982
+        },
+        {
+          "w": "rat",
+          "start": 23.052,
+          "end": 23.249
+        },
+        {
+          "w": "in",
+          "start": 23.307,
+          "end": 23.365
+        },
+        {
+          "w": "Hamelin",
+          "start": 23.423,
+          "end": 23.783
+        },
+        {
+          "w": "pours",
+          "start": 23.865,
+          "end": 24.201
+        },
+        {
+          "w": "into",
+          "start": 24.236,
+          "end": 24.387
+        },
+        {
+          "w": "the",
+          "start": 24.445,
+          "end": 24.515
+        },
+        {
+          "w": "street",
+          "start": 24.561,
+          "end": 24.84
+        },
+        {
+          "w": "behind",
+          "start": 24.898,
+          "end": 25.2
+        },
+        {
+          "w": "me,",
+          "start": 25.269,
+          "end": 25.571
+        },
+        {
+          "w": "down",
+          "start": 25.722,
+          "end": 25.966
+        },
+        {
+          "w": "to",
+          "start": 26.012,
+          "end": 26.07
+        },
+        {
+          "w": "the",
+          "start": 26.128,
+          "end": 26.198
+        },
+        {
+          "w": "river.",
+          "start": 26.245,
+          "end": 26.755
+        },
+        {
+          "w": "Not",
+          "start": 27.452,
+          "end": 27.638
+        },
+        {
+          "w": "one",
+          "start": 27.707,
+          "end": 27.905
+        },
+        {
+          "w": "comes",
+          "start": 27.951,
+          "end": 28.195
+        },
+        {
+          "w": "out.",
+          "start": 28.253,
+          "end": 28.996
         }
       ]
     },
     {
       "beat": "turn",
-      "text": "He left in anger. Weeks later, on a holy day, he came back, dressed as a hunter, with a strange red hat.",
-      "start": 23.25,
-      "end": 30.31,
+      "text": "Then I go back for my pay. And they laugh at me.",
+      "start": 29.36,
+      "end": 33.03,
       "words": [
         {
-          "w": "He",
-          "start": 23.25,
-          "end": 23.378
+          "w": "Then",
+          "start": 29.36,
+          "end": 29.604
         },
         {
-          "w": "left",
-          "start": 23.447,
-          "end": 23.645
+          "w": "I",
+          "start": 29.662,
+          "end": 29.685
         },
         {
-          "w": "in",
-          "start": 23.703,
-          "end": 23.761
+          "w": "go",
+          "start": 29.766,
+          "end": 29.859
         },
         {
-          "w": "anger.",
-          "start": 23.819,
-          "end": 24.272
+          "w": "back",
+          "start": 29.929,
+          "end": 30.091
+        },
+        {
+          "w": "for",
+          "start": 30.138,
+          "end": 30.242
+        },
+        {
+          "w": "my",
+          "start": 30.289,
+          "end": 30.382
+        },
+        {
+          "w": "pay.",
+          "start": 30.463,
+          "end": 31.02
+        },
+        {
+          "w": "And",
+          "start": 31.264,
+          "end": 31.403
+        },
+        {
+          "w": "they",
+          "start": 31.438,
+          "end": 31.554
+        },
+        {
+          "w": "laugh",
+          "start": 31.612,
+          "end": 31.856
+        },
+        {
+          "w": "at",
+          "start": 31.891,
+          "end": 31.961
+        },
+        {
+          "w": "me.",
+          "start": 32.007,
+          "end": 33.029
+        }
+      ]
+    },
+    {
+      "beat": "turn",
+      "text": "So I leave. Weeks later, on a holy morning, while the parents sit in church, I come back. Hunter's clothes. A red hat.",
+      "start": 33.31,
+      "end": 42.17,
+      "words": [
+        {
+          "w": "So",
+          "start": 33.31,
+          "end": 33.496
+        },
+        {
+          "w": "I",
+          "start": 33.577,
+          "end": 33.6
+        },
+        {
+          "w": "leave.",
+          "start": 33.693,
+          "end": 34.169
         },
         {
           "w": "Weeks",
-          "start": 24.783,
-          "end": 25.061
+          "start": 34.494,
+          "end": 34.773
         },
         {
           "w": "later,",
-          "start": 25.108,
-          "end": 25.479
+          "start": 34.831,
+          "end": 35.191
         },
         {
           "w": "on",
-          "start": 25.514,
-          "end": 25.653
+          "start": 35.226,
+          "end": 35.365
         },
         {
           "w": "a",
-          "start": 25.688,
-          "end": 25.711
+          "start": 35.4,
+          "end": 35.423
         },
         {
           "w": "holy",
-          "start": 25.781,
-          "end": 26.013
+          "start": 35.504,
+          "end": 35.736
         },
         {
-          "w": "day,",
-          "start": 26.071,
-          "end": 26.338
+          "w": "morning,",
+          "start": 35.795,
+          "end": 36.247
         },
         {
-          "w": "he",
-          "start": 26.385,
-          "end": 26.454
+          "w": "while",
+          "start": 36.363,
+          "end": 36.607
         },
         {
-          "w": "came",
-          "start": 26.512,
-          "end": 26.733
+          "w": "the",
+          "start": 36.63,
+          "end": 36.7
         },
         {
-          "w": "back,",
-          "start": 26.768,
-          "end": 27.116
+          "w": "parents",
+          "start": 36.758,
+          "end": 37.141
         },
         {
-          "w": "dressed",
-          "start": 27.186,
-          "end": 27.488
+          "w": "sit",
+          "start": 37.176,
+          "end": 37.339
         },
         {
-          "w": "as",
-          "start": 27.522,
-          "end": 27.604
+          "w": "in",
+          "start": 37.397,
+          "end": 37.466
         },
         {
-          "w": "a",
-          "start": 27.65,
-          "end": 27.673
+          "w": "church,",
+          "start": 37.536,
+          "end": 37.977
         },
         {
-          "w": "hunter,",
-          "start": 27.731,
-          "end": 28.161
+          "w": "I",
+          "start": 38.047,
+          "end": 38.105
         },
         {
-          "w": "with",
-          "start": 28.242,
-          "end": 28.405
+          "w": "come",
+          "start": 38.221,
+          "end": 38.407
         },
         {
-          "w": "a",
-          "start": 28.44,
-          "end": 28.463
+          "w": "back.",
+          "start": 38.442,
+          "end": 38.929
         },
         {
-          "w": "strange",
-          "start": 28.521,
-          "end": 28.892
+          "w": "Hunter's",
+          "start": 39.312,
+          "end": 39.695
+        },
+        {
+          "w": "clothes.",
+          "start": 39.754,
+          "end": 40.415
+        },
+        {
+          "w": "A",
+          "start": 40.659,
+          "end": 40.74
         },
         {
           "w": "red",
-          "start": 28.95,
-          "end": 29.125
+          "start": 40.822,
+          "end": 40.984
         },
         {
           "w": "hat.",
-          "start": 29.183,
-          "end": 30.309
+          "start": 41.042,
+          "end": 42.18
         }
       ]
     },
     {
       "beat": "quiz",
-      "text": "Pause. What does he do?",
-      "start": 30.69,
-      "end": 32.5,
+      "text": "Pause. If you were me, what would you play?",
+      "start": 42.51,
+      "end": 45.29,
       "words": [
         {
           "w": "Pause.",
-          "start": 30.69,
-          "end": 31.201
+          "start": 42.51,
+          "end": 43.079
         },
         {
-          "w": "What",
-          "start": 31.259,
-          "end": 31.433
+          "w": "If",
+          "start": 43.23,
+          "end": 43.369
         },
         {
-          "w": "does",
-          "start": 31.468,
-          "end": 31.584
-        },
-        {
-          "w": "he",
-          "start": 31.619,
-          "end": 31.665
-        },
-        {
-          "w": "do?",
-          "start": 31.723,
-          "end": 32.501
-        }
-      ]
-    },
-    {
-      "beat": "reveal",
-      "text": "He played again. This time, the children followed. A hundred and thirty of them.",
-      "start": 33.94,
-      "end": 38.81,
-      "pad_before": 0.9,
-      "words": [
-        {
-          "w": "He",
-          "start": 33.94,
-          "end": 34.068
-        },
-        {
-          "w": "played",
-          "start": 34.126,
-          "end": 34.37
-        },
-        {
-          "w": "again.",
-          "start": 34.404,
-          "end": 34.857
-        },
-        {
-          "w": "This",
-          "start": 35.368,
-          "end": 35.565
-        },
-        {
-          "w": "time,",
-          "start": 35.623,
-          "end": 35.914
-        },
-        {
-          "w": "the",
-          "start": 35.949,
-          "end": 36.041
-        },
-        {
-          "w": "children",
-          "start": 36.088,
-          "end": 36.413
-        },
-        {
-          "w": "followed.",
-          "start": 36.483,
-          "end": 37.005
-        },
-        {
-          "w": "A",
-          "start": 37.33,
-          "end": 37.4
-        },
-        {
-          "w": "hundred",
-          "start": 37.481,
-          "end": 37.76
-        },
-        {
-          "w": "and",
-          "start": 37.783,
-          "end": 37.864
-        },
-        {
-          "w": "thirty",
-          "start": 37.911,
-          "end": 38.224
-        },
-        {
-          "w": "of",
-          "start": 38.271,
-          "end": 38.329
-        },
-        {
-          "w": "them.",
-          "start": 38.375,
-          "end": 38.816
-        }
-      ]
-    },
-    {
-      "beat": "reveal",
-      "text": "Out of the town, to a mountain, and into it. They were never seen again.",
-      "start": 39.06,
-      "end": 43.28,
-      "words": [
-        {
-          "w": "Out",
-          "start": 39.06,
-          "end": 39.292
-        },
-        {
-          "w": "of",
-          "start": 39.339,
-          "end": 39.397
-        },
-        {
-          "w": "the",
-          "start": 39.443,
-          "end": 39.513
-        },
-        {
-          "w": "town,",
-          "start": 39.559,
-          "end": 39.873
-        },
-        {
-          "w": "to",
-          "start": 39.908,
-          "end": 40.0
-        },
-        {
-          "w": "a",
-          "start": 40.07,
-          "end": 40.093
-        },
-        {
-          "w": "mountain,",
-          "start": 40.151,
-          "end": 40.581
-        },
-        {
-          "w": "and",
-          "start": 40.616,
-          "end": 40.732
-        },
-        {
-          "w": "into",
-          "start": 40.801,
-          "end": 40.987
-        },
-        {
-          "w": "it.",
-          "start": 41.08,
-          "end": 41.37
-        },
-        {
-          "w": "They",
-          "start": 41.881,
-          "end": 42.044
+          "w": "you",
+          "start": 43.427,
+          "end": 43.497
         },
         {
           "w": "were",
-          "start": 42.079,
-          "end": 42.183
+          "start": 43.532,
+          "end": 43.659
         },
         {
-          "w": "never",
-          "start": 42.218,
-          "end": 42.392
+          "w": "me,",
+          "start": 43.694,
+          "end": 43.88
         },
         {
-          "w": "seen",
-          "start": 42.439,
-          "end": 42.636
+          "w": "what",
+          "start": 43.903,
+          "end": 44.031
         },
         {
-          "w": "again.",
-          "start": 42.682,
-          "end": 43.286
+          "w": "would",
+          "start": 44.054,
+          "end": 44.182
+        },
+        {
+          "w": "you",
+          "start": 44.205,
+          "end": 44.275
+        },
+        {
+          "w": "play?",
+          "start": 44.31,
+          "end": 45.296
         }
       ]
     },
     {
       "beat": "reveal",
-      "text": "Their mothers searched every road and every river. Nothing.",
-      "start": 43.55,
-      "end": 47.4,
+      "text": "I play one song. Doors creak open. Small feet on the stones. A hundred and thirty children, following me.",
+      "start": 46.7,
+      "end": 53.71,
       "words": [
         {
-          "w": "Their",
-          "start": 43.55,
-          "end": 43.794
+          "w": "I",
+          "start": 46.7,
+          "end": 46.793
         },
         {
-          "w": "mothers",
-          "start": 43.84,
-          "end": 44.142
+          "w": "play",
+          "start": 46.886,
+          "end": 47.072
         },
         {
-          "w": "searched",
-          "start": 44.189,
-          "end": 44.537
+          "w": "one",
+          "start": 47.141,
+          "end": 47.339
         },
         {
-          "w": "every",
-          "start": 44.607,
-          "end": 44.874
+          "w": "song.",
+          "start": 47.385,
+          "end": 47.803
         },
         {
-          "w": "road",
-          "start": 44.955,
-          "end": 45.222
+          "w": "Doors",
+          "start": 47.977,
+          "end": 48.314
+        },
+        {
+          "w": "creak",
+          "start": 48.372,
+          "end": 48.616
+        },
+        {
+          "w": "open.",
+          "start": 48.685,
+          "end": 49.15
+        },
+        {
+          "w": "Small",
+          "start": 49.359,
+          "end": 49.672
+        },
+        {
+          "w": "feet",
+          "start": 49.742,
+          "end": 49.986
+        },
+        {
+          "w": "on",
+          "start": 50.044,
+          "end": 50.125
+        },
+        {
+          "w": "the",
+          "start": 50.171,
+          "end": 50.241
+        },
+        {
+          "w": "stones.",
+          "start": 50.287,
+          "end": 50.914
+        },
+        {
+          "w": "A",
+          "start": 51.158,
+          "end": 51.228
+        },
+        {
+          "w": "hundred",
+          "start": 51.321,
+          "end": 51.588
         },
         {
           "w": "and",
-          "start": 45.28,
-          "end": 45.384
+          "start": 51.623,
+          "end": 51.692
         },
         {
-          "w": "every",
-          "start": 45.454,
-          "end": 45.663
+          "w": "thirty",
+          "start": 51.75,
+          "end": 52.052
         },
         {
-          "w": "river.",
-          "start": 45.733,
-          "end": 46.232
+          "w": "children,",
+          "start": 52.11,
+          "end": 52.551
         },
         {
-          "w": "Nothing.",
-          "start": 46.673,
-          "end": 47.405
+          "w": "following",
+          "start": 52.609,
+          "end": 53.004
+        },
+        {
+          "w": "me.",
+          "start": 53.062,
+          "end": 53.712
+        }
+      ],
+      "pad_before": 0.9
+    },
+    {
+      "beat": "reveal",
+      "text": "Out through the gate. Up the mountain. And the mountain opens for us.",
+      "start": 53.9,
+      "end": 58.36,
+      "words": [
+        {
+          "w": "Out",
+          "start": 53.9,
+          "end": 54.167
+        },
+        {
+          "w": "through",
+          "start": 54.202,
+          "end": 54.411
+        },
+        {
+          "w": "the",
+          "start": 54.446,
+          "end": 54.515
+        },
+        {
+          "w": "gate.",
+          "start": 54.55,
+          "end": 54.991
+        },
+        {
+          "w": "Up",
+          "start": 55.142,
+          "end": 55.293
+        },
+        {
+          "w": "the",
+          "start": 55.34,
+          "end": 55.409
+        },
+        {
+          "w": "mountain.",
+          "start": 55.456,
+          "end": 56.025
+        },
+        {
+          "w": "And",
+          "start": 56.268,
+          "end": 56.408
+        },
+        {
+          "w": "the",
+          "start": 56.454,
+          "end": 56.524
+        },
+        {
+          "w": "mountain",
+          "start": 56.559,
+          "end": 56.884
+        },
+        {
+          "w": "opens",
+          "start": 56.942,
+          "end": 57.279
+        },
+        {
+          "w": "for",
+          "start": 57.325,
+          "end": 57.441
+        },
+        {
+          "w": "us.",
+          "start": 57.511,
+          "end": 58.358
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Behind me, mothers are screaming names. Nothing answers.",
+      "start": 58.61,
+      "end": 62.6,
+      "words": [
+        {
+          "w": "Behind",
+          "start": 58.61,
+          "end": 59.04
+        },
+        {
+          "w": "me,",
+          "start": 59.121,
+          "end": 59.399
+        },
+        {
+          "w": "mothers",
+          "start": 59.574,
+          "end": 59.899
+        },
+        {
+          "w": "are",
+          "start": 59.945,
+          "end": 60.038
+        },
+        {
+          "w": "screaming",
+          "start": 60.073,
+          "end": 60.502
+        },
+        {
+          "w": "names.",
+          "start": 60.584,
+          "end": 61.118
+        },
+        {
+          "w": "Nothing",
+          "start": 61.327,
+          "end": 61.652
+        },
+        {
+          "w": "answers.",
+          "start": 61.71,
+          "end": 62.604
         }
       ]
     },
     {
       "beat": "twist",
-      "text": "Only a few came back. One was blind. One couldn't speak. And one had run home for his coat.",
-      "start": 48.27,
-      "end": 54.58,
-      "pad_before": 0.4,
+      "text": "A few were too slow. One was blind. One couldn't speak. One ran home for his coat.",
+      "start": 63.07,
+      "end": 69.2,
       "words": [
         {
-          "w": "Only",
-          "start": 48.27,
-          "end": 48.549
-        },
-        {
-          "w": "a",
-          "start": 48.607,
-          "end": 48.63
+          "w": "A",
+          "start": 63.07,
+          "end": 63.198
         },
         {
           "w": "few",
-          "start": 48.688,
-          "end": 48.874
+          "start": 63.279,
+          "end": 63.453
         },
         {
-          "w": "came",
-          "start": 48.943,
-          "end": 49.141
+          "w": "were",
+          "start": 63.5,
+          "end": 63.627
         },
         {
-          "w": "back.",
-          "start": 49.187,
-          "end": 49.652
+          "w": "too",
+          "start": 63.662,
+          "end": 63.801
+        },
+        {
+          "w": "slow.",
+          "start": 63.871,
+          "end": 64.428
         },
         {
           "w": "One",
-          "start": 49.803,
-          "end": 50.0
+          "start": 64.87,
+          "end": 65.067
         },
         {
           "w": "was",
-          "start": 50.035,
-          "end": 50.151
+          "start": 65.102,
+          "end": 65.206
         },
         {
           "w": "blind.",
-          "start": 50.209,
-          "end": 50.743
+          "start": 65.264,
+          "end": 65.752
         },
         {
           "w": "One",
-          "start": 50.859,
-          "end": 51.068
+          "start": 65.903,
+          "end": 66.1
         },
         {
           "w": "couldn't",
-          "start": 51.103,
-          "end": 51.358
+          "start": 66.135,
+          "end": 66.379
         },
         {
           "w": "speak.",
-          "start": 51.405,
-          "end": 51.881
+          "start": 66.425,
+          "end": 66.913
         },
         {
-          "w": "And",
-          "start": 52.055,
-          "end": 52.194
+          "w": "One",
+          "start": 67.122,
+          "end": 67.354
         },
         {
-          "w": "one",
-          "start": 52.264,
-          "end": 52.392
-        },
-        {
-          "w": "had",
-          "start": 52.426,
-          "end": 52.508
-        },
-        {
-          "w": "run",
-          "start": 52.566,
-          "end": 52.728
+          "w": "ran",
+          "start": 67.401,
+          "end": 67.575
         },
         {
           "w": "home",
-          "start": 52.798,
-          "end": 53.018
+          "start": 67.644,
+          "end": 67.865
         },
         {
           "w": "for",
-          "start": 53.065,
-          "end": 53.169
+          "start": 67.911,
+          "end": 68.004
         },
         {
           "w": "his",
-          "start": 53.204,
-          "end": 53.309
+          "start": 68.051,
+          "end": 68.155
         },
         {
           "w": "coat.",
-          "start": 53.367,
-          "end": 54.586
+          "start": 68.225,
+          "end": 69.2
         }
       ]
     },
     {
       "beat": "loop",
-      "text": "For years after, the town dated its records from the day its children left.",
-      "start": 55.49,
-      "end": 59.8,
-      "pad_before": 0.5,
+      "text": "Hamelin never forgot the year. They should have paid the piper.",
+      "start": 70.0,
+      "end": 73.47,
       "words": [
         {
-          "w": "For",
-          "start": 55.49,
-          "end": 55.676
+          "w": "Hamelin",
+          "start": 70.0,
+          "end": 70.441
         },
         {
-          "w": "years",
-          "start": 55.734,
-          "end": 56.012
+          "w": "never",
+          "start": 70.499,
+          "end": 70.685
         },
         {
-          "w": "after,",
-          "start": 56.07,
-          "end": 56.465
-        },
-        {
-          "w": "the",
-          "start": 56.5,
-          "end": 56.616
-        },
-        {
-          "w": "town",
-          "start": 56.674,
-          "end": 56.953
-        },
-        {
-          "w": "dated",
-          "start": 57.023,
-          "end": 57.348
-        },
-        {
-          "w": "its",
-          "start": 57.394,
-          "end": 57.51
-        },
-        {
-          "w": "records",
-          "start": 57.58,
-          "end": 57.986
-        },
-        {
-          "w": "from",
-          "start": 58.009,
-          "end": 58.137
+          "w": "forgot",
+          "start": 70.743,
+          "end": 71.022
         },
         {
           "w": "the",
-          "start": 58.184,
-          "end": 58.253
+          "start": 71.057,
+          "end": 71.126
         },
         {
-          "w": "day",
-          "start": 58.3,
-          "end": 58.474
+          "w": "year.",
+          "start": 71.184,
+          "end": 71.625
         },
         {
-          "w": "its",
-          "start": 58.52,
-          "end": 58.636
+          "w": "They",
+          "start": 71.904,
+          "end": 72.055
         },
         {
-          "w": "children",
-          "start": 58.683,
-          "end": 59.043
+          "w": "should",
+          "start": 72.078,
+          "end": 72.241
         },
         {
-          "w": "left.",
-          "start": 59.101,
-          "end": 59.809
+          "w": "have",
+          "start": 72.264,
+          "end": 72.357
+        },
+        {
+          "w": "paid",
+          "start": 72.392,
+          "end": 72.589
+        },
+        {
+          "w": "the",
+          "start": 72.624,
+          "end": 72.694
+        },
+        {
+          "w": "piper.",
+          "start": 72.74,
+          "end": 73.483
         }
-      ]
+      ],
+      "pad_before": 0.4
     }
   ],
   "voiceStatus": "elevenlabs:JBFqnCBsd6RMkjVDRZzb"
