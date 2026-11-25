@@ -317,10 +317,11 @@
    "channel": "Candlelit Tales",
    "short": "tales/tale-3-bluebeard",
    "video": "posting/ready/tale-003.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "One key. One locked room. A stain that won't wash away.",
    "caption": "Bluebeard (Charles Perrault, 1697). His new bride got every key to the castle, and one rule: never open the little room at the end of the hall. She lasted one day. 🕯️ What would you have done when he came home early?",
-   "hashtags": "#bluebeard #darkfairytales #scarystories #storytime #animation"
+   "hashtags": "#bluebeard #darkfairytales #scarystories #storytime #animation",
+   "sent_at": "2026-11-25T01:46:17+00:00"
   },
   {
    "id": "fp-015",
