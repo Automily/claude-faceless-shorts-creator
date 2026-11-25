@@ -29,7 +29,7 @@ Branding (names, handles, bios, logos): `BRANDING.md`, `branding/logos/`.
 | 20:45 | | ✅ |
 = 3/day Fine Print (21/wk), 2/day Tales (14/wk). Feels Wrong is retired (fw-012 held). Buffer targets: FP ≥ 6 ready, Tales ≥ 4.
 Tales run 61–70s so TikTok cuts qualify for Creator Rewards (> 60s). Empty buffer → skip the slot, never filler.
-Built FP: 13 BNPL late-fee APR, 14 credit utilization, 15 mortgage points, 16 lease money factor. Next FP topics: emergency-fund months, CD vs HYSA, latte-factor honest math,
+Built FP: 13 BNPL late-fee APR, 14 credit utilization, 15 mortgage points, 16 lease money factor, 17 payday loan (first immersive one). Next FP topics: emergency-fund months, CD vs HYSA, latte-factor honest math,
 credit-card float, Roth vs traditional break-even, student-loan capitalized interest.
 Built tales: 1 Godfather Death, 2 Monkey's Paw, 3 Bluebeard, 4 Pied Piper. Next tales: Anansi & the sky god's stories, The Juniper Tree,
 The Three Army Surgeons, Baba Yaga, The Robber Bridegroom.

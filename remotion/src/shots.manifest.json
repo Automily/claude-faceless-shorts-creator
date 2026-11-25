@@ -240,6 +240,14 @@
   "transparent": false
  },
  {
+  "id": "Short36Payday",
+  "durationInSeconds": 47.9,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short4Reflog",
   "durationInSeconds": 34,
   "fps": 30,
@@ -313,7 +321,7 @@
  },
  {
   "id": "Tale4PiedPiper",
-  "durationInSeconds": 62,
+  "durationInSeconds": 75.7,
   "fps": 30,
   "width": 1080,
   "height": 1920,
