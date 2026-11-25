@@ -248,6 +248,14 @@
   "transparent": false
  },
  {
+  "id": "Short37Early",
+  "durationInSeconds": 46.7,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short4Reflog",
   "durationInSeconds": 34,
   "fps": 30,
