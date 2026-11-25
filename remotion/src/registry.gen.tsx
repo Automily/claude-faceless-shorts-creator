@@ -39,7 +39,8 @@ import Shot35, { compositionConfig as cfg35 } from './shots/short-9/Short9Chords
 import Shot36, { compositionConfig as cfg36 } from './shots/tale-1/Tale1GodfatherDeath';
 import Shot37, { compositionConfig as cfg37 } from './shots/tale-2/Tale2MonkeysPaw';
 import Shot38, { compositionConfig as cfg38 } from './shots/tale-3/Tale3Bluebeard';
-import Shot39, { compositionConfig as cfg39 } from './shots/vox-1/Vox1Coffee';
+import Shot39, { compositionConfig as cfg39 } from './shots/tale-4/Tale4PiedPiper';
+import Shot40, { compositionConfig as cfg40 } from './shots/vox-1/Vox1Coffee';
 
 export const shots: { Comp: React.FC; config: any }[] = [
   { Comp: Shot0 as React.FC, config: cfg0 },
@@ -82,4 +83,5 @@ export const shots: { Comp: React.FC; config: any }[] = [
   { Comp: Shot37 as React.FC, config: cfg37 },
   { Comp: Shot38 as React.FC, config: cfg38 },
   { Comp: Shot39 as React.FC, config: cfg39 },
+  { Comp: Shot40 as React.FC, config: cfg40 },
 ];

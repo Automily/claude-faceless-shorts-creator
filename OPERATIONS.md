@@ -31,7 +31,7 @@ Branding (names, handles, bios, logos): `BRANDING.md`, `branding/logos/`.
 Tales run 61–70s so TikTok cuts qualify for Creator Rewards (> 60s). Empty buffer → skip the slot, never filler.
 Built FP: 13 BNPL late-fee APR, 14 credit utilization, 15 mortgage points, 16 lease money factor. Next FP topics: emergency-fund months, CD vs HYSA, latte-factor honest math,
 credit-card float, Roth vs traditional break-even, student-loan capitalized interest.
-Built tales: 1 Godfather Death, 2 Monkey's Paw, 3 Bluebeard. Next tales: Pied Piper (real ending), Anansi & the sky god's stories, The Juniper Tree,
+Built tales: 1 Godfather Death, 2 Monkey's Paw, 3 Bluebeard, 4 Pied Piper. Next tales: Anansi & the sky god's stories, The Juniper Tree,
 The Three Army Surgeons, Baba Yaga, The Robber Bridegroom.
 
 ## Context hygiene
