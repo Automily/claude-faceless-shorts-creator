@@ -339,10 +339,11 @@
    "channel": "The Fine Print",
    "short": "shorts/short-35-lease",
    "video": "posting/ready/fp-016.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "Your car lease hides its interest rate. Multiply by 2400.",
    "caption": "Leases list a 'money factor' instead of an APR. Multiply it by 2,400 to translate: 0.00375 = 9% APR. On a $35K lease that's about $210 a month just in interest. The money factor is negotiable: get it to 6% and you save about $2,520 over 3 years. (Excludes taxes & fees; illustrative, not advice.)",
-   "hashtags": "#carlease #carbuying #personalfinance #moneytips #cars"
+   "hashtags": "#carlease #carbuying #personalfinance #moneytips #cars",
+   "sent_at": "2026-11-25T17:46:43+00:00"
   },
   {
    "id": "tale-004",
