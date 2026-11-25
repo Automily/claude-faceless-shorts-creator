@@ -29,8 +29,8 @@ Branding (names, handles, bios, logos): `BRANDING.md`, `branding/logos/`.
 | 20:45 | | ✅ |
 = 3/day Fine Print (21/wk), 2/day Tales (14/wk). Feels Wrong is retired (fw-012 held). Buffer targets: FP ≥ 6 ready, Tales ≥ 4.
 Tales run 61–70s so TikTok cuts qualify for Creator Rewards (> 60s). Empty buffer → skip the slot, never filler.
-Built FP: 13 BNPL late-fee APR, 14 credit utilization, 15 mortgage points. Next FP topics: emergency-fund months, CD vs HYSA, latte-factor honest math,
-credit-card float, Roth vs traditional break-even, car lease money factor, student-loan capitalized interest.
+Built FP: 13 BNPL late-fee APR, 14 credit utilization, 15 mortgage points, 16 lease money factor. Next FP topics: emergency-fund months, CD vs HYSA, latte-factor honest math,
+credit-card float, Roth vs traditional break-even, student-loan capitalized interest.
 Built tales: 1 Godfather Death, 2 Monkey's Paw, 3 Bluebeard. Next tales: Pied Piper (real ending), Anansi & the sky god's stories, The Juniper Tree,
 The Three Army Surgeons, Baba Yaga, The Robber Bridegroom.
 
@@ -54,6 +54,8 @@ The Three Army Surgeons, Baba Yaga, The Robber Bridegroom.
   A new session must re-point or recreate this task (update_trigger can't change the session; create a new one
   bound to the new session and delete the old) and add Candlelit Tales to it once approved.
 - Branch: `claude/wizardly-dirac-6z4kx5` (draft PR #1). Commit + push every finished video.
+
+Render helpers (committed): `tools/finish_short.sh <suffix> <Comp> <dur> <queue-id>`, `tools/finish_tale.sh` (same, tales/), `tools/retime_vo.py`.
 
 ## Build pipeline (per short) — see .claude/skills/make-short
 1. Verify facts (web search); write `beats.json` (vo lines with start times).

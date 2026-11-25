@@ -1,0 +1,608 @@
+{
+  "id": "short-35-lease",
+  "title": "Lease money factor x 2400 = APR",
+  "composition": "Short35Lease",
+  "channel": "The Fine Print",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 40.8
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Your car lease says money factor: point zero zero three seven five. That's a nine percent interest rate.",
+      "start": 0.4,
+      "end": 6.89,
+      "words": [
+        {
+          "w": "Your",
+          "start": 0.4,
+          "end": 0.619
+        },
+        {
+          "w": "car",
+          "start": 0.685,
+          "end": 0.861
+        },
+        {
+          "w": "lease",
+          "start": 0.926,
+          "end": 1.124
+        },
+        {
+          "w": "says",
+          "start": 1.145,
+          "end": 1.332
+        },
+        {
+          "w": "money",
+          "start": 1.442,
+          "end": 1.651
+        },
+        {
+          "w": "factor:",
+          "start": 1.694,
+          "end": 2.166
+        },
+        {
+          "w": "point",
+          "start": 2.363,
+          "end": 2.594
+        },
+        {
+          "w": "zero",
+          "start": 2.649,
+          "end": 2.956
+        },
+        {
+          "w": "zero",
+          "start": 3.065,
+          "end": 3.339
+        },
+        {
+          "w": "three",
+          "start": 3.417,
+          "end": 3.636
+        },
+        {
+          "w": "seven",
+          "start": 3.691,
+          "end": 3.931
+        },
+        {
+          "w": "five.",
+          "start": 3.998,
+          "end": 4.447
+        },
+        {
+          "w": "That's",
+          "start": 4.809,
+          "end": 5.007
+        },
+        {
+          "w": "a",
+          "start": 5.04,
+          "end": 5.061
+        },
+        {
+          "w": "nine",
+          "start": 5.116,
+          "end": 5.292
+        },
+        {
+          "w": "percent",
+          "start": 5.314,
+          "end": 5.589
+        },
+        {
+          "w": "interest",
+          "start": 5.632,
+          "end": 5.896
+        },
+        {
+          "w": "rate.",
+          "start": 5.95,
+          "end": 6.893
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Leases hide the rate as a tiny decimal called the money factor.",
+      "start": 6.99,
+      "end": 10.52,
+      "words": [
+        {
+          "w": "Leases",
+          "start": 6.99,
+          "end": 7.403
+        },
+        {
+          "w": "hide",
+          "start": 7.458,
+          "end": 7.654
+        },
+        {
+          "w": "the",
+          "start": 7.675,
+          "end": 7.741
+        },
+        {
+          "w": "rate",
+          "start": 7.785,
+          "end": 7.948
+        },
+        {
+          "w": "as",
+          "start": 7.981,
+          "end": 8.067
+        },
+        {
+          "w": "a",
+          "start": 8.121,
+          "end": 8.154
+        },
+        {
+          "w": "tiny",
+          "start": 8.231,
+          "end": 8.513
+        },
+        {
+          "w": "decimal",
+          "start": 8.579,
+          "end": 8.982
+        },
+        {
+          "w": "called",
+          "start": 9.046,
+          "end": 9.275
+        },
+        {
+          "w": "the",
+          "start": 9.308,
+          "end": 9.373
+        },
+        {
+          "w": "money",
+          "start": 9.438,
+          "end": 9.645
+        },
+        {
+          "w": "factor.",
+          "start": 9.71,
+          "end": 10.516
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "To translate it, multiply by twenty-four hundred.",
+      "start": 10.59,
+      "end": 14.05,
+      "words": [
+        {
+          "w": "To",
+          "start": 10.59,
+          "end": 10.76
+        },
+        {
+          "w": "translate",
+          "start": 10.817,
+          "end": 11.328
+        },
+        {
+          "w": "it,",
+          "start": 11.362,
+          "end": 11.544
+        },
+        {
+          "w": "multiply",
+          "start": 11.714,
+          "end": 12.157
+        },
+        {
+          "w": "by",
+          "start": 12.225,
+          "end": 12.339
+        },
+        {
+          "w": "twenty-four",
+          "start": 12.395,
+          "end": 12.873
+        },
+        {
+          "w": "hundred.",
+          "start": 12.918,
+          "end": 14.041
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. Point zero zero three seven five, times twenty-four hundred?",
+      "start": 14.14,
+      "end": 19.15,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 14.14,
+          "end": 14.709
+        },
+        {
+          "w": "Point",
+          "start": 15.405,
+          "end": 15.649
+        },
+        {
+          "w": "zero",
+          "start": 15.707,
+          "end": 15.951
+        },
+        {
+          "w": "zero",
+          "start": 16.021,
+          "end": 16.218
+        },
+        {
+          "w": "three",
+          "start": 16.276,
+          "end": 16.462
+        },
+        {
+          "w": "seven",
+          "start": 16.508,
+          "end": 16.741
+        },
+        {
+          "w": "five,",
+          "start": 16.799,
+          "end": 17.101
+        },
+        {
+          "w": "times",
+          "start": 17.124,
+          "end": 17.426
+        },
+        {
+          "w": "twenty-four",
+          "start": 17.542,
+          "end": 17.983
+        },
+        {
+          "w": "hundred?",
+          "start": 18.029,
+          "end": 19.156
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Nine. A nine percent APR.",
+      "start": 19.72,
+      "end": 22.67,
+      "words": [
+        {
+          "w": "Nine.",
+          "start": 19.72,
+          "end": 20.202
+        },
+        {
+          "w": "A",
+          "start": 20.858,
+          "end": 20.946
+        },
+        {
+          "w": "nine",
+          "start": 21.055,
+          "end": 21.263
+        },
+        {
+          "w": "percent",
+          "start": 21.307,
+          "end": 21.636
+        },
+        {
+          "w": "APR.",
+          "start": 21.701,
+          "end": 22.653
+        }
+      ],
+      "pad_before": 0.7
+    },
+    {
+      "beat": "reveal",
+      "text": "On a thirty-five thousand dollar lease, that's about two hundred ten dollars a month, just in interest.",
+      "start": 22.75,
+      "end": 27.77,
+      "words": [
+        {
+          "w": "On",
+          "start": 22.75,
+          "end": 22.928
+        },
+        {
+          "w": "a",
+          "start": 22.961,
+          "end": 22.994
+        },
+        {
+          "w": "thirty-five",
+          "start": 23.06,
+          "end": 23.582
+        },
+        {
+          "w": "thousand",
+          "start": 23.615,
+          "end": 23.926
+        },
+        {
+          "w": "dollar",
+          "start": 23.97,
+          "end": 24.191
+        },
+        {
+          "w": "lease,",
+          "start": 24.247,
+          "end": 24.48
+        },
+        {
+          "w": "that's",
+          "start": 24.502,
+          "end": 24.669
+        },
+        {
+          "w": "about",
+          "start": 24.701,
+          "end": 24.89
+        },
+        {
+          "w": "two",
+          "start": 24.934,
+          "end": 25.09
+        },
+        {
+          "w": "hundred",
+          "start": 25.145,
+          "end": 25.356
+        },
+        {
+          "w": "ten",
+          "start": 25.389,
+          "end": 25.522
+        },
+        {
+          "w": "dollars",
+          "start": 25.567,
+          "end": 25.833
+        },
+        {
+          "w": "a",
+          "start": 25.866,
+          "end": 25.899
+        },
+        {
+          "w": "month,",
+          "start": 25.944,
+          "end": 26.265
+        },
+        {
+          "w": "just",
+          "start": 26.498,
+          "end": 26.72
+        },
+        {
+          "w": "in",
+          "start": 26.764,
+          "end": 26.82
+        },
+        {
+          "w": "interest.",
+          "start": 26.875,
+          "end": 27.763
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "And the money factor is negotiable. Get it down to six percent, and you save about twenty-five hundred dollars over three years.",
+      "start": 27.84,
+      "end": 35.44,
+      "words": [
+        {
+          "w": "And",
+          "start": 27.84,
+          "end": 28.025
+        },
+        {
+          "w": "the",
+          "start": 28.069,
+          "end": 28.134
+        },
+        {
+          "w": "money",
+          "start": 28.167,
+          "end": 28.342
+        },
+        {
+          "w": "factor",
+          "start": 28.397,
+          "end": 28.735
+        },
+        {
+          "w": "is",
+          "start": 28.801,
+          "end": 28.877
+        },
+        {
+          "w": "negotiable.",
+          "start": 28.943,
+          "end": 29.598
+        },
+        {
+          "w": "Get",
+          "start": 30.362,
+          "end": 30.515
+        },
+        {
+          "w": "it",
+          "start": 30.547,
+          "end": 30.602
+        },
+        {
+          "w": "down",
+          "start": 30.635,
+          "end": 30.799
+        },
+        {
+          "w": "to",
+          "start": 30.831,
+          "end": 30.886
+        },
+        {
+          "w": "six",
+          "start": 30.952,
+          "end": 31.159
+        },
+        {
+          "w": "percent,",
+          "start": 31.225,
+          "end": 31.803
+        },
+        {
+          "w": "and",
+          "start": 32.032,
+          "end": 32.164
+        },
+        {
+          "w": "you",
+          "start": 32.207,
+          "end": 32.283
+        },
+        {
+          "w": "save",
+          "start": 32.349,
+          "end": 32.546
+        },
+        {
+          "w": "about",
+          "start": 32.579,
+          "end": 32.753
+        },
+        {
+          "w": "twenty-five",
+          "start": 32.786,
+          "end": 33.266
+        },
+        {
+          "w": "hundred",
+          "start": 33.288,
+          "end": 33.474
+        },
+        {
+          "w": "dollars",
+          "start": 33.496,
+          "end": 33.78
+        },
+        {
+          "w": "over",
+          "start": 33.834,
+          "end": 34.009
+        },
+        {
+          "w": "three",
+          "start": 34.074,
+          "end": 34.303
+        },
+        {
+          "w": "years.",
+          "start": 34.336,
+          "end": 35.439
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "So ask for the money factor. Then multiply by twenty-four hundred.",
+      "start": 35.53,
+      "end": 39.75,
+      "words": [
+        {
+          "w": "So",
+          "start": 35.53,
+          "end": 35.716
+        },
+        {
+          "w": "ask",
+          "start": 35.797,
+          "end": 36.052
+        },
+        {
+          "w": "for",
+          "start": 36.11,
+          "end": 36.192
+        },
+        {
+          "w": "the",
+          "start": 36.227,
+          "end": 36.296
+        },
+        {
+          "w": "money",
+          "start": 36.343,
+          "end": 36.54
+        },
+        {
+          "w": "factor.",
+          "start": 36.61,
+          "end": 37.121
+        },
+        {
+          "w": "Then",
+          "start": 37.724,
+          "end": 37.922
+        },
+        {
+          "w": "multiply",
+          "start": 37.98,
+          "end": 38.374
+        },
+        {
+          "w": "by",
+          "start": 38.444,
+          "end": 38.537
+        },
+        {
+          "w": "twenty-four",
+          "start": 38.595,
+          "end": 39.048
+        },
+        {
+          "w": "hundred.",
+          "start": 39.094,
+          "end": 39.756
+        }
+      ]
+    }
+  ],
+  "money": {
+    "rule": "APR ~= money factor x 2400",
+    "mf": [
+      0.00375,
+      0.0025
+    ],
+    "apr": [
+      9,
+      6
+    ],
+    "cap_cost": 35000,
+    "residual": 21000,
+    "term": 36,
+    "rent_charge": "(cap + residual) x MF = 56000 x .00375 = $210/mo; at .0025 = $140/mo; diff $70 x 36 = $2,520",
+    "depreciation": "(35000-21000)/36 = $388.89/mo",
+    "caveat": "excludes taxes/fees; dealers may mark up the lender's buy rate; illustrative"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}
