@@ -1,0 +1,1121 @@
+{
+  "id": "tale-7-tell-tale-heart",
+  "title": "The Tell-Tale Heart (Edgar Allan Poe, 1843)",
+  "composition": "Tale7TellTaleHeart",
+  "channel": "Candlelit Tales",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 80.2
+  },
+  "voicePlan": "elevenlabs:JBFqnCBsd6RMkjVDRZzb (George, storyteller)",
+  "source": "Edgar Allan Poe, 'The Tell-Tale Heart' (1843) — public domain; first person in the original; retold present tense and condensed, a few lines adapted from Poe.",
+  "style": "narrator's POV; the vulture eye and the heartbeat are the signature; no gore",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "I'm not mad. Listen how calmly I can tell you the whole story.",
+      "start": 0.4,
+      "end": 4.57,
+      "words": [
+        {
+          "w": "I'm",
+          "start": 0.4,
+          "end": 0.597
+        },
+        {
+          "w": "not",
+          "start": 0.644,
+          "end": 0.783
+        },
+        {
+          "w": "mad.",
+          "start": 0.853,
+          "end": 1.294
+        },
+        {
+          "w": "Listen",
+          "start": 1.422,
+          "end": 1.689
+        },
+        {
+          "w": "how",
+          "start": 1.735,
+          "end": 1.828
+        },
+        {
+          "w": "calmly",
+          "start": 1.909,
+          "end": 2.316
+        },
+        {
+          "w": "I",
+          "start": 2.374,
+          "end": 2.409
+        },
+        {
+          "w": "can",
+          "start": 2.478,
+          "end": 2.594
+        },
+        {
+          "w": "tell",
+          "start": 2.641,
+          "end": 2.815
+        },
+        {
+          "w": "you",
+          "start": 2.861,
+          "end": 2.931
+        },
+        {
+          "w": "the",
+          "start": 2.977,
+          "end": 3.047
+        },
+        {
+          "w": "whole",
+          "start": 3.094,
+          "end": 3.302
+        },
+        {
+          "w": "story.",
+          "start": 3.337,
+          "end": 4.58
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "I loved the old man. He never wronged me. It was his eye. Pale blue, with a film over it. Like a vulture's.",
+      "start": 5.03,
+      "end": 13.06,
+      "words": [
+        {
+          "w": "I",
+          "start": 5.03,
+          "end": 5.111
+        },
+        {
+          "w": "loved",
+          "start": 5.227,
+          "end": 5.46
+        },
+        {
+          "w": "the",
+          "start": 5.494,
+          "end": 5.576
+        },
+        {
+          "w": "old",
+          "start": 5.634,
+          "end": 5.785
+        },
+        {
+          "w": "man.",
+          "start": 5.843,
+          "end": 6.33
+        },
+        {
+          "w": "He",
+          "start": 6.539,
+          "end": 6.644
+        },
+        {
+          "w": "never",
+          "start": 6.713,
+          "end": 6.899
+        },
+        {
+          "w": "wronged",
+          "start": 6.946,
+          "end": 7.224
+        },
+        {
+          "w": "me.",
+          "start": 7.271,
+          "end": 7.654
+        },
+        {
+          "w": "It",
+          "start": 8.037,
+          "end": 8.165
+        },
+        {
+          "w": "was",
+          "start": 8.2,
+          "end": 8.304
+        },
+        {
+          "w": "his",
+          "start": 8.362,
+          "end": 8.501
+        },
+        {
+          "w": "eye.",
+          "start": 8.583,
+          "end": 9.059
+        },
+        {
+          "w": "Pale",
+          "start": 9.302,
+          "end": 9.639
+        },
+        {
+          "w": "blue,",
+          "start": 9.686,
+          "end": 9.964
+        },
+        {
+          "w": "with",
+          "start": 9.987,
+          "end": 10.115
+        },
+        {
+          "w": "a",
+          "start": 10.15,
+          "end": 10.173
+        },
+        {
+          "w": "film",
+          "start": 10.254,
+          "end": 10.533
+        },
+        {
+          "w": "over",
+          "start": 10.591,
+          "end": 10.777
+        },
+        {
+          "w": "it.",
+          "start": 10.835,
+          "end": 11.148
+        },
+        {
+          "w": "Like",
+          "start": 11.59,
+          "end": 11.775
+        },
+        {
+          "w": "a",
+          "start": 11.799,
+          "end": 11.822
+        },
+        {
+          "w": "vulture's.",
+          "start": 11.88,
+          "end": 13.064
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Every night at midnight, I open his door. Slowly. So slowly. One thin ray of lantern light, onto that eye.",
+      "start": 13.22,
+      "end": 20.83,
+      "words": [
+        {
+          "w": "Every",
+          "start": 13.22,
+          "end": 13.51
+        },
+        {
+          "w": "night",
+          "start": 13.568,
+          "end": 13.754
+        },
+        {
+          "w": "at",
+          "start": 13.8,
+          "end": 13.87
+        },
+        {
+          "w": "midnight,",
+          "start": 13.928,
+          "end": 14.393
+        },
+        {
+          "w": "I",
+          "start": 14.439,
+          "end": 14.485
+        },
+        {
+          "w": "open",
+          "start": 14.602,
+          "end": 14.834
+        },
+        {
+          "w": "his",
+          "start": 14.892,
+          "end": 14.985
+        },
+        {
+          "w": "door.",
+          "start": 15.031,
+          "end": 15.519
+        },
+        {
+          "w": "Slowly.",
+          "start": 16.122,
+          "end": 16.749
+        },
+        {
+          "w": "So",
+          "start": 16.819,
+          "end": 17.016
+        },
+        {
+          "w": "slowly.",
+          "start": 17.086,
+          "end": 17.643
+        },
+        {
+          "w": "One",
+          "start": 17.887,
+          "end": 18.143
+        },
+        {
+          "w": "thin",
+          "start": 18.189,
+          "end": 18.433
+        },
+        {
+          "w": "ray",
+          "start": 18.549,
+          "end": 18.746
+        },
+        {
+          "w": "of",
+          "start": 18.793,
+          "end": 18.851
+        },
+        {
+          "w": "lantern",
+          "start": 18.932,
+          "end": 19.269
+        },
+        {
+          "w": "light,",
+          "start": 19.315,
+          "end": 19.594
+        },
+        {
+          "w": "onto",
+          "start": 19.629,
+          "end": 19.896
+        },
+        {
+          "w": "that",
+          "start": 19.965,
+          "end": 20.128
+        },
+        {
+          "w": "eye.",
+          "start": 20.198,
+          "end": 20.836
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Seven nights, it's closed. On the eighth, my thumb slips on the latch. He sits up in bed. Who's there?",
+      "start": 21.0,
+      "end": 27.96,
+      "words": [
+        {
+          "w": "Seven",
+          "start": 21.0,
+          "end": 21.348
+        },
+        {
+          "w": "nights,",
+          "start": 21.406,
+          "end": 21.755
+        },
+        {
+          "w": "it's",
+          "start": 21.789,
+          "end": 21.952
+        },
+        {
+          "w": "closed.",
+          "start": 21.998,
+          "end": 22.614
+        },
+        {
+          "w": "On",
+          "start": 22.823,
+          "end": 22.962
+        },
+        {
+          "w": "the",
+          "start": 22.985,
+          "end": 23.067
+        },
+        {
+          "w": "eighth,",
+          "start": 23.136,
+          "end": 23.426
+        },
+        {
+          "w": "my",
+          "start": 23.461,
+          "end": 23.577
+        },
+        {
+          "w": "thumb",
+          "start": 23.647,
+          "end": 23.902
+        },
+        {
+          "w": "slips",
+          "start": 23.972,
+          "end": 24.262
+        },
+        {
+          "w": "on",
+          "start": 24.297,
+          "end": 24.379
+        },
+        {
+          "w": "the",
+          "start": 24.413,
+          "end": 24.483
+        },
+        {
+          "w": "latch.",
+          "start": 24.529,
+          "end": 24.982
+        },
+        {
+          "w": "He",
+          "start": 25.226,
+          "end": 25.342
+        },
+        {
+          "w": "sits",
+          "start": 25.389,
+          "end": 25.609
+        },
+        {
+          "w": "up",
+          "start": 25.656,
+          "end": 25.748
+        },
+        {
+          "w": "in",
+          "start": 25.807,
+          "end": 25.876
+        },
+        {
+          "w": "bed.",
+          "start": 25.946,
+          "end": 26.468
+        },
+        {
+          "w": "Who's",
+          "start": 26.793,
+          "end": 27.049
+        },
+        {
+          "w": "there?",
+          "start": 27.084,
+          "end": 27.966
+        }
+      ]
+    },
+    {
+      "beat": "turn",
+      "text": "Then I hear it. A low, dull, quick sound, like a watch wrapped in cotton. His heart.",
+      "start": 28.35,
+      "end": 34.2,
+      "words": [
+        {
+          "w": "Then",
+          "start": 28.35,
+          "end": 28.571
+        },
+        {
+          "w": "I",
+          "start": 28.629,
+          "end": 28.652
+        },
+        {
+          "w": "hear",
+          "start": 28.768,
+          "end": 28.954
+        },
+        {
+          "w": "it.",
+          "start": 29.023,
+          "end": 29.29
+        },
+        {
+          "w": "A",
+          "start": 29.407,
+          "end": 29.488
+        },
+        {
+          "w": "low,",
+          "start": 29.604,
+          "end": 29.871
+        },
+        {
+          "w": "dull,",
+          "start": 29.917,
+          "end": 30.254
+        },
+        {
+          "w": "quick",
+          "start": 30.277,
+          "end": 30.533
+        },
+        {
+          "w": "sound,",
+          "start": 30.591,
+          "end": 31.055
+        },
+        {
+          "w": "like",
+          "start": 31.183,
+          "end": 31.345
+        },
+        {
+          "w": "a",
+          "start": 31.369,
+          "end": 31.403
+        },
+        {
+          "w": "watch",
+          "start": 31.473,
+          "end": 31.729
+        },
+        {
+          "w": "wrapped",
+          "start": 31.775,
+          "end": 32.03
+        },
+        {
+          "w": "in",
+          "start": 32.065,
+          "end": 32.135
+        },
+        {
+          "w": "cotton.",
+          "start": 32.216,
+          "end": 32.797
+        },
+        {
+          "w": "His",
+          "start": 33.238,
+          "end": 33.4
+        },
+        {
+          "w": "heart.",
+          "start": 33.47,
+          "end": 34.201
+        }
+      ]
+    },
+    {
+      "beat": "turn",
+      "text": "Louder. Louder. The neighbors will hear! With one loud yell, I leap into the room.",
+      "start": 34.4,
+      "end": 40.57,
+      "words": [
+        {
+          "w": "Louder.",
+          "start": 34.4,
+          "end": 34.957
+        },
+        {
+          "w": "Louder.",
+          "start": 35.108,
+          "end": 35.712
+        },
+        {
+          "w": "The",
+          "start": 36.095,
+          "end": 36.211
+        },
+        {
+          "w": "neighbors",
+          "start": 36.269,
+          "end": 36.571
+        },
+        {
+          "w": "will",
+          "start": 36.594,
+          "end": 36.745
+        },
+        {
+          "w": "hear!",
+          "start": 36.803,
+          "end": 37.268
+        },
+        {
+          "w": "With",
+          "start": 37.709,
+          "end": 37.906
+        },
+        {
+          "w": "one",
+          "start": 37.964,
+          "end": 38.15
+        },
+        {
+          "w": "loud",
+          "start": 38.208,
+          "end": 38.452
+        },
+        {
+          "w": "yell,",
+          "start": 38.51,
+          "end": 38.823
+        },
+        {
+          "w": "I",
+          "start": 38.858,
+          "end": 38.905
+        },
+        {
+          "w": "leap",
+          "start": 39.021,
+          "end": 39.207
+        },
+        {
+          "w": "into",
+          "start": 39.253,
+          "end": 39.392
+        },
+        {
+          "w": "the",
+          "start": 39.45,
+          "end": 39.52
+        },
+        {
+          "w": "room.",
+          "start": 39.59,
+          "end": 40.577
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. It's done. Where do you hide him?",
+      "start": 40.99,
+      "end": 43.77,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 40.99,
+          "end": 41.489
+        },
+        {
+          "w": "It's",
+          "start": 41.524,
+          "end": 41.733
+        },
+        {
+          "w": "done.",
+          "start": 41.779,
+          "end": 42.197
+        },
+        {
+          "w": "Where",
+          "start": 42.476,
+          "end": 42.697
+        },
+        {
+          "w": "do",
+          "start": 42.72,
+          "end": 42.778
+        },
+        {
+          "w": "you",
+          "start": 42.813,
+          "end": 42.882
+        },
+        {
+          "w": "hide",
+          "start": 42.952,
+          "end": 43.173
+        },
+        {
+          "w": "him?",
+          "start": 43.219,
+          "end": 43.776
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Under the floor. Three planks. I fit them back so neatly, no eye could find a thing.",
+      "start": 45.18,
+      "end": 51.58,
+      "words": [
+        {
+          "w": "Under",
+          "start": 45.18,
+          "end": 45.435
+        },
+        {
+          "w": "the",
+          "start": 45.482,
+          "end": 45.552
+        },
+        {
+          "w": "floor.",
+          "start": 45.598,
+          "end": 46.074
+        },
+        {
+          "w": "Three",
+          "start": 46.19,
+          "end": 46.457
+        },
+        {
+          "w": "planks.",
+          "start": 46.504,
+          "end": 47.142
+        },
+        {
+          "w": "I",
+          "start": 47.583,
+          "end": 47.641
+        },
+        {
+          "w": "fit",
+          "start": 47.757,
+          "end": 47.92
+        },
+        {
+          "w": "them",
+          "start": 47.955,
+          "end": 48.082
+        },
+        {
+          "w": "back",
+          "start": 48.141,
+          "end": 48.35
+        },
+        {
+          "w": "so",
+          "start": 48.419,
+          "end": 48.559
+        },
+        {
+          "w": "neatly,",
+          "start": 48.64,
+          "end": 49.127
+        },
+        {
+          "w": "no",
+          "start": 49.243,
+          "end": 49.383
+        },
+        {
+          "w": "eye",
+          "start": 49.476,
+          "end": 49.65
+        },
+        {
+          "w": "could",
+          "start": 49.685,
+          "end": 49.824
+        },
+        {
+          "w": "find",
+          "start": 49.87,
+          "end": 50.079
+        },
+        {
+          "w": "a",
+          "start": 50.126,
+          "end": 50.161
+        },
+        {
+          "w": "thing.",
+          "start": 50.23,
+          "end": 51.589
+        }
+      ],
+      "pad_before": 0.9
+    },
+    {
+      "beat": "reveal",
+      "text": "At four in the morning, a knock. Three officers. A neighbor heard a scream. I smile. Come in. Search.",
+      "start": 51.79,
+      "end": 59.39,
+      "words": [
+        {
+          "w": "At",
+          "start": 51.79,
+          "end": 51.976
+        },
+        {
+          "w": "four",
+          "start": 52.022,
+          "end": 52.196
+        },
+        {
+          "w": "in",
+          "start": 52.243,
+          "end": 52.301
+        },
+        {
+          "w": "the",
+          "start": 52.336,
+          "end": 52.405
+        },
+        {
+          "w": "morning,",
+          "start": 52.44,
+          "end": 52.823
+        },
+        {
+          "w": "a",
+          "start": 52.847,
+          "end": 52.916
+        },
+        {
+          "w": "knock.",
+          "start": 52.986,
+          "end": 53.462
+        },
+        {
+          "w": "Three",
+          "start": 53.706,
+          "end": 53.973
+        },
+        {
+          "w": "officers.",
+          "start": 54.008,
+          "end": 54.634
+        },
+        {
+          "w": "A",
+          "start": 54.843,
+          "end": 54.925
+        },
+        {
+          "w": "neighbor",
+          "start": 55.006,
+          "end": 55.285
+        },
+        {
+          "w": "heard",
+          "start": 55.343,
+          "end": 55.517
+        },
+        {
+          "w": "a",
+          "start": 55.552,
+          "end": 55.575
+        },
+        {
+          "w": "scream.",
+          "start": 55.621,
+          "end": 56.237
+        },
+        {
+          "w": "I",
+          "start": 56.446,
+          "end": 56.504
+        },
+        {
+          "w": "smile.",
+          "start": 56.62,
+          "end": 57.142
+        },
+        {
+          "w": "Come",
+          "start": 57.212,
+          "end": 57.421
+        },
+        {
+          "w": "in.",
+          "start": 57.456,
+          "end": 57.734
+        },
+        {
+          "w": "Search.",
+          "start": 57.943,
+          "end": 59.406
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "I bring chairs. I set my own right over the spot. We chat. Then, a ringing in my ears.",
+      "start": 59.57,
+      "end": 65.83,
+      "words": [
+        {
+          "w": "I",
+          "start": 59.57,
+          "end": 59.64
+        },
+        {
+          "w": "bring",
+          "start": 59.733,
+          "end": 59.93
+        },
+        {
+          "w": "chairs.",
+          "start": 60.0,
+          "end": 60.592
+        },
+        {
+          "w": "I",
+          "start": 60.975,
+          "end": 61.033
+        },
+        {
+          "w": "set",
+          "start": 61.149,
+          "end": 61.335
+        },
+        {
+          "w": "my",
+          "start": 61.393,
+          "end": 61.486
+        },
+        {
+          "w": "own",
+          "start": 61.567,
+          "end": 61.788
+        },
+        {
+          "w": "right",
+          "start": 61.857,
+          "end": 62.078
+        },
+        {
+          "w": "over",
+          "start": 62.124,
+          "end": 62.287
+        },
+        {
+          "w": "the",
+          "start": 62.333,
+          "end": 62.403
+        },
+        {
+          "w": "spot.",
+          "start": 62.449,
+          "end": 62.925
+        },
+        {
+          "w": "We",
+          "start": 63.25,
+          "end": 63.401
+        },
+        {
+          "w": "chat.",
+          "start": 63.459,
+          "end": 63.842
+        },
+        {
+          "w": "Then,",
+          "start": 63.924,
+          "end": 64.226
+        },
+        {
+          "w": "a",
+          "start": 64.249,
+          "end": 64.318
+        },
+        {
+          "w": "ringing",
+          "start": 64.435,
+          "end": 64.725
+        },
+        {
+          "w": "in",
+          "start": 64.771,
+          "end": 64.841
+        },
+        {
+          "w": "my",
+          "start": 64.899,
+          "end": 65.027
+        },
+        {
+          "w": "ears.",
+          "start": 65.12,
+          "end": 65.839
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "A low, dull, quick sound. Louder. Can't they hear it? They're mocking me! Tear up the planks! It's the beating of his hideous heart!",
+      "start": 66.24,
+      "end": 75.06,
+      "words": [
+        {
+          "w": "A",
+          "start": 66.24,
+          "end": 66.356
+        },
+        {
+          "w": "low,",
+          "start": 66.472,
+          "end": 66.762
+        },
+        {
+          "w": "dull,",
+          "start": 66.809,
+          "end": 67.157
+        },
+        {
+          "w": "quick",
+          "start": 67.192,
+          "end": 67.424
+        },
+        {
+          "w": "sound.",
+          "start": 67.482,
+          "end": 67.981
+        },
+        {
+          "w": "Louder.",
+          "start": 68.492,
+          "end": 69.015
+        },
+        {
+          "w": "Can't",
+          "start": 69.131,
+          "end": 69.363
+        },
+        {
+          "w": "they",
+          "start": 69.398,
+          "end": 69.514
+        },
+        {
+          "w": "hear",
+          "start": 69.584,
+          "end": 69.769
+        },
+        {
+          "w": "it?",
+          "start": 69.827,
+          "end": 70.06
+        },
+        {
+          "w": "They're",
+          "start": 70.211,
+          "end": 70.454
+        },
+        {
+          "w": "mocking",
+          "start": 70.478,
+          "end": 70.78
+        },
+        {
+          "w": "me!",
+          "start": 70.838,
+          "end": 71.128
+        },
+        {
+          "w": "Tear",
+          "start": 71.302,
+          "end": 71.604
+        },
+        {
+          "w": "up",
+          "start": 71.65,
+          "end": 71.743
+        },
+        {
+          "w": "the",
+          "start": 71.801,
+          "end": 71.871
+        },
+        {
+          "w": "planks!",
+          "start": 71.906,
+          "end": 72.451
+        },
+        {
+          "w": "It's",
+          "start": 72.498,
+          "end": 72.695
+        },
+        {
+          "w": "the",
+          "start": 72.742,
+          "end": 72.811
+        },
+        {
+          "w": "beating",
+          "start": 72.869,
+          "end": 73.171
+        },
+        {
+          "w": "of",
+          "start": 73.218,
+          "end": 73.264
+        },
+        {
+          "w": "his",
+          "start": 73.31,
+          "end": 73.403
+        },
+        {
+          "w": "hideous",
+          "start": 73.45,
+          "end": 73.81
+        },
+        {
+          "w": "heart!",
+          "start": 73.879,
+          "end": 75.064
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "So you see. I'm not mad.",
+      "start": 75.98,
+      "end": 77.97,
+      "words": [
+        {
+          "w": "So",
+          "start": 75.98,
+          "end": 76.143
+        },
+        {
+          "w": "you",
+          "start": 76.212,
+          "end": 76.305
+        },
+        {
+          "w": "see.",
+          "start": 76.386,
+          "end": 76.793
+        },
+        {
+          "w": "I'm",
+          "start": 76.92,
+          "end": 77.083
+        },
+        {
+          "w": "not",
+          "start": 77.129,
+          "end": 77.257
+        },
+        {
+          "w": "mad.",
+          "start": 77.304,
+          "end": 77.977
+        }
+      ],
+      "pad_before": 0.6
+    }
+  ],
+  "voiceStatus": "elevenlabs:JBFqnCBsd6RMkjVDRZzb"
+}
