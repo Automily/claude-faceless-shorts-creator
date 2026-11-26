@@ -383,10 +383,11 @@
    "channel": "The Fine Print",
    "short": "shorts/short-37-early",
    "video": "posting/ready/fp-018.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "You invest 10 years and stop. Your friend invests 30. You win.",
    "caption": "You put $200/month in from 25 to 35, then never add another dollar ($24K total). Your friend starts at 35 and invests $200/month for 30 years ($72K total). At 65, you have about $281K; they have about $244K. Ten extra years of compounding beat three times the money. Keep going all 40 years: about $525K. (Assumes 7%/yr average; returns vary; not advice.)",
-   "hashtags": "#investing #compoundinterest #personalfinance #moneytips #retirement"
+   "hashtags": "#investing #compoundinterest #personalfinance #moneytips #retirement",
+   "sent_at": "2026-11-26T13:46:08+00:00"
   },
   {
    "id": "tale-006",
