@@ -345,6 +345,24 @@
    "sfx_id": "whoosh-reverse",
    "gain_db": -11,
    "cue": "calm again"
+  },
+  {
+   "at_s": 77.6,
+   "sfx_id": "wind-soft",
+   "gain_db": -13,
+   "cue": "candle room tone under the last beat"
+  },
+  {
+   "at_s": 78.4,
+   "sfx_id": "impact-deep-soft",
+   "gain_db": -14,
+   "cue": "one last faint heartbeat"
+  },
+  {
+   "at_s": 79.1,
+   "sfx_id": "impact-deep-soft",
+   "gain_db": -16,
+   "cue": "..."
   }
  ]
 }
