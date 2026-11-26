@@ -33,19 +33,20 @@ import Shot29, { compositionConfig as cfg29 } from './shots/short-35/Short35Leas
 import Shot30, { compositionConfig as cfg30 } from './shots/short-36/Short36Payday';
 import Shot31, { compositionConfig as cfg31 } from './shots/short-37/Short37Early';
 import Shot32, { compositionConfig as cfg32 } from './shots/short-38/Short38StoreCard';
-import Shot33, { compositionConfig as cfg33 } from './shots/short-4/Short4Reflog';
-import Shot34, { compositionConfig as cfg34 } from './shots/short-5/Short5Monty';
-import Shot35, { compositionConfig as cfg35 } from './shots/short-6/Short6Sheet';
-import Shot36, { compositionConfig as cfg36 } from './shots/short-7/Short7Kids';
-import Shot37, { compositionConfig as cfg37 } from './shots/short-8/Short8Phish';
-import Shot38, { compositionConfig as cfg38 } from './shots/short-9/Short9Chords';
-import Shot39, { compositionConfig as cfg39 } from './shots/tale-1/Tale1GodfatherDeath';
-import Shot40, { compositionConfig as cfg40 } from './shots/tale-2/Tale2MonkeysPaw';
-import Shot41, { compositionConfig as cfg41 } from './shots/tale-3/Tale3Bluebeard';
-import Shot42, { compositionConfig as cfg42 } from './shots/tale-4/Tale4PiedPiper';
-import Shot43, { compositionConfig as cfg43 } from './shots/tale-5/Tale5RobberBridegroom';
-import Shot44, { compositionConfig as cfg44 } from './shots/tale-6/Tale6BabaYaga';
-import Shot45, { compositionConfig as cfg45 } from './shots/vox-1/Vox1Coffee';
+import Shot33, { compositionConfig as cfg33 } from './shots/short-39/Short39Refund';
+import Shot34, { compositionConfig as cfg34 } from './shots/short-4/Short4Reflog';
+import Shot35, { compositionConfig as cfg35 } from './shots/short-5/Short5Monty';
+import Shot36, { compositionConfig as cfg36 } from './shots/short-6/Short6Sheet';
+import Shot37, { compositionConfig as cfg37 } from './shots/short-7/Short7Kids';
+import Shot38, { compositionConfig as cfg38 } from './shots/short-8/Short8Phish';
+import Shot39, { compositionConfig as cfg39 } from './shots/short-9/Short9Chords';
+import Shot40, { compositionConfig as cfg40 } from './shots/tale-1/Tale1GodfatherDeath';
+import Shot41, { compositionConfig as cfg41 } from './shots/tale-2/Tale2MonkeysPaw';
+import Shot42, { compositionConfig as cfg42 } from './shots/tale-3/Tale3Bluebeard';
+import Shot43, { compositionConfig as cfg43 } from './shots/tale-4/Tale4PiedPiper';
+import Shot44, { compositionConfig as cfg44 } from './shots/tale-5/Tale5RobberBridegroom';
+import Shot45, { compositionConfig as cfg45 } from './shots/tale-6/Tale6BabaYaga';
+import Shot46, { compositionConfig as cfg46 } from './shots/vox-1/Vox1Coffee';
 
 export const shots: { Comp: React.FC; config: any }[] = [
   { Comp: Shot0 as React.FC, config: cfg0 },
@@ -94,4 +95,5 @@ export const shots: { Comp: React.FC; config: any }[] = [
   { Comp: Shot43 as React.FC, config: cfg43 },
   { Comp: Shot44 as React.FC, config: cfg44 },
   { Comp: Shot45 as React.FC, config: cfg45 },
+  { Comp: Shot46 as React.FC, config: cfg46 },
 ];
