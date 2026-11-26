@@ -280,6 +280,14 @@
   "transparent": false
  },
  {
+  "id": "Short40Latte",
+  "durationInSeconds": 42.1,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short5Monty",
   "durationInSeconds": 43,
   "fps": 30,
