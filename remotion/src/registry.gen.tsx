@@ -43,7 +43,8 @@ import Shot39, { compositionConfig as cfg39 } from './shots/tale-2/Tale2MonkeysP
 import Shot40, { compositionConfig as cfg40 } from './shots/tale-3/Tale3Bluebeard';
 import Shot41, { compositionConfig as cfg41 } from './shots/tale-4/Tale4PiedPiper';
 import Shot42, { compositionConfig as cfg42 } from './shots/tale-5/Tale5RobberBridegroom';
-import Shot43, { compositionConfig as cfg43 } from './shots/vox-1/Vox1Coffee';
+import Shot43, { compositionConfig as cfg43 } from './shots/tale-6/Tale6BabaYaga';
+import Shot44, { compositionConfig as cfg44 } from './shots/vox-1/Vox1Coffee';
 
 export const shots: { Comp: React.FC; config: any }[] = [
   { Comp: Shot0 as React.FC, config: cfg0 },
@@ -90,4 +91,5 @@ export const shots: { Comp: React.FC; config: any }[] = [
   { Comp: Shot41 as React.FC, config: cfg41 },
   { Comp: Shot42 as React.FC, config: cfg42 },
   { Comp: Shot43 as React.FC, config: cfg43 },
+  { Comp: Shot44 as React.FC, config: cfg44 },
 ];
