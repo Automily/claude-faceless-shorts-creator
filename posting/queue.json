@@ -394,10 +394,11 @@
    "channel": "Candlelit Tales",
    "short": "tales/tale-6-baba-yaga",
    "video": "posting/ready/tale-006.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "I carried a skull home through the forest. By morning, my stepmother was ash.",
    "caption": "Vasilisa and Baba Yaga (Russian folk tale, Afanasyev), told by Vasilisa. Sent into the forest for fire, to the hut on chicken legs and the fence of skulls with glowing eyes. All I had was my mother's little doll. 🕯️ Impossible work, one night. What would you do?",
-   "hashtags": "#babayaga #folklore #scarystories #storytime #animation"
+   "hashtags": "#babayaga #folklore #scarystories #storytime #animation",
+   "sent_at": "2026-11-26T22:46:30+00:00"
   },
   {
    "id": "fp-019",
@@ -415,10 +416,11 @@
    "channel": "The Fine Print",
    "short": "shorts/short-39-refund",
    "video": "posting/ready/fp-020.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "Your $3,000 tax refund isn't a bonus. It's a 0% loan. From you.",
    "caption": "A $3,000 refund means you overpaid $250 every month, and got 0% interest for it. That $250/mo in a 4% savings account: about +$55. Against a 22% credit card balance: about $322 less interest. A big refund is a year-long, zero-interest loan you made. (Illustrative; withholding depends on your situation; not tax advice.)",
-   "hashtags": "#taxes #taxrefund #personalfinance #moneytips #financialliteracy"
+   "hashtags": "#taxes #taxrefund #personalfinance #moneytips #financialliteracy",
+   "sent_at": "2026-11-26T22:46:30+00:00"
   },
   {
    "id": "tale-007",
