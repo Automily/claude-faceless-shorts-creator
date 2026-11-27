@@ -459,10 +459,11 @@
    "channel": "The Fine Print",
    "short": "shorts/short-41-cashback",
    "video": "posting/ready/fp-022.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "Your 2% cash back vs. a 20% APR",
    "caption": "Black Friday: $1,000 on a 2% cash-back card = $20 back. Pay only the minimum and ~20% APR (Bankrate's average) costs about $17 a month on that $1,000. Two months in, you've paid ~$33 for a $20 reward. Cash back only works if you pay in full, every month. (Simplified; not advice.)",
-   "hashtags": "#blackfriday #creditcard #cashback #personalfinance #moneytips"
+   "hashtags": "#blackfriday #creditcard #cashback #personalfinance #moneytips",
+   "sent_at": "2026-11-27T17:45:59+00:00"
   }
  ]
 }
