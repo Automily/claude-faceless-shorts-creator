@@ -449,10 +449,11 @@
    "channel": "Candlelit Tales",
    "short": "tales/tale-8-amontillado",
    "video": "posting/ready/tale-008.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "Fifty years, and no one has found him. Let me tell you how I did it.",
    "caption": "The Cask of Amontillado (Edgar Allan Poe, 1846), told by Montresor. He insulted me. So I invited him down to my vaults for a rare wine... and brought stones and mortar. 🕯️ He's chained. What happens next? 🎧 Sound on for the bells.",
-   "hashtags": "#edgarallanpoe #caskofamontillado #scarystories #horrorstory #animation"
+   "hashtags": "#edgarallanpoe #caskofamontillado #scarystories #horrorstory #animation",
+   "sent_at": "2026-11-27T22:46:44+00:00"
   },
   {
    "id": "fp-022",
@@ -470,10 +471,11 @@
    "channel": "The Fine Print",
    "short": "shorts/short-42-rebate",
    "video": "posting/ready/fp-023.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "0% financing or $3,000 cash back? Depends on one number.",
    "caption": "$30,000 car, 60 months. Offer 1: 0% APR = $500/mo, $30,000 total. Offer 2: $3,000 back and finance $27,000 yourself. At 6.5% that's $528/mo, $31,697 total: 0% wins. At 4%: $29,835: the rebate wins. The break-even is about 4.2%. Get your own rate before you sit down. (Excludes taxes/fees; not advice.)",
-   "hashtags": "#carbuying #cars #personalfinance #moneytips #carloan"
+   "hashtags": "#carbuying #cars #personalfinance #moneytips #carloan",
+   "sent_at": "2026-11-27T22:46:44+00:00"
   },
   {
    "id": "tale-009",
