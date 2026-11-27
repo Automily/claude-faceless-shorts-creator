@@ -1,0 +1,644 @@
+{
+  "id": "short-41-cashback",
+  "title": "2% cash back vs 20% APR",
+  "composition": "Short41Cashback",
+  "channel": "The Fine Print",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 42.8
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Black Friday. You put a thousand dollars on your two percent cash-back card. Twenty dollars of free money.",
+      "start": 0.4,
+      "end": 5.87,
+      "words": [
+        {
+          "w": "Black",
+          "start": 0.4,
+          "end": 0.689
+        },
+        {
+          "w": "Friday.",
+          "start": 0.745,
+          "end": 1.222
+        },
+        {
+          "w": "You",
+          "start": 1.422,
+          "end": 1.533
+        },
+        {
+          "w": "put",
+          "start": 1.589,
+          "end": 1.7
+        },
+        {
+          "w": "a",
+          "start": 1.733,
+          "end": 1.755
+        },
+        {
+          "w": "thousand",
+          "start": 1.822,
+          "end": 2.155
+        },
+        {
+          "w": "dollars",
+          "start": 2.2,
+          "end": 2.466
+        },
+        {
+          "w": "on",
+          "start": 2.511,
+          "end": 2.567
+        },
+        {
+          "w": "your",
+          "start": 2.6,
+          "end": 2.711
+        },
+        {
+          "w": "two",
+          "start": 2.755,
+          "end": 2.9
+        },
+        {
+          "w": "percent",
+          "start": 2.967,
+          "end": 3.244
+        },
+        {
+          "w": "cash-back",
+          "start": 3.3,
+          "end": 3.777
+        },
+        {
+          "w": "card.",
+          "start": 3.822,
+          "end": 4.133
+        },
+        {
+          "w": "Twenty",
+          "start": 4.367,
+          "end": 4.622
+        },
+        {
+          "w": "dollars",
+          "start": 4.666,
+          "end": 4.944
+        },
+        {
+          "w": "of",
+          "start": 4.989,
+          "end": 5.044
+        },
+        {
+          "w": "free",
+          "start": 5.078,
+          "end": 5.256
+        },
+        {
+          "w": "money.",
+          "start": 5.289,
+          "end": 5.867
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "The bill comes. You pay the minimum. The rest rolls over.",
+      "start": 5.95,
+      "end": 10.94,
+      "words": [
+        {
+          "w": "The",
+          "start": 5.95,
+          "end": 6.102
+        },
+        {
+          "w": "bill",
+          "start": 6.145,
+          "end": 6.297
+        },
+        {
+          "w": "comes.",
+          "start": 6.361,
+          "end": 6.805
+        },
+        {
+          "w": "You",
+          "start": 7.456,
+          "end": 7.585
+        },
+        {
+          "w": "pay",
+          "start": 7.639,
+          "end": 7.769
+        },
+        {
+          "w": "the",
+          "start": 7.824,
+          "end": 7.889
+        },
+        {
+          "w": "minimum.",
+          "start": 7.932,
+          "end": 8.398
+        },
+        {
+          "w": "The",
+          "start": 9.047,
+          "end": 9.167
+        },
+        {
+          "w": "rest",
+          "start": 9.232,
+          "end": 9.427
+        },
+        {
+          "w": "rolls",
+          "start": 9.491,
+          "end": 9.709
+        },
+        {
+          "w": "over.",
+          "start": 9.751,
+          "end": 10.932
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "The average card charges about twenty percent APR.",
+      "start": 11.02,
+      "end": 14.51,
+      "words": [
+        {
+          "w": "The",
+          "start": 11.02,
+          "end": 11.169
+        },
+        {
+          "w": "average",
+          "start": 11.226,
+          "end": 11.524
+        },
+        {
+          "w": "card",
+          "start": 11.559,
+          "end": 11.776
+        },
+        {
+          "w": "charges",
+          "start": 11.81,
+          "end": 12.165
+        },
+        {
+          "w": "about",
+          "start": 12.2,
+          "end": 12.394
+        },
+        {
+          "w": "twenty",
+          "start": 12.429,
+          "end": 12.715
+        },
+        {
+          "w": "percent",
+          "start": 12.761,
+          "end": 13.07
+        },
+        {
+          "w": "APR.",
+          "start": 13.139,
+          "end": 14.501
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. How long until your twenty dollars is gone?",
+      "start": 14.6,
+      "end": 18.91,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 14.6,
+          "end": 15.192
+        },
+        {
+          "w": "How",
+          "start": 16.144,
+          "end": 16.318
+        },
+        {
+          "w": "long",
+          "start": 16.388,
+          "end": 16.574
+        },
+        {
+          "w": "until",
+          "start": 16.62,
+          "end": 16.829
+        },
+        {
+          "w": "your",
+          "start": 16.887,
+          "end": 17.003
+        },
+        {
+          "w": "twenty",
+          "start": 17.05,
+          "end": 17.305
+        },
+        {
+          "w": "dollars",
+          "start": 17.352,
+          "end": 17.642
+        },
+        {
+          "w": "is",
+          "start": 17.688,
+          "end": 17.758
+        },
+        {
+          "w": "gone?",
+          "start": 17.804,
+          "end": 18.919
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Twenty percent a year is about one point seven percent a month. On a thousand dollars: about seventeen dollars.",
+      "start": 19.7,
+      "end": 26.27,
+      "words": [
+        {
+          "w": "Twenty",
+          "start": 19.7,
+          "end": 19.979
+        },
+        {
+          "w": "percent",
+          "start": 20.012,
+          "end": 20.269
+        },
+        {
+          "w": "a",
+          "start": 20.302,
+          "end": 20.323
+        },
+        {
+          "w": "year",
+          "start": 20.377,
+          "end": 20.538
+        },
+        {
+          "w": "is",
+          "start": 20.581,
+          "end": 20.646
+        },
+        {
+          "w": "about",
+          "start": 20.678,
+          "end": 20.882
+        },
+        {
+          "w": "one",
+          "start": 20.936,
+          "end": 21.075
+        },
+        {
+          "w": "point",
+          "start": 21.108,
+          "end": 21.301
+        },
+        {
+          "w": "seven",
+          "start": 21.366,
+          "end": 21.591
+        },
+        {
+          "w": "percent",
+          "start": 21.644,
+          "end": 21.903
+        },
+        {
+          "w": "a",
+          "start": 21.935,
+          "end": 21.956
+        },
+        {
+          "w": "month.",
+          "start": 22.0,
+          "end": 22.418
+        },
+        {
+          "w": "On",
+          "start": 23.063,
+          "end": 23.192
+        },
+        {
+          "w": "a",
+          "start": 23.224,
+          "end": 23.257
+        },
+        {
+          "w": "thousand",
+          "start": 23.31,
+          "end": 23.665
+        },
+        {
+          "w": "dollars:",
+          "start": 23.708,
+          "end": 24.18
+        },
+        {
+          "w": "about",
+          "start": 24.342,
+          "end": 24.589
+        },
+        {
+          "w": "seventeen",
+          "start": 24.643,
+          "end": 25.061
+        },
+        {
+          "w": "dollars.",
+          "start": 25.105,
+          "end": 26.276
+        }
+      ],
+      "pad_before": 0.8
+    },
+    {
+      "beat": "reveal",
+      "text": "One month, and your reward is almost gone. Two months, and you're paying the bank to use your card.",
+      "start": 26.35,
+      "end": 32.55,
+      "words": [
+        {
+          "w": "One",
+          "start": 26.35,
+          "end": 26.593
+        },
+        {
+          "w": "month,",
+          "start": 26.626,
+          "end": 26.925
+        },
+        {
+          "w": "and",
+          "start": 26.947,
+          "end": 27.08
+        },
+        {
+          "w": "your",
+          "start": 27.135,
+          "end": 27.245
+        },
+        {
+          "w": "reward",
+          "start": 27.301,
+          "end": 27.578
+        },
+        {
+          "w": "is",
+          "start": 27.622,
+          "end": 27.699
+        },
+        {
+          "w": "almost",
+          "start": 27.777,
+          "end": 28.097
+        },
+        {
+          "w": "gone.",
+          "start": 28.142,
+          "end": 28.54
+        },
+        {
+          "w": "Two",
+          "start": 29.203,
+          "end": 29.38
+        },
+        {
+          "w": "months,",
+          "start": 29.446,
+          "end": 29.866
+        },
+        {
+          "w": "and",
+          "start": 30.01,
+          "end": 30.132
+        },
+        {
+          "w": "you're",
+          "start": 30.176,
+          "end": 30.32
+        },
+        {
+          "w": "paying",
+          "start": 30.342,
+          "end": 30.563
+        },
+        {
+          "w": "the",
+          "start": 30.607,
+          "end": 30.674
+        },
+        {
+          "w": "bank",
+          "start": 30.718,
+          "end": 30.939
+        },
+        {
+          "w": "to",
+          "start": 30.984,
+          "end": 31.039
+        },
+        {
+          "w": "use",
+          "start": 31.116,
+          "end": 31.27
+        },
+        {
+          "w": "your",
+          "start": 31.304,
+          "end": 31.404
+        },
+        {
+          "w": "card.",
+          "start": 31.447,
+          "end": 32.543
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "Cash back only works if you pay in full, every month. Otherwise it's a coupon for interest.",
+      "start": 32.62,
+      "end": 37.58,
+      "words": [
+        {
+          "w": "Cash",
+          "start": 32.62,
+          "end": 32.955
+        },
+        {
+          "w": "back",
+          "start": 33.0,
+          "end": 33.178
+        },
+        {
+          "w": "only",
+          "start": 33.257,
+          "end": 33.468
+        },
+        {
+          "w": "works",
+          "start": 33.524,
+          "end": 33.77
+        },
+        {
+          "w": "if",
+          "start": 33.792,
+          "end": 33.86
+        },
+        {
+          "w": "you",
+          "start": 33.893,
+          "end": 33.96
+        },
+        {
+          "w": "pay",
+          "start": 34.027,
+          "end": 34.183
+        },
+        {
+          "w": "in",
+          "start": 34.217,
+          "end": 34.272
+        },
+        {
+          "w": "full,",
+          "start": 34.34,
+          "end": 34.585
+        },
+        {
+          "w": "every",
+          "start": 34.608,
+          "end": 34.764
+        },
+        {
+          "w": "month.",
+          "start": 34.82,
+          "end": 35.188
+        },
+        {
+          "w": "Otherwise",
+          "start": 35.612,
+          "end": 36.014
+        },
+        {
+          "w": "it's",
+          "start": 36.048,
+          "end": 36.16
+        },
+        {
+          "w": "a",
+          "start": 36.193,
+          "end": 36.215
+        },
+        {
+          "w": "coupon",
+          "start": 36.261,
+          "end": 36.562
+        },
+        {
+          "w": "for",
+          "start": 36.617,
+          "end": 36.707
+        },
+        {
+          "w": "interest.",
+          "start": 36.752,
+          "end": 37.578
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "Two percent back. Twenty percent APR. You do the math.",
+      "start": 37.67,
+      "end": 41.75,
+      "words": [
+        {
+          "w": "Two",
+          "start": 37.67,
+          "end": 37.891
+        },
+        {
+          "w": "percent",
+          "start": 37.949,
+          "end": 38.25
+        },
+        {
+          "w": "back.",
+          "start": 38.297,
+          "end": 38.657
+        },
+        {
+          "w": "Twenty",
+          "start": 38.982,
+          "end": 39.237
+        },
+        {
+          "w": "percent",
+          "start": 39.284,
+          "end": 39.597
+        },
+        {
+          "w": "APR.",
+          "start": 39.655,
+          "end": 40.329
+        },
+        {
+          "w": "You",
+          "start": 40.712,
+          "end": 40.84
+        },
+        {
+          "w": "do",
+          "start": 40.898,
+          "end": 40.979
+        },
+        {
+          "w": "the",
+          "start": 41.025,
+          "end": 41.095
+        },
+        {
+          "w": "math.",
+          "start": 41.13,
+          "end": 41.757
+        }
+      ]
+    }
+  ],
+  "style": "immersive second person",
+  "money": {
+    "spend": 1000,
+    "reward": "2% = $20",
+    "apr": "~20% (Bankrate avg 19.71%, Nov 2026)",
+    "monthly": "1000*0.20/12 = $16.67; two months ~ $33 > $20",
+    "caveat": "simplified: ignores grace period/compounding & minimum-payment paydown; illustrative, not advice"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}
