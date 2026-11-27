@@ -50,7 +50,7 @@ Make it immersive: put the viewer INSIDE the scenario. More exciting, more creat
 ## Context hygiene
 - Owner wants the conversation compacted every other day or so. Only the owner can type `/compact`
   (it also auto-compacts when long). The 20:45 slot reminds them every 2 days.
-- Last compact reminder: 2026-11-24 (owner asked; compacted same day)
+- Last compact reminder: 2026-11-26 (sent with the 20:45 tale)
 - Keep THIS file current before ending any turn — it is what survives compaction.
 
 ## Owner rules (hard)
