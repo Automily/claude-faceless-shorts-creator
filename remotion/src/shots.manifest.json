@@ -296,6 +296,14 @@
   "transparent": false
  },
  {
+  "id": "Short42Rebate",
+  "durationInSeconds": 46.5,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short5Monty",
   "durationInSeconds": 43,
   "fps": 30,

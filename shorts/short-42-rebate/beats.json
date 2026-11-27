@@ -1,0 +1,646 @@
+{
+  "id": "short-42-rebate",
+  "title": "0% financing or $3,000 cash back?",
+  "composition": "Short42Rebate",
+  "channel": "The Fine Print",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 46.5
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "You're at the dealership. Thirty thousand dollar car. The salesman slides two offers across the desk.",
+      "start": 0.4,
+      "end": 6.35,
+      "words": [
+        {
+          "w": "You're",
+          "start": 0.4,
+          "end": 0.633
+        },
+        {
+          "w": "at",
+          "start": 0.655,
+          "end": 0.71
+        },
+        {
+          "w": "the",
+          "start": 0.732,
+          "end": 0.799
+        },
+        {
+          "w": "dealership.",
+          "start": 0.832,
+          "end": 1.464
+        },
+        {
+          "w": "Thirty",
+          "start": 1.884,
+          "end": 2.161
+        },
+        {
+          "w": "thousand",
+          "start": 2.205,
+          "end": 2.504
+        },
+        {
+          "w": "dollar",
+          "start": 2.538,
+          "end": 2.759
+        },
+        {
+          "w": "car.",
+          "start": 2.826,
+          "end": 3.213
+        },
+        {
+          "w": "The",
+          "start": 3.523,
+          "end": 3.634
+        },
+        {
+          "w": "salesman",
+          "start": 3.678,
+          "end": 4.099
+        },
+        {
+          "w": "slides",
+          "start": 4.154,
+          "end": 4.475
+        },
+        {
+          "w": "two",
+          "start": 4.52,
+          "end": 4.664
+        },
+        {
+          "w": "offers",
+          "start": 4.741,
+          "end": 5.018
+        },
+        {
+          "w": "across",
+          "start": 5.051,
+          "end": 5.328
+        },
+        {
+          "w": "the",
+          "start": 5.361,
+          "end": 5.428
+        },
+        {
+          "w": "desk.",
+          "start": 5.461,
+          "end": 6.336
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Offer one: zero percent financing for five years. Five hundred a month.",
+      "start": 6.43,
+      "end": 12.24,
+      "words": [
+        {
+          "w": "Offer",
+          "start": 6.43,
+          "end": 6.764
+        },
+        {
+          "w": "one:",
+          "start": 6.85,
+          "end": 7.227
+        },
+        {
+          "w": "zero",
+          "start": 7.873,
+          "end": 8.185
+        },
+        {
+          "w": "percent",
+          "start": 8.25,
+          "end": 8.573
+        },
+        {
+          "w": "financing",
+          "start": 8.627,
+          "end": 9.101
+        },
+        {
+          "w": "for",
+          "start": 9.154,
+          "end": 9.252
+        },
+        {
+          "w": "five",
+          "start": 9.306,
+          "end": 9.542
+        },
+        {
+          "w": "years.",
+          "start": 9.575,
+          "end": 9.951
+        },
+        {
+          "w": "Five",
+          "start": 10.598,
+          "end": 10.857
+        },
+        {
+          "w": "hundred",
+          "start": 10.889,
+          "end": 11.104
+        },
+        {
+          "w": "a",
+          "start": 11.126,
+          "end": 11.147
+        },
+        {
+          "w": "month.",
+          "start": 11.201,
+          "end": 12.245
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Offer two: three thousand dollars cash back. You finance the rest at your bank.",
+      "start": 12.32,
+      "end": 17.72,
+      "words": [
+        {
+          "w": "Offer",
+          "start": 12.32,
+          "end": 12.665
+        },
+        {
+          "w": "two:",
+          "start": 12.733,
+          "end": 13.189
+        },
+        {
+          "w": "three",
+          "start": 13.39,
+          "end": 13.623
+        },
+        {
+          "w": "thousand",
+          "start": 13.668,
+          "end": 13.969
+        },
+        {
+          "w": "dollars",
+          "start": 14.002,
+          "end": 14.259
+        },
+        {
+          "w": "cash",
+          "start": 14.314,
+          "end": 14.582
+        },
+        {
+          "w": "back.",
+          "start": 14.626,
+          "end": 15.005
+        },
+        {
+          "w": "You",
+          "start": 15.428,
+          "end": 15.563
+        },
+        {
+          "w": "finance",
+          "start": 15.64,
+          "end": 15.997
+        },
+        {
+          "w": "the",
+          "start": 16.03,
+          "end": 16.097
+        },
+        {
+          "w": "rest",
+          "start": 16.141,
+          "end": 16.308
+        },
+        {
+          "w": "at",
+          "start": 16.342,
+          "end": 16.398
+        },
+        {
+          "w": "your",
+          "start": 16.431,
+          "end": 16.532
+        },
+        {
+          "w": "bank.",
+          "start": 16.588,
+          "end": 17.712
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. Which one do you sign?",
+      "start": 17.81,
+      "end": 21.01,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 17.81,
+          "end": 18.402
+        },
+        {
+          "w": "Which",
+          "start": 19.215,
+          "end": 19.424
+        },
+        {
+          "w": "one",
+          "start": 19.482,
+          "end": 19.61
+        },
+        {
+          "w": "do",
+          "start": 19.633,
+          "end": 19.691
+        },
+        {
+          "w": "you",
+          "start": 19.726,
+          "end": 19.795
+        },
+        {
+          "w": "sign?",
+          "start": 19.853,
+          "end": 21.014
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Zero percent costs exactly thirty thousand. With the rebate, you borrow twenty-seven thousand.",
+      "start": 21.88,
+      "end": 28.38,
+      "words": [
+        {
+          "w": "Zero",
+          "start": 21.88,
+          "end": 22.17
+        },
+        {
+          "w": "percent",
+          "start": 22.235,
+          "end": 22.535
+        },
+        {
+          "w": "costs",
+          "start": 22.589,
+          "end": 22.848
+        },
+        {
+          "w": "exactly",
+          "start": 22.901,
+          "end": 23.309
+        },
+        {
+          "w": "thirty",
+          "start": 23.384,
+          "end": 23.632
+        },
+        {
+          "w": "thousand.",
+          "start": 23.675,
+          "end": 24.191
+        },
+        {
+          "w": "With",
+          "start": 24.944,
+          "end": 25.116
+        },
+        {
+          "w": "the",
+          "start": 25.147,
+          "end": 25.212
+        },
+        {
+          "w": "rebate,",
+          "start": 25.277,
+          "end": 25.76
+        },
+        {
+          "w": "you",
+          "start": 25.9,
+          "end": 25.997
+        },
+        {
+          "w": "borrow",
+          "start": 26.072,
+          "end": 26.298
+        },
+        {
+          "w": "twenty-seven",
+          "start": 26.362,
+          "end": 26.921
+        },
+        {
+          "w": "thousand.",
+          "start": 26.965,
+          "end": 28.372
+        }
+      ],
+      "pad_before": 0.8
+    },
+    {
+      "beat": "reveal",
+      "text": "At six and a half percent, that's five twenty-eight a month. Thirty-one seven hundred total. Zero percent wins.",
+      "start": 28.46,
+      "end": 35.08,
+      "words": [
+        {
+          "w": "At",
+          "start": 28.46,
+          "end": 28.659
+        },
+        {
+          "w": "six",
+          "start": 28.714,
+          "end": 28.89
+        },
+        {
+          "w": "and",
+          "start": 28.934,
+          "end": 29.0
+        },
+        {
+          "w": "a",
+          "start": 29.034,
+          "end": 29.056
+        },
+        {
+          "w": "half",
+          "start": 29.099,
+          "end": 29.221
+        },
+        {
+          "w": "percent,",
+          "start": 29.276,
+          "end": 29.607
+        },
+        {
+          "w": "that's",
+          "start": 29.629,
+          "end": 29.838
+        },
+        {
+          "w": "five",
+          "start": 29.905,
+          "end": 30.158
+        },
+        {
+          "w": "twenty-eight",
+          "start": 30.192,
+          "end": 30.567
+        },
+        {
+          "w": "a",
+          "start": 30.589,
+          "end": 30.611
+        },
+        {
+          "w": "month.",
+          "start": 30.644,
+          "end": 31.041
+        },
+        {
+          "w": "Thirty-one",
+          "start": 31.405,
+          "end": 31.9
+        },
+        {
+          "w": "seven",
+          "start": 31.956,
+          "end": 32.187
+        },
+        {
+          "w": "hundred",
+          "start": 32.221,
+          "end": 32.452
+        },
+        {
+          "w": "total.",
+          "start": 32.474,
+          "end": 32.905
+        },
+        {
+          "w": "Zero",
+          "start": 33.323,
+          "end": 33.632
+        },
+        {
+          "w": "percent",
+          "start": 33.699,
+          "end": 34.007
+        },
+        {
+          "w": "wins.",
+          "start": 34.051,
+          "end": 35.077
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "But if your bank gives you four percent, the rebate wins. The line is about four point two percent.",
+      "start": 35.16,
+      "end": 41.87,
+      "words": [
+        {
+          "w": "But",
+          "start": 35.16,
+          "end": 35.347
+        },
+        {
+          "w": "if",
+          "start": 35.37,
+          "end": 35.435
+        },
+        {
+          "w": "your",
+          "start": 35.468,
+          "end": 35.578
+        },
+        {
+          "w": "bank",
+          "start": 35.623,
+          "end": 35.798
+        },
+        {
+          "w": "gives",
+          "start": 35.876,
+          "end": 36.041
+        },
+        {
+          "w": "you",
+          "start": 36.085,
+          "end": 36.163
+        },
+        {
+          "w": "four",
+          "start": 36.25,
+          "end": 36.438
+        },
+        {
+          "w": "percent,",
+          "start": 36.493,
+          "end": 36.988
+        },
+        {
+          "w": "the",
+          "start": 37.219,
+          "end": 37.319
+        },
+        {
+          "w": "rebate",
+          "start": 37.384,
+          "end": 37.682
+        },
+        {
+          "w": "wins.",
+          "start": 37.715,
+          "end": 38.167
+        },
+        {
+          "w": "The",
+          "start": 39.07,
+          "end": 39.191
+        },
+        {
+          "w": "line",
+          "start": 39.257,
+          "end": 39.477
+        },
+        {
+          "w": "is",
+          "start": 39.499,
+          "end": 39.565
+        },
+        {
+          "w": "about",
+          "start": 39.609,
+          "end": 39.83
+        },
+        {
+          "w": "four",
+          "start": 39.895,
+          "end": 40.083
+        },
+        {
+          "w": "point",
+          "start": 40.149,
+          "end": 40.347
+        },
+        {
+          "w": "two",
+          "start": 40.38,
+          "end": 40.512
+        },
+        {
+          "w": "percent.",
+          "start": 40.578,
+          "end": 41.856
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "So before you sit down at that desk, get your own rate first.",
+      "start": 41.95,
+      "end": 45.38,
+      "words": [
+        {
+          "w": "So",
+          "start": 41.95,
+          "end": 42.124
+        },
+        {
+          "w": "before",
+          "start": 42.194,
+          "end": 42.461
+        },
+        {
+          "w": "you",
+          "start": 42.507,
+          "end": 42.577
+        },
+        {
+          "w": "sit",
+          "start": 42.647,
+          "end": 42.786
+        },
+        {
+          "w": "down",
+          "start": 42.832,
+          "end": 42.972
+        },
+        {
+          "w": "at",
+          "start": 43.007,
+          "end": 43.065
+        },
+        {
+          "w": "that",
+          "start": 43.099,
+          "end": 43.227
+        },
+        {
+          "w": "desk,",
+          "start": 43.285,
+          "end": 43.68
+        },
+        {
+          "w": "get",
+          "start": 43.889,
+          "end": 44.063
+        },
+        {
+          "w": "your",
+          "start": 44.109,
+          "end": 44.237
+        },
+        {
+          "w": "own",
+          "start": 44.295,
+          "end": 44.411
+        },
+        {
+          "w": "rate",
+          "start": 44.469,
+          "end": 44.667
+        },
+        {
+          "w": "first.",
+          "start": 44.702,
+          "end": 45.387
+        }
+      ]
+    }
+  ],
+  "style": "immersive second person",
+  "money": {
+    "price": 30000,
+    "zero": "0% 60mo = $500/mo, $30,000",
+    "rebate": "$3,000 off -> $27,000 financed 60mo",
+    "at6.5": "$528.29/mo, $31,697",
+    "at4": "$497.25/mo, $29,835",
+    "breakeven": "4.23%",
+    "caveat": "ignores taxes/fees; offers vary; illustrative, not advice"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}
