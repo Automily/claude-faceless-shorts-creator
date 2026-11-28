@@ -1,0 +1,182 @@
+{
+ "master": "remotion/out/Blox1Pilot-voiced.mp4",
+ "master_fps": 30,
+ "catalog": "media/library/sfx/catalog.json",
+ "render": {
+  "preview": "remotion/out/Blox1Pilot-voiced.mp4",
+  "out": "shorts/blox-1-pilot/output/blox-1-sfx.mp4",
+  "end_s": 28.1,
+  "duck": true
+ },
+ "note": "pilot",
+ "events": [
+  {
+   "at_s": 0.3,
+   "sfx_id": "owl-hoot",
+   "gain_db": -14,
+   "cue": "night"
+  },
+  {
+   "at_s": 2.64,
+   "sfx_id": "ui-toggle-on",
+   "gain_db": -8,
+   "cue": "except me: window lights"
+  },
+  {
+   "at_s": 4.48,
+   "sfx_id": "impact-soft",
+   "gain_db": -6,
+   "cue": "HUSS"
+  },
+  {
+   "at_s": 4.979,
+   "sfx_id": "impact-soft",
+   "gain_db": -6,
+   "cue": "HUSS"
+  },
+  {
+   "at_s": 5.409,
+   "sfx_id": "impact-soft",
+   "gain_db": -6,
+   "cue": "HUSS"
+  },
+  {
+   "at_s": 7.05,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -9,
+   "cue": "day"
+  },
+  {
+   "at_s": 7.3,
+   "sfx_id": "chess-piece-thock",
+   "gain_db": -6,
+   "cue": "chicken stomp"
+  },
+  {
+   "at_s": 8.0,
+   "sfx_id": "chess-piece-thock",
+   "gain_db": -6,
+   "cue": "stomp"
+  },
+  {
+   "at_s": 8.7,
+   "sfx_id": "chess-piece-thock",
+   "gain_db": -6,
+   "cue": "stomp"
+  },
+  {
+   "at_s": 9.86,
+   "sfx_id": "stamp-hit",
+   "gain_db": -8,
+   "cue": "except me"
+  },
+  {
+   "at_s": 11.3,
+   "sfx_id": "riser-soft",
+   "gain_db": -10,
+   "cue": "lift"
+  },
+  {
+   "at_s": 11.48,
+   "sfx_id": "impact-soft",
+   "gain_db": -6,
+   "cue": "HUSS"
+  },
+  {
+   "at_s": 11.933,
+   "sfx_id": "impact-soft",
+   "gain_db": -6,
+   "cue": "HUSS"
+  },
+  {
+   "at_s": 12.316,
+   "sfx_id": "impact-soft",
+   "gain_db": -6,
+   "cue": "HUSS"
+  },
+  {
+   "at_s": 14.25,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -9,
+   "cue": "lava scene"
+  },
+  {
+   "at_s": 15.4,
+   "sfx_id": "glitch-zap",
+   "gain_db": -8,
+   "cue": "floor is lava"
+  },
+  {
+   "at_s": 16.2,
+   "sfx_id": "stamp-hit",
+   "gain_db": -8,
+   "cue": "TUESDAY"
+  },
+  {
+   "at_s": 17.06,
+   "sfx_id": "whoosh-wind",
+   "gain_db": -9,
+   "cue": "door surf"
+  },
+  {
+   "at_s": 18.45,
+   "sfx_id": "impact-soft",
+   "gain_db": -6,
+   "cue": "HUSS"
+  },
+  {
+   "at_s": 18.822,
+   "sfx_id": "impact-soft",
+   "gain_db": -6,
+   "cue": "HUSS"
+  },
+  {
+   "at_s": 19.147,
+   "sfx_id": "impact-soft",
+   "gain_db": -6,
+   "cue": "HUSS"
+  },
+  {
+   "at_s": 20.57,
+   "sfx_id": "page-flip",
+   "gain_db": -8,
+   "cue": "town hall"
+  },
+  {
+   "at_s": 23.3,
+   "sfx_id": "whoosh-reverse",
+   "gain_db": -7,
+   "cue": "newspaper drops"
+  },
+  {
+   "at_s": 23.75,
+   "sfx_id": "impact-deep-soft",
+   "gain_db": -5,
+   "cue": "IT WAS ME"
+  },
+  {
+   "at_s": 25.2,
+   "sfx_id": "impact-soft",
+   "gain_db": -6,
+   "cue": "HUSS"
+  },
+  {
+   "at_s": 25.548,
+   "sfx_id": "impact-soft",
+   "gain_db": -6,
+   "cue": "HUSS"
+  },
+  {
+   "at_s": 25.85,
+   "sfx_id": "impact-soft",
+   "gain_db": -6,
+   "cue": "HUSS"
+  },
+  {
+   "at_s": 26.9,
+   "sfx_id": "whoosh-reverse",
+   "gain_db": -9,
+   "cue": "loop"
+  }
+ ]
+}
