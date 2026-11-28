@@ -493,10 +493,11 @@
    "channel": "The Fine Print",
    "short": "shorts/short-43-repair",
    "video": "posting/ready/fp-024.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "Your $1,200 car repair, paid with minimum payments, costs $2,333",
    "caption": "Car won't start. $1,200 repair, $214 in checking. It goes on a 22% card and you pay the ~$34 minimum: 7 years 4 months and $1,133 in interest. Rewind: $100/month into savings for one year = the same repair, paid in cash, $0 interest. An emergency fund isn't to get rich. It stops emergencies from getting expensive. (Minimums vary by issuer; illustrative, not advice.)",
-   "hashtags": "#emergencyfund #creditcard #personalfinance #moneytips #debt"
+   "hashtags": "#emergencyfund #creditcard #personalfinance #moneytips #debt",
+   "sent_at": "2026-11-28T13:45:54+00:00"
   },
   {
    "id": "tale-010",
