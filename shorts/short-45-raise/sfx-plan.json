@@ -165,6 +165,18 @@
    "sfx_id": "whoosh-reverse",
    "gain_db": -11,
    "cue": "back"
+  },
+  {
+   "at_s": 60.4,
+   "sfx_id": "chime-reward",
+   "gain_db": -12,
+   "cue": "loop tail"
+  },
+  {
+   "at_s": 61.0,
+   "sfx_id": "ui-click-soft",
+   "gain_db": -12,
+   "cue": "loop tail"
   }
  ]
 }
