@@ -1,0 +1,391 @@
+{
+  "id": "blox-1-pilot",
+  "title": "In this town... (pilot)",
+  "composition": "Blox1Pilot",
+  "channel": "(pilot) original blocky town",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 28.1
+  },
+  "voicePlan": "elevenlabs:bIHbv24MWmeRgasZH58o (Will)",
+  "vo": [
+    {
+      "beat": "s1",
+      "text": "In this town, everyone sleeps at night.",
+      "start": 0.4,
+      "end": 2.35,
+      "words": [
+        {
+          "w": "In",
+          "start": 0.4,
+          "end": 0.551
+        },
+        {
+          "w": "this",
+          "start": 0.586,
+          "end": 0.725
+        },
+        {
+          "w": "town,",
+          "start": 0.783,
+          "end": 1.131
+        },
+        {
+          "w": "everyone",
+          "start": 1.189,
+          "end": 1.561
+        },
+        {
+          "w": "sleeps",
+          "start": 1.584,
+          "end": 1.874
+        },
+        {
+          "w": "at",
+          "start": 1.909,
+          "end": 1.979
+        },
+        {
+          "w": "night.",
+          "start": 2.037,
+          "end": 2.35
+        }
+      ]
+    },
+    {
+      "beat": "s1x",
+      "text": "Except me.",
+      "start": 2.64,
+      "end": 4.17,
+      "words": [
+        {
+          "w": "Except",
+          "start": 2.64,
+          "end": 3.116
+        },
+        {
+          "w": "me.",
+          "start": 3.197,
+          "end": 4.173
+        }
+      ]
+    },
+    {
+      "beat": "s1h",
+      "text": "Huss. Huss. Huss.",
+      "start": 4.48,
+      "end": 6.34,
+      "words": [
+        {
+          "w": "Huss.",
+          "start": 4.48,
+          "end": 4.944
+        },
+        {
+          "w": "Huss.",
+          "start": 4.979,
+          "end": 5.374
+        },
+        {
+          "w": "Huss.",
+          "start": 5.409,
+          "end": 6.338
+        }
+      ]
+    },
+    {
+      "beat": "s2",
+      "text": "In this town, everyone runs from the giant chicken.",
+      "start": 7.05,
+      "end": 9.6,
+      "words": [
+        {
+          "w": "In",
+          "start": 7.05,
+          "end": 7.236
+        },
+        {
+          "w": "this",
+          "start": 7.282,
+          "end": 7.422
+        },
+        {
+          "w": "town,",
+          "start": 7.48,
+          "end": 7.816
+        },
+        {
+          "w": "everyone",
+          "start": 7.863,
+          "end": 8.246
+        },
+        {
+          "w": "runs",
+          "start": 8.292,
+          "end": 8.501
+        },
+        {
+          "w": "from",
+          "start": 8.536,
+          "end": 8.652
+        },
+        {
+          "w": "the",
+          "start": 8.687,
+          "end": 8.757
+        },
+        {
+          "w": "giant",
+          "start": 8.815,
+          "end": 9.117
+        },
+        {
+          "w": "chicken.",
+          "start": 9.163,
+          "end": 9.604
+        }
+      ],
+      "pad_before": 0.4
+    },
+    {
+      "beat": "s2x",
+      "text": "Except me.",
+      "start": 9.86,
+      "end": 11.15,
+      "words": [
+        {
+          "w": "Except",
+          "start": 9.86,
+          "end": 10.243
+        },
+        {
+          "w": "me.",
+          "start": 10.301,
+          "end": 11.16
+        }
+      ]
+    },
+    {
+      "beat": "s2h",
+      "text": "Huss. Huss. Huss.",
+      "start": 11.48,
+      "end": 13.56,
+      "words": [
+        {
+          "w": "Huss.",
+          "start": 11.48,
+          "end": 11.898
+        },
+        {
+          "w": "Huss.",
+          "start": 11.933,
+          "end": 12.281
+        },
+        {
+          "w": "Huss.",
+          "start": 12.316,
+          "end": 13.57
+        }
+      ]
+    },
+    {
+      "beat": "s3",
+      "text": "In this town, the floor is lava. Every Tuesday.",
+      "start": 14.25,
+      "end": 16.8,
+      "words": [
+        {
+          "w": "In",
+          "start": 14.25,
+          "end": 14.378
+        },
+        {
+          "w": "this",
+          "start": 14.413,
+          "end": 14.529
+        },
+        {
+          "w": "town,",
+          "start": 14.575,
+          "end": 14.819
+        },
+        {
+          "w": "the",
+          "start": 14.842,
+          "end": 14.912
+        },
+        {
+          "w": "floor",
+          "start": 14.958,
+          "end": 15.202
+        },
+        {
+          "w": "is",
+          "start": 15.237,
+          "end": 15.307
+        },
+        {
+          "w": "lava.",
+          "start": 15.376,
+          "end": 15.817
+        },
+        {
+          "w": "Every",
+          "start": 15.875,
+          "end": 16.166
+        },
+        {
+          "w": "Tuesday.",
+          "start": 16.212,
+          "end": 16.804
+        }
+      ],
+      "pad_before": 0.4
+    },
+    {
+      "beat": "s3x",
+      "text": "Except me.",
+      "start": 17.06,
+      "end": 18.12,
+      "words": [
+        {
+          "w": "Except",
+          "start": 17.06,
+          "end": 17.42
+        },
+        {
+          "w": "me.",
+          "start": 17.466,
+          "end": 18.128
+        }
+      ]
+    },
+    {
+      "beat": "s3h",
+      "text": "Huss. Huss. Huss.",
+      "start": 18.45,
+      "end": 19.84,
+      "words": [
+        {
+          "w": "Huss.",
+          "start": 18.45,
+          "end": 18.798
+        },
+        {
+          "w": "Huss.",
+          "start": 18.822,
+          "end": 19.123
+        },
+        {
+          "w": "Huss.",
+          "start": 19.147,
+          "end": 19.843
+        }
+      ]
+    },
+    {
+      "beat": "s4",
+      "text": "In this town, nobody has ever seen the mayor's face.",
+      "start": 20.57,
+      "end": 22.98,
+      "words": [
+        {
+          "w": "In",
+          "start": 20.57,
+          "end": 20.698
+        },
+        {
+          "w": "this",
+          "start": 20.744,
+          "end": 20.872
+        },
+        {
+          "w": "town,",
+          "start": 20.93,
+          "end": 21.22
+        },
+        {
+          "w": "nobody",
+          "start": 21.267,
+          "end": 21.499
+        },
+        {
+          "w": "has",
+          "start": 21.534,
+          "end": 21.627
+        },
+        {
+          "w": "ever",
+          "start": 21.696,
+          "end": 21.882
+        },
+        {
+          "w": "seen",
+          "start": 21.94,
+          "end": 22.137
+        },
+        {
+          "w": "the",
+          "start": 22.184,
+          "end": 22.253
+        },
+        {
+          "w": "mayor's",
+          "start": 22.3,
+          "end": 22.579
+        },
+        {
+          "w": "face.",
+          "start": 22.637,
+          "end": 22.985
+        }
+      ],
+      "pad_before": 0.4
+    },
+    {
+      "beat": "s4x",
+      "text": "Except me.",
+      "start": 23.26,
+      "end": 24.88,
+      "words": [
+        {
+          "w": "Except",
+          "start": 23.26,
+          "end": 23.666
+        },
+        {
+          "w": "me.",
+          "start": 23.724,
+          "end": 24.885
+        }
+      ]
+    },
+    {
+      "beat": "s4h",
+      "text": "Huss. Huss. Huss.",
+      "start": 25.2,
+      "end": 26.45,
+      "words": [
+        {
+          "w": "Huss.",
+          "start": 25.2,
+          "end": 25.502
+        },
+        {
+          "w": "Huss.",
+          "start": 25.548,
+          "end": 25.804
+        },
+        {
+          "w": "Huss.",
+          "start": 25.85,
+          "end": 26.454
+        }
+      ]
+    }
+  ],
+  "note": "original blocky characters + world; riffs on the 'In this town... except me' meme format; our own voice, no original audio",
+  "voiceStatus": "elevenlabs:bIHbv24MWmeRgasZH58o"
+}

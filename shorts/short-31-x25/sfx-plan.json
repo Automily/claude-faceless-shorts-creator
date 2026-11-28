@@ -1,0 +1,87 @@
+{
+  "master": "remotion/out/Short31X25-voiced.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "remotion/out/Short31X25-voiced.mp4",
+    "out": "shorts/short-31-x25/output/short-31-sfx.mp4",
+    "end_s": 41,
+    "duck": true
+  },
+  "note": "100% library.",
+  "events": [
+    {
+      "at_s": 5.8,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -10,
+      "cue": "payoff clears"
+    },
+    {
+      "at_s": 6.55,
+      "sfx_id": "pop-reveal",
+      "gain_db": -10,
+      "cue": "4%"
+    },
+    {
+      "at_s": 16.1,
+      "sfx_id": "chime-reward",
+      "gain_db": -11,
+      "cue": "lasted 30+ years"
+    },
+    {
+      "at_s": 17.8,
+      "sfx_id": "pop-reveal",
+      "gain_db": -10,
+      "cue": "PauseCard"
+    },
+    {
+      "at_s": 18.0,
+      "sfx_id": "clock-tick-soft",
+      "gain_db": -15,
+      "cue": "pause countdown",
+      "optional": true
+    },
+    {
+      "at_s": 23.7,
+      "sfx_id": "riser-soft",
+      "gain_db": -11,
+      "cue": "25 blocks fill"
+    },
+    {
+      "at_s": 25.4,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -5,
+      "cue": "HERO: $1,000,000"
+    },
+    {
+      "at_s": 28.85,
+      "sfx_id": "stamp-hit",
+      "gain_db": -8,
+      "cue": "one block = one year"
+    },
+    {
+      "at_s": 30.5,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -10,
+      "cue": "flip it around"
+    },
+    {
+      "at_s": 34.0,
+      "sfx_id": "impact-soft",
+      "gain_db": -7,
+      "cue": "-$25 needed"
+    },
+    {
+      "at_s": 35.55,
+      "sfx_id": "chime-reward",
+      "gain_db": -10,
+      "cue": "$30,000 less to save"
+    },
+    {
+      "at_s": 37.3,
+      "sfx_id": "whoosh-reverse",
+      "gain_db": -10,
+      "cue": "back to the grid"
+    }
+  ]
+}

@@ -56,7 +56,7 @@ const ChallengeScene: React.FC<{ mode: 'settle' | 'grow'; digits: string; chip: 
           { text: 'MULTIPLY BY 11', color: '#ffffff' },
           { text: 'IN YOUR HEAD', color: GOLD },
         ]}
-        subtitle="in two seconds — no calculator"
+        subtitle="in two seconds, no calculator"
         warm={mode === 'settle'}
       />
       <EqRow
@@ -107,7 +107,7 @@ const AnswerScene: React.FC = () => (
 
 const CarryScene: React.FC = () => (
   <FadeIn>
-    <Kicker text="LEVEL 2 — THE CARRY" at={6} until={366} />
+    <Kicker text="LEVEL 2: THE CARRY" at={6} until={366} />
     <TimesElevenDemo a={8} b={5} t={{ split: 105, sum: 156, drop: 204, carry: 240, result: 306 }} />
   </FadeIn>
 );

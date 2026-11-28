@@ -1,0 +1,492 @@
+{
+  "id": "short-21-inflation",
+  "title": "Inflation Quietly Halves Your Cash",
+  "composition": "Short21Inflation",
+  "channel": "The Fine Print",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 36.6
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Ten thousand dollars in cash. Twenty-four years later, it buys half as much.",
+      "start": 0.4,
+      "end": 5.13,
+      "words": [
+        {
+          "w": "Ten",
+          "start": 0.4,
+          "end": 0.655
+        },
+        {
+          "w": "thousand",
+          "start": 0.725,
+          "end": 1.085
+        },
+        {
+          "w": "dollars",
+          "start": 1.143,
+          "end": 1.433
+        },
+        {
+          "w": "in",
+          "start": 1.468,
+          "end": 1.526
+        },
+        {
+          "w": "cash.",
+          "start": 1.584,
+          "end": 2.072
+        },
+        {
+          "w": "Twenty-four",
+          "start": 2.316,
+          "end": 2.792
+        },
+        {
+          "w": "years",
+          "start": 2.85,
+          "end": 3.059
+        },
+        {
+          "w": "later,",
+          "start": 3.128,
+          "end": 3.453
+        },
+        {
+          "w": "it",
+          "start": 3.477,
+          "end": 3.581
+        },
+        {
+          "w": "buys",
+          "start": 3.639,
+          "end": 3.86
+        },
+        {
+          "w": "half",
+          "start": 3.941,
+          "end": 4.138
+        },
+        {
+          "w": "as",
+          "start": 4.196,
+          "end": 4.266
+        },
+        {
+          "w": "much.",
+          "start": 4.324,
+          "end": 5.137
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Prices rise about three percent a year. Your cash doesn't.",
+      "start": 5.4,
+      "end": 9.33,
+      "words": [
+        {
+          "w": "Prices",
+          "start": 5.4,
+          "end": 5.771
+        },
+        {
+          "w": "rise",
+          "start": 5.825,
+          "end": 6.01
+        },
+        {
+          "w": "about",
+          "start": 6.043,
+          "end": 6.207
+        },
+        {
+          "w": "three",
+          "start": 6.24,
+          "end": 6.425
+        },
+        {
+          "w": "percent",
+          "start": 6.458,
+          "end": 6.708
+        },
+        {
+          "w": "a",
+          "start": 6.741,
+          "end": 6.763
+        },
+        {
+          "w": "year.",
+          "start": 6.807,
+          "end": 7.145
+        },
+        {
+          "w": "Your",
+          "start": 7.799,
+          "end": 7.941
+        },
+        {
+          "w": "cash",
+          "start": 7.985,
+          "end": 8.224
+        },
+        {
+          "w": "doesn't.",
+          "start": 8.267,
+          "end": 9.326
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Three percent sounds tiny. But it compounds, against you.",
+      "start": 9.4,
+      "end": 14.51,
+      "words": [
+        {
+          "w": "Three",
+          "start": 9.4,
+          "end": 9.676
+        },
+        {
+          "w": "percent",
+          "start": 9.722,
+          "end": 10.033
+        },
+        {
+          "w": "sounds",
+          "start": 10.091,
+          "end": 10.401
+        },
+        {
+          "w": "tiny.",
+          "start": 10.458,
+          "end": 10.964
+        },
+        {
+          "w": "But",
+          "start": 11.471,
+          "end": 11.631
+        },
+        {
+          "w": "it",
+          "start": 11.666,
+          "end": 11.735
+        },
+        {
+          "w": "compounds,",
+          "start": 11.793,
+          "end": 12.586
+        },
+        {
+          "w": "against",
+          "start": 12.793,
+          "end": 13.161
+        },
+        {
+          "w": "you.",
+          "start": 13.219,
+          "end": 14.507
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. How long until your cash buys half as much?",
+      "start": 14.6,
+      "end": 18.21,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 14.6,
+          "end": 15.134
+        },
+        {
+          "w": "How",
+          "start": 16.086,
+          "end": 16.272
+        },
+        {
+          "w": "long",
+          "start": 16.341,
+          "end": 16.527
+        },
+        {
+          "w": "until",
+          "start": 16.562,
+          "end": 16.771
+        },
+        {
+          "w": "your",
+          "start": 16.818,
+          "end": 16.922
+        },
+        {
+          "w": "cash",
+          "start": 16.968,
+          "end": 17.212
+        },
+        {
+          "w": "buys",
+          "start": 17.259,
+          "end": 17.491
+        },
+        {
+          "w": "half",
+          "start": 17.549,
+          "end": 17.758
+        },
+        {
+          "w": "as",
+          "start": 17.804,
+          "end": 17.874
+        },
+        {
+          "w": "much?",
+          "start": 17.932,
+          "end": 19.29
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Seventy-two divided by three. Twenty-four years.",
+      "start": 19.4,
+      "end": 22.83,
+      "words": [
+        {
+          "w": "Seventy-two",
+          "start": 19.4,
+          "end": 20.027
+        },
+        {
+          "w": "divided",
+          "start": 20.097,
+          "end": 20.433
+        },
+        {
+          "w": "by",
+          "start": 20.468,
+          "end": 20.561
+        },
+        {
+          "w": "three.",
+          "start": 20.619,
+          "end": 20.991
+        },
+        {
+          "w": "Twenty-four",
+          "start": 21.432,
+          "end": 21.896
+        },
+        {
+          "w": "years.",
+          "start": 21.943,
+          "end": 22.837
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Your ten thousand still says ten thousand. It just buys five thousand worth.",
+      "start": 23.0,
+      "end": 27.45,
+      "words": [
+        {
+          "w": "Your",
+          "start": 23.0,
+          "end": 23.174
+        },
+        {
+          "w": "ten",
+          "start": 23.232,
+          "end": 23.406
+        },
+        {
+          "w": "thousand",
+          "start": 23.464,
+          "end": 23.789
+        },
+        {
+          "w": "still",
+          "start": 23.836,
+          "end": 24.033
+        },
+        {
+          "w": "says",
+          "start": 24.08,
+          "end": 24.265
+        },
+        {
+          "w": "ten",
+          "start": 24.324,
+          "end": 24.498
+        },
+        {
+          "w": "thousand.",
+          "start": 24.556,
+          "end": 25.136
+        },
+        {
+          "w": "It",
+          "start": 25.519,
+          "end": 25.647
+        },
+        {
+          "w": "just",
+          "start": 25.694,
+          "end": 25.833
+        },
+        {
+          "w": "buys",
+          "start": 25.879,
+          "end": 26.088
+        },
+        {
+          "w": "five",
+          "start": 26.146,
+          "end": 26.367
+        },
+        {
+          "w": "thousand",
+          "start": 26.39,
+          "end": 26.692
+        },
+        {
+          "w": "worth.",
+          "start": 26.727,
+          "end": 27.458
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "The cart of groceries that costs a hundred today? About two hundred.",
+      "start": 27.8,
+      "end": 32.07,
+      "words": [
+        {
+          "w": "The",
+          "start": 27.8,
+          "end": 27.951
+        },
+        {
+          "w": "cart",
+          "start": 28.009,
+          "end": 28.183
+        },
+        {
+          "w": "of",
+          "start": 28.218,
+          "end": 28.264
+        },
+        {
+          "w": "groceries",
+          "start": 28.322,
+          "end": 28.752
+        },
+        {
+          "w": "that",
+          "start": 28.787,
+          "end": 28.903
+        },
+        {
+          "w": "costs",
+          "start": 28.961,
+          "end": 29.274
+        },
+        {
+          "w": "a",
+          "start": 29.321,
+          "end": 29.344
+        },
+        {
+          "w": "hundred",
+          "start": 29.414,
+          "end": 29.669
+        },
+        {
+          "w": "today?",
+          "start": 29.704,
+          "end": 30.168
+        },
+        {
+          "w": "About",
+          "start": 30.772,
+          "end": 31.004
+        },
+        {
+          "w": "two",
+          "start": 31.028,
+          "end": 31.132
+        },
+        {
+          "w": "hundred.",
+          "start": 31.19,
+          "end": 32.072
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "The number never changes. What it buys does.",
+      "start": 32.4,
+      "end": 35.37,
+      "words": [
+        {
+          "w": "The",
+          "start": 32.4,
+          "end": 32.574
+        },
+        {
+          "w": "number",
+          "start": 32.632,
+          "end": 32.864
+        },
+        {
+          "w": "never",
+          "start": 32.922,
+          "end": 33.12
+        },
+        {
+          "w": "changes.",
+          "start": 33.178,
+          "end": 33.863
+        },
+        {
+          "w": "What",
+          "start": 34.037,
+          "end": 34.223
+        },
+        {
+          "w": "it",
+          "start": 34.258,
+          "end": 34.316
+        },
+        {
+          "w": "buys",
+          "start": 34.362,
+          "end": 34.629
+        },
+        {
+          "w": "does.",
+          "start": 34.687,
+          "end": 35.372
+        }
+      ]
+    }
+  ],
+  "money": {
+    "inflation": "3%/yr assumed (long-run US average ~3%)",
+    "halving_years_exact": 23.45,
+    "10k_buys_after_24y": 4919,
+    "groceries_100_after_24y": 203.3,
+    "note": "Rule of 72: 72/3 = 24"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}

@@ -1,5 +1,7 @@
 # CLAUDE.md — claude-faceless-shorts-creator
 
+> **Running business state:** read `OPERATIONS.md` first (channels, open decisions, posting schedule, owner rules).
+
 A **faceless-shorts factory** driven by Claude Code. Three production tracks, one repo — the
 right skill is picked automatically from the request:
 

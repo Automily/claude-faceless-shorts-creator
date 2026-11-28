@@ -15,52 +15,52 @@
       "beat": "hook",
       "text": "The map on your wall is lying to you.",
       "start": 0.4,
-      "end": 2.9,
+      "end": 2.95,
       "words": [
         {
           "w": "The",
           "start": 0.4,
-          "end": 0.551
+          "end": 0.563
         },
         {
           "w": "map",
-          "start": 0.597,
-          "end": 0.772
+          "start": 0.632,
+          "end": 0.841
         },
         {
           "w": "on",
-          "start": 0.83,
-          "end": 0.899
+          "start": 0.911,
+          "end": 0.992
         },
         {
           "w": "your",
-          "start": 0.934,
-          "end": 1.039
+          "start": 1.05,
+          "end": 1.178
         },
         {
           "w": "wall",
-          "start": 1.085,
-          "end": 1.248
+          "start": 1.248,
+          "end": 1.445
         },
         {
           "w": "is",
-          "start": 1.294,
-          "end": 1.364
+          "start": 1.503,
+          "end": 1.573
         },
         {
           "w": "lying",
-          "start": 1.433,
-          "end": 1.7
+          "start": 1.654,
+          "end": 1.921
         },
         {
           "w": "to",
-          "start": 1.758,
-          "end": 1.828
+          "start": 1.979,
+          "end": 2.037
         },
         {
           "w": "you.",
-          "start": 1.909,
-          "end": 2.908
+          "start": 2.118,
+          "end": 2.954
         }
       ]
     },
@@ -68,47 +68,47 @@
       "beat": "setup",
       "text": "On this map, Greenland looks bigger than Africa.",
       "start": 4.4,
-      "end": 8.07,
+      "end": 7.83,
       "words": [
         {
           "w": "On",
           "start": 4.4,
-          "end": 4.597
+          "end": 4.621
         },
         {
           "w": "this",
-          "start": 4.644,
-          "end": 4.783
+          "start": 4.667,
+          "end": 4.806
         },
         {
           "w": "map,",
-          "start": 4.864,
+          "start": 4.888,
           "end": 5.271
         },
         {
           "w": "Greenland",
-          "start": 5.549,
-          "end": 5.944
+          "start": 5.398,
+          "end": 5.805
         },
         {
           "w": "looks",
-          "start": 5.991,
-          "end": 6.176
+          "start": 5.851,
+          "end": 6.049
         },
         {
           "w": "bigger",
-          "start": 6.223,
-          "end": 6.443
+          "start": 6.107,
+          "end": 6.327
         },
         {
           "w": "than",
-          "start": 6.478,
-          "end": 6.594
+          "start": 6.374,
+          "end": 6.501
         },
         {
           "w": "Africa.",
-          "start": 6.652,
-          "end": 8.069
+          "start": 6.571,
+          "end": 7.837
         }
       ]
     },
@@ -116,77 +116,77 @@
       "beat": "setup",
       "text": "Mercator stretches the world more and more the further you get from the equator.",
       "start": 8.5,
-      "end": 13.04,
+      "end": 13.13,
       "words": [
         {
           "w": "Mercator",
           "start": 8.5,
-          "end": 8.988
+          "end": 8.956
         },
         {
           "w": "stretches",
-          "start": 9.057,
-          "end": 9.417
+          "start": 9.023,
+          "end": 9.389
         },
         {
           "w": "the",
-          "start": 9.464,
-          "end": 9.533
+          "start": 9.433,
+          "end": 9.5
         },
         {
           "w": "world",
-          "start": 9.568,
-          "end": 9.8
+          "start": 9.544,
+          "end": 9.778
         },
         {
           "w": "more",
-          "start": 9.882,
-          "end": 10.183
+          "start": 9.867,
+          "end": 10.178
         },
         {
           "w": "and",
-          "start": 10.218,
-          "end": 10.288
+          "start": 10.211,
+          "end": 10.278
         },
         {
           "w": "more",
-          "start": 10.346,
-          "end": 10.555
+          "start": 10.334,
+          "end": 10.655
         },
         {
           "w": "the",
-          "start": 10.601,
-          "end": 10.671
+          "start": 10.889,
+          "end": 11.011
         },
         {
           "w": "further",
-          "start": 10.729,
-          "end": 11.008
+          "start": 11.067,
+          "end": 11.311
         },
         {
           "w": "you",
-          "start": 11.054,
-          "end": 11.124
+          "start": 11.356,
+          "end": 11.433
         },
         {
           "w": "get",
-          "start": 11.182,
-          "end": 11.31
+          "start": 11.5,
+          "end": 11.622
         },
         {
           "w": "from",
-          "start": 11.344,
-          "end": 11.461
+          "start": 11.655,
+          "end": 11.766
         },
         {
           "w": "the",
-          "start": 11.507,
-          "end": 11.577
+          "start": 11.789,
+          "end": 11.855
         },
         {
           "w": "equator.",
-          "start": 11.635,
-          "end": 13.051
+          "start": 11.911,
+          "end": 13.122
         }
       ]
     },
@@ -194,47 +194,47 @@
       "beat": "quiz",
       "text": "Pause. How many Greenlands actually fit inside Africa?",
       "start": 13.2,
-      "end": 17.16,
+      "end": 17.73,
       "words": [
         {
           "w": "Pause.",
           "start": 13.2,
-          "end": 13.774
+          "end": 13.7
         },
         {
           "w": "How",
-          "start": 14.563,
-          "end": 14.709
+          "start": 14.592,
+          "end": 14.733
         },
         {
           "w": "many",
-          "start": 14.743,
-          "end": 14.889
+          "start": 14.787,
+          "end": 14.917
         },
         {
           "w": "Greenlands",
-          "start": 14.946,
+          "start": 14.961,
           "end": 15.374
         },
         {
           "w": "actually",
-          "start": 15.452,
-          "end": 15.858
+          "start": 15.45,
+          "end": 15.82
         },
         {
           "w": "fit",
-          "start": 15.926,
-          "end": 16.105
+          "start": 15.896,
+          "end": 16.125
         },
         {
           "w": "inside",
-          "start": 16.162,
-          "end": 16.511
+          "start": 16.19,
+          "end": 16.582
         },
         {
           "w": "Africa?",
-          "start": 16.556,
-          "end": 17.75
+          "start": 16.625,
+          "end": 17.723
         }
       ]
     },
@@ -242,67 +242,67 @@
       "beat": "reveal",
       "text": "Watch what happens when we slide Greenland back down to the equator.",
       "start": 17.8,
-      "end": 20.95,
+      "end": 21.65,
       "words": [
         {
           "w": "Watch",
           "start": 17.8,
-          "end": 18.055
+          "end": 18.09
         },
         {
           "w": "what",
-          "start": 18.079,
-          "end": 18.172
+          "start": 18.113,
+          "end": 18.23
         },
         {
           "w": "happens",
-          "start": 18.206,
-          "end": 18.497
+          "start": 18.276,
+          "end": 18.589
         },
         {
           "w": "when",
-          "start": 18.531,
-          "end": 18.636
+          "start": 18.624,
+          "end": 18.729
         },
         {
           "w": "we",
-          "start": 18.671,
-          "end": 18.74
+          "start": 18.764,
+          "end": 18.845
         },
         {
           "w": "slide",
-          "start": 18.787,
-          "end": 19.065
+          "start": 18.903,
+          "end": 19.251
         },
         {
           "w": "Greenland",
-          "start": 19.089,
-          "end": 19.46
+          "start": 19.286,
+          "end": 19.658
         },
         {
           "w": "back",
-          "start": 19.518,
-          "end": 19.669
-        },
-        {
-          "w": "down",
           "start": 19.727,
-          "end": 19.867
-        },
-        {
-          "w": "to",
-          "start": 19.89,
           "end": 19.936
         },
         {
+          "w": "down",
+          "start": 20.006,
+          "end": 20.192
+        },
+        {
+          "w": "to",
+          "start": 20.226,
+          "end": 20.273
+        },
+        {
           "w": "the",
-          "start": 19.971,
-          "end": 20.041
+          "start": 20.331,
+          "end": 20.401
         },
         {
           "w": "equator.",
-          "start": 20.087,
-          "end": 20.958
+          "start": 20.459,
+          "end": 21.655
         }
       ]
     },
@@ -310,7 +310,7 @@
       "beat": "reveal",
       "text": "It shrinks. And shrinks. Down to its real size.",
       "start": 22.0,
-      "end": 25.94,
+      "end": 25.9,
       "words": [
         {
           "w": "It",
@@ -320,90 +320,90 @@
         {
           "w": "shrinks.",
           "start": 22.221,
-          "end": 22.789
+          "end": 22.755
         },
         {
           "w": "And",
-          "start": 22.998,
-          "end": 23.231
+          "start": 22.964,
+          "end": 23.207
         },
         {
           "w": "shrinks.",
-          "start": 23.3,
-          "end": 23.858
+          "start": 23.277,
+          "end": 23.823
         },
         {
           "w": "Down",
-          "start": 24.183,
-          "end": 24.403
+          "start": 24.264,
+          "end": 24.508
         },
         {
           "w": "to",
-          "start": 24.438,
-          "end": 24.496
+          "start": 24.543,
+          "end": 24.601
         },
         {
           "w": "its",
-          "start": 24.566,
-          "end": 24.67
+          "start": 24.67,
+          "end": 24.775
         },
         {
           "w": "real",
-          "start": 24.74,
-          "end": 24.937
+          "start": 24.833,
+          "end": 25.03
         },
         {
           "w": "size.",
-          "start": 24.995,
-          "end": 25.947
+          "start": 25.088,
+          "end": 25.901
         }
       ]
     },
     {
       "beat": "reveal",
-      "text": "Two million square kilometres, against Africa's thirty million.",
+      "text": "Two million square kilometers, against Africa's thirty million.",
       "start": 26.0,
-      "end": 30.27,
+      "end": 30.51,
       "words": [
         {
           "w": "Two",
           "start": 26.0,
-          "end": 26.244
+          "end": 26.241
         },
         {
           "w": "million",
-          "start": 26.313,
-          "end": 26.604
+          "start": 26.356,
+          "end": 26.713
         },
         {
           "w": "square",
-          "start": 26.662,
-          "end": 26.94
+          "start": 26.781,
+          "end": 27.08
         },
         {
-          "w": "kilometres,",
-          "start": 26.987,
-          "end": 27.683
+          "w": "kilometers,",
+          "start": 27.137,
+          "end": 27.85
         },
         {
           "w": "against",
-          "start": 27.858,
-          "end": 28.183
+          "start": 28.057,
+          "end": 28.39
         },
         {
           "w": "Africa's",
-          "start": 28.276,
-          "end": 28.728
+          "start": 28.482,
+          "end": 28.953
         },
         {
           "w": "thirty",
-          "start": 28.786,
-          "end": 29.042
+          "start": 29.021,
+          "end": 29.298
         },
         {
           "w": "million.",
-          "start": 29.1,
-          "end": 30.272
+          "start": 29.344,
+          "end": 30.504
         }
       ]
     },
@@ -411,7 +411,7 @@
       "beat": "reveal",
       "text": "Africa is fourteen times bigger.",
       "start": 30.6,
-      "end": 33.05,
+      "end": 33.1,
       "words": [
         {
           "w": "Africa",
@@ -420,23 +420,23 @@
         },
         {
           "w": "is",
-          "start": 31.111,
-          "end": 31.204
+          "start": 31.099,
+          "end": 31.192
         },
         {
           "w": "fourteen",
           "start": 31.273,
-          "end": 31.691
+          "end": 31.738
         },
         {
           "w": "times",
-          "start": 31.726,
-          "end": 31.993
+          "start": 31.784,
+          "end": 32.074
         },
         {
           "w": "bigger.",
-          "start": 32.063,
-          "end": 33.061
+          "start": 32.133,
+          "end": 33.108
         }
       ]
     },
@@ -444,62 +444,62 @@
       "beat": "twist",
       "text": "It's not just Greenland. Canada and Russia are blown up too.",
       "start": 33.2,
-      "end": 37.19,
+      "end": 37.05,
       "words": [
         {
           "w": "It's",
           "start": 33.2,
-          "end": 33.386
+          "end": 33.397
         },
         {
           "w": "not",
-          "start": 33.432,
-          "end": 33.56
+          "start": 33.444,
+          "end": 33.572
         },
         {
           "w": "just",
-          "start": 33.606,
-          "end": 33.746
+          "start": 33.618,
+          "end": 33.757
         },
         {
           "w": "Greenland.",
-          "start": 33.792,
+          "start": 33.815,
           "end": 34.373
         },
         {
           "w": "Canada",
-          "start": 34.756,
-          "end": 35.174
+          "start": 34.698,
+          "end": 35.092
         },
         {
           "w": "and",
-          "start": 35.232,
-          "end": 35.325
+          "start": 35.139,
+          "end": 35.209
         },
         {
           "w": "Russia",
-          "start": 35.406,
-          "end": 35.719
+          "start": 35.278,
+          "end": 35.58
         },
         {
           "w": "are",
-          "start": 35.789,
-          "end": 35.928
+          "start": 35.638,
+          "end": 35.766
         },
         {
           "w": "blown",
-          "start": 35.963,
-          "end": 36.207
+          "start": 35.789,
+          "end": 36.021
         },
         {
           "w": "up",
-          "start": 36.242,
-          "end": 36.335
+          "start": 36.056,
+          "end": 36.137
         },
         {
           "w": "too.",
-          "start": 36.381,
-          "end": 37.194
+          "start": 36.195,
+          "end": 37.055
         }
       ]
     },
@@ -507,52 +507,52 @@
       "beat": "payoff",
       "text": "The further from the equator, the bigger the lie.",
       "start": 37.6,
-      "end": 40.15,
+      "end": 40.1,
       "words": [
         {
           "w": "The",
           "start": 37.6,
-          "end": 37.728
+          "end": 37.763
         },
         {
           "w": "further",
-          "start": 37.786,
-          "end": 38.076
+          "start": 37.821,
+          "end": 38.122
         },
         {
           "w": "from",
-          "start": 38.122,
-          "end": 38.239
+          "start": 38.169,
+          "end": 38.297
         },
         {
           "w": "the",
-          "start": 38.285,
-          "end": 38.355
+          "start": 38.343,
+          "end": 38.413
         },
         {
           "w": "equator,",
-          "start": 38.424,
-          "end": 38.924
+          "start": 38.471,
+          "end": 38.854
         },
         {
           "w": "the",
-          "start": 38.993,
-          "end": 39.098
+          "start": 38.877,
+          "end": 38.947
         },
         {
           "w": "bigger",
-          "start": 39.144,
-          "end": 39.365
+          "start": 39.016,
+          "end": 39.26
         },
         {
           "w": "the",
-          "start": 39.423,
-          "end": 39.492
+          "start": 39.318,
+          "end": 39.388
         },
         {
           "w": "lie.",
-          "start": 39.55,
-          "end": 40.154
+          "start": 39.446,
+          "end": 40.108
         }
       ]
     }

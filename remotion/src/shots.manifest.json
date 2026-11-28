@@ -8,6 +8,22 @@
   "transparent": false
  },
  {
+  "id": "Blox1Pilot",
+  "durationInSeconds": 28.1,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short1Chess",
+  "durationInSeconds": 42,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short10Fees",
   "durationInSeconds": 42,
   "fps": 30,
@@ -32,8 +48,56 @@
   "transparent": false
  },
  {
-  "id": "Short1Chess",
-  "durationInSeconds": 42,
+  "id": "Short13Tax",
+  "durationInSeconds": 40,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short14MinPay",
+  "durationInSeconds": 39.5,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short15Loss",
+  "durationInSeconds": 35,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short16Bday",
+  "durationInSeconds": 35,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short17Billion",
+  "durationInSeconds": 33,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short18Match",
+  "durationInSeconds": 40.5,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short19Rule72",
+  "durationInSeconds": 41.5,
   "fps": 30,
   "width": 1080,
   "height": 1920,
@@ -48,6 +112,86 @@
   "transparent": false
  },
  {
+  "id": "Short20Bus",
+  "durationInSeconds": 41.6,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short21Inflation",
+  "durationInSeconds": 36.6,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short22Test",
+  "durationInSeconds": 39.6,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short23CarLoan",
+  "durationInSeconds": 39.4,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short24Friends",
+  "durationInSeconds": 36.6,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short25Deferred",
+  "durationInSeconds": 39.4,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short26Point9",
+  "durationInSeconds": 36.2,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short27Jackpot",
+  "durationInSeconds": 37,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short28Simpson",
+  "durationInSeconds": 43,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short29Mortgage",
+  "durationInSeconds": 41,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short3Algo",
   "durationInSeconds": 42,
   "fps": 30,
@@ -56,8 +200,128 @@
   "transparent": false
  },
  {
+  "id": "Short30Benford",
+  "durationInSeconds": 40.8,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short31X25",
+  "durationInSeconds": 41,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short32Bnpl",
+  "durationInSeconds": 42.6,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short33Util",
+  "durationInSeconds": 43.6,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short34Points",
+  "durationInSeconds": 45.9,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short35Lease",
+  "durationInSeconds": 40.8,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short36Payday",
+  "durationInSeconds": 47.9,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short37Early",
+  "durationInSeconds": 46.7,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short38StoreCard",
+  "durationInSeconds": 44.8,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short39Refund",
+  "durationInSeconds": 44.8,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short4Reflog",
   "durationInSeconds": 34,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short40Latte",
+  "durationInSeconds": 42.1,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short41Cashback",
+  "durationInSeconds": 42.8,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short42Rebate",
+  "durationInSeconds": 46.5,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short43Repair",
+  "durationInSeconds": 46.6,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short44Transfer",
+  "durationInSeconds": 61.2,
   "fps": 30,
   "width": 1080,
   "height": 1920,
@@ -98,6 +362,102 @@
  {
   "id": "Short9Chords",
   "durationInSeconds": 42,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "StyleSamples",
+  "durationInSeconds": 4,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Tale1GodfatherDeath",
+  "durationInSeconds": 53.5,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Tale10SignalMan",
+  "durationInSeconds": 76.2,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Tale11OvalPortrait",
+  "durationInSeconds": 63.6,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Tale2MonkeysPaw",
+  "durationInSeconds": 68.1,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Tale3Bluebeard",
+  "durationInSeconds": 69.3,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Tale4PiedPiper",
+  "durationInSeconds": 75.7,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Tale5RobberBridegroom",
+  "durationInSeconds": 80.5,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Tale6BabaYaga",
+  "durationInSeconds": 79.2,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Tale7TellTaleHeart",
+  "durationInSeconds": 80.2,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Tale8Amontillado",
+  "durationInSeconds": 83.8,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Tale9RedDeath",
+  "durationInSeconds": 82.4,
   "fps": 30,
   "width": 1080,
   "height": 1920,

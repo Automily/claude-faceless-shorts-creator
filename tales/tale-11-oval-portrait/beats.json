@@ -1,0 +1,872 @@
+{
+  "id": "tale-11-oval-portrait",
+  "title": "The Oval Portrait (Edgar Allan Poe, 1842)",
+  "composition": "Tale11OvalPortrait",
+  "channel": "Candlelit Tales",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 63.6
+  },
+  "voicePlan": "elevenlabs:JBFqnCBsd6RMkjVDRZzb (George, storyteller)",
+  "source": "Edgar Allan Poe, 'The Oval Portrait' (1842) — public domain; retold first-person from the painter's wife's POV, condensed.",
+  "style": "retention rules v2: bright golden portrait as frame 0, danger by ~8s, pause at ~20s, 61–66s; color drains from her as it fills the painting",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Every brushstroke he paints of me takes something from me.",
+      "start": 0.4,
+      "end": 4.02,
+      "words": [
+        {
+          "w": "Every",
+          "start": 0.4,
+          "end": 0.702
+        },
+        {
+          "w": "brushstroke",
+          "start": 0.76,
+          "end": 1.329
+        },
+        {
+          "w": "he",
+          "start": 1.364,
+          "end": 1.422
+        },
+        {
+          "w": "paints",
+          "start": 1.491,
+          "end": 1.793
+        },
+        {
+          "w": "of",
+          "start": 1.84,
+          "end": 1.909
+        },
+        {
+          "w": "me",
+          "start": 1.979,
+          "end": 2.2
+        },
+        {
+          "w": "takes",
+          "start": 2.316,
+          "end": 2.594
+        },
+        {
+          "w": "something",
+          "start": 2.618,
+          "end": 2.943
+        },
+        {
+          "w": "from",
+          "start": 3.001,
+          "end": 3.21
+        },
+        {
+          "w": "me.",
+          "start": 3.268,
+          "end": 4.022
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "My husband is a painter. He loves his art more than he loves me.",
+      "start": 4.5,
+      "end": 8.95,
+      "words": [
+        {
+          "w": "My",
+          "start": 4.5,
+          "end": 4.663
+        },
+        {
+          "w": "husband",
+          "start": 4.721,
+          "end": 5.069
+        },
+        {
+          "w": "is",
+          "start": 5.127,
+          "end": 5.197
+        },
+        {
+          "w": "a",
+          "start": 5.243,
+          "end": 5.278
+        },
+        {
+          "w": "painter.",
+          "start": 5.336,
+          "end": 5.893
+        },
+        {
+          "w": "He",
+          "start": 6.067,
+          "end": 6.183
+        },
+        {
+          "w": "loves",
+          "start": 6.253,
+          "end": 6.462
+        },
+        {
+          "w": "his",
+          "start": 6.497,
+          "end": 6.613
+        },
+        {
+          "w": "art",
+          "start": 6.671,
+          "end": 7.008
+        },
+        {
+          "w": "more",
+          "start": 7.101,
+          "end": 7.31
+        },
+        {
+          "w": "than",
+          "start": 7.333,
+          "end": 7.449
+        },
+        {
+          "w": "he",
+          "start": 7.495,
+          "end": 7.542
+        },
+        {
+          "w": "loves",
+          "start": 7.611,
+          "end": 7.82
+        },
+        {
+          "w": "me.",
+          "start": 7.879,
+          "end": 8.958
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "He sits me in a dark tower room, lit by one high window, and begins. Weeks pass. He doesn't see me growing pale.",
+      "start": 9.21,
+      "end": 17.8,
+      "words": [
+        {
+          "w": "He",
+          "start": 9.21,
+          "end": 9.338
+        },
+        {
+          "w": "sits",
+          "start": 9.407,
+          "end": 9.651
+        },
+        {
+          "w": "me",
+          "start": 9.698,
+          "end": 9.779
+        },
+        {
+          "w": "in",
+          "start": 9.837,
+          "end": 9.895
+        },
+        {
+          "w": "a",
+          "start": 9.953,
+          "end": 9.976
+        },
+        {
+          "w": "dark",
+          "start": 10.046,
+          "end": 10.325
+        },
+        {
+          "w": "tower",
+          "start": 10.383,
+          "end": 10.661
+        },
+        {
+          "w": "room,",
+          "start": 10.719,
+          "end": 11.126
+        },
+        {
+          "w": "lit",
+          "start": 11.335,
+          "end": 11.532
+        },
+        {
+          "w": "by",
+          "start": 11.59,
+          "end": 11.718
+        },
+        {
+          "w": "one",
+          "start": 11.834,
+          "end": 12.043
+        },
+        {
+          "w": "high",
+          "start": 12.101,
+          "end": 12.298
+        },
+        {
+          "w": "window,",
+          "start": 12.345,
+          "end": 12.739
+        },
+        {
+          "w": "and",
+          "start": 12.774,
+          "end": 12.89
+        },
+        {
+          "w": "begins.",
+          "start": 12.96,
+          "end": 13.633
+        },
+        {
+          "w": "Weeks",
+          "start": 14.237,
+          "end": 14.527
+        },
+        {
+          "w": "pass.",
+          "start": 14.585,
+          "end": 15.212
+        },
+        {
+          "w": "He",
+          "start": 15.27,
+          "end": 15.363
+        },
+        {
+          "w": "doesn't",
+          "start": 15.41,
+          "end": 15.677
+        },
+        {
+          "w": "see",
+          "start": 15.735,
+          "end": 15.932
+        },
+        {
+          "w": "me",
+          "start": 15.967,
+          "end": 16.071
+        },
+        {
+          "w": "growing",
+          "start": 16.118,
+          "end": 16.42
+        },
+        {
+          "w": "pale.",
+          "start": 16.489,
+          "end": 17.801
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. Do you keep sitting for him?",
+      "start": 18.13,
+      "end": 21.23,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 18.13,
+          "end": 18.827
+        },
+        {
+          "w": "Do",
+          "start": 19.337,
+          "end": 19.454
+        },
+        {
+          "w": "you",
+          "start": 19.535,
+          "end": 19.604
+        },
+        {
+          "w": "keep",
+          "start": 19.651,
+          "end": 19.825
+        },
+        {
+          "w": "sitting",
+          "start": 19.871,
+          "end": 20.139
+        },
+        {
+          "w": "for",
+          "start": 20.185,
+          "end": 20.324
+        },
+        {
+          "w": "him?",
+          "start": 20.371,
+          "end": 21.241
+        }
+      ]
+    },
+    {
+      "beat": "turn",
+      "text": "My hands shake. The candle smoke stings my eyes. Hold still, he says. Just a little longer.",
+      "start": 22.55,
+      "end": 29.47,
+      "words": [
+        {
+          "w": "My",
+          "start": 22.55,
+          "end": 22.724
+        },
+        {
+          "w": "hands",
+          "start": 22.794,
+          "end": 23.096
+        },
+        {
+          "w": "shake.",
+          "start": 23.142,
+          "end": 23.618
+        },
+        {
+          "w": "The",
+          "start": 23.699,
+          "end": 23.815
+        },
+        {
+          "w": "candle",
+          "start": 23.862,
+          "end": 24.21
+        },
+        {
+          "w": "smoke",
+          "start": 24.245,
+          "end": 24.535
+        },
+        {
+          "w": "stings",
+          "start": 24.582,
+          "end": 24.93
+        },
+        {
+          "w": "my",
+          "start": 25.0,
+          "end": 25.127
+        },
+        {
+          "w": "eyes.",
+          "start": 25.22,
+          "end": 25.789
+        },
+        {
+          "w": "Hold",
+          "start": 26.393,
+          "end": 26.648
+        },
+        {
+          "w": "still,",
+          "start": 26.706,
+          "end": 27.101
+        },
+        {
+          "w": "he",
+          "start": 27.171,
+          "end": 27.252
+        },
+        {
+          "w": "says.",
+          "start": 27.31,
+          "end": 27.763
+        },
+        {
+          "w": "Just",
+          "start": 28.042,
+          "end": 28.239
+        },
+        {
+          "w": "a",
+          "start": 28.285,
+          "end": 28.309
+        },
+        {
+          "w": "little",
+          "start": 28.343,
+          "end": 28.552
+        },
+        {
+          "w": "longer.",
+          "start": 28.587,
+          "end": 29.47
+        }
+      ],
+      "pad_before": 0.8
+    },
+    {
+      "beat": "turn",
+      "text": "I keep smiling. Because he's so happy. The painting grows warmer. I grow colder.",
+      "start": 29.65,
+      "end": 35.4,
+      "words": [
+        {
+          "w": "I",
+          "start": 29.65,
+          "end": 29.72
+        },
+        {
+          "w": "keep",
+          "start": 29.836,
+          "end": 30.01
+        },
+        {
+          "w": "smiling.",
+          "start": 30.056,
+          "end": 30.637
+        },
+        {
+          "w": "Because",
+          "start": 30.73,
+          "end": 30.985
+        },
+        {
+          "w": "he's",
+          "start": 31.008,
+          "end": 31.136
+        },
+        {
+          "w": "so",
+          "start": 31.171,
+          "end": 31.333
+        },
+        {
+          "w": "happy.",
+          "start": 31.403,
+          "end": 31.96
+        },
+        {
+          "w": "The",
+          "start": 32.657,
+          "end": 32.773
+        },
+        {
+          "w": "painting",
+          "start": 32.831,
+          "end": 33.191
+        },
+        {
+          "w": "grows",
+          "start": 33.237,
+          "end": 33.493
+        },
+        {
+          "w": "warmer.",
+          "start": 33.551,
+          "end": 34.062
+        },
+        {
+          "w": "I",
+          "start": 34.236,
+          "end": 34.306
+        },
+        {
+          "w": "grow",
+          "start": 34.422,
+          "end": 34.607
+        },
+        {
+          "w": "colder.",
+          "start": 34.677,
+          "end": 35.409
+        }
+      ]
+    },
+    {
+      "beat": "turn",
+      "text": "Every color he gives her cheeks, he takes from mine.",
+      "start": 35.63,
+      "end": 38.83,
+      "words": [
+        {
+          "w": "Every",
+          "start": 35.63,
+          "end": 35.943
+        },
+        {
+          "w": "color",
+          "start": 36.002,
+          "end": 36.257
+        },
+        {
+          "w": "he",
+          "start": 36.303,
+          "end": 36.361
+        },
+        {
+          "w": "gives",
+          "start": 36.419,
+          "end": 36.617
+        },
+        {
+          "w": "her",
+          "start": 36.652,
+          "end": 36.733
+        },
+        {
+          "w": "cheeks,",
+          "start": 36.791,
+          "end": 37.209
+        },
+        {
+          "w": "he",
+          "start": 37.325,
+          "end": 37.406
+        },
+        {
+          "w": "takes",
+          "start": 37.464,
+          "end": 37.708
+        },
+        {
+          "w": "from",
+          "start": 37.743,
+          "end": 37.882
+        },
+        {
+          "w": "mine.",
+          "start": 37.929,
+          "end": 38.834
+        }
+      ]
+    },
+    {
+      "beat": "turn",
+      "text": "Seven weeks. I can barely lift my head. Visitors whisper that it's the most beautiful painting they've ever seen.",
+      "start": 39.12,
+      "end": 45.76,
+      "words": [
+        {
+          "w": "Seven",
+          "start": 39.12,
+          "end": 39.445
+        },
+        {
+          "w": "weeks.",
+          "start": 39.492,
+          "end": 39.817
+        },
+        {
+          "w": "I",
+          "start": 39.898,
+          "end": 39.956
+        },
+        {
+          "w": "can",
+          "start": 40.026,
+          "end": 40.13
+        },
+        {
+          "w": "barely",
+          "start": 40.177,
+          "end": 40.42
+        },
+        {
+          "w": "lift",
+          "start": 40.467,
+          "end": 40.641
+        },
+        {
+          "w": "my",
+          "start": 40.699,
+          "end": 40.803
+        },
+        {
+          "w": "head.",
+          "start": 40.873,
+          "end": 41.256
+        },
+        {
+          "w": "Visitors",
+          "start": 41.86,
+          "end": 42.324
+        },
+        {
+          "w": "whisper",
+          "start": 42.371,
+          "end": 42.707
+        },
+        {
+          "w": "that",
+          "start": 42.777,
+          "end": 42.893
+        },
+        {
+          "w": "it's",
+          "start": 42.928,
+          "end": 43.067
+        },
+        {
+          "w": "the",
+          "start": 43.114,
+          "end": 43.183
+        },
+        {
+          "w": "most",
+          "start": 43.23,
+          "end": 43.381
+        },
+        {
+          "w": "beautiful",
+          "start": 43.439,
+          "end": 43.845
+        },
+        {
+          "w": "painting",
+          "start": 43.915,
+          "end": 44.286
+        },
+        {
+          "w": "they've",
+          "start": 44.321,
+          "end": 44.519
+        },
+        {
+          "w": "ever",
+          "start": 44.553,
+          "end": 44.751
+        },
+        {
+          "w": "seen.",
+          "start": 44.809,
+          "end": 45.761
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "One last touch on the lips. One tint on the eyes.",
+      "start": 46.16,
+      "end": 49.78,
+      "words": [
+        {
+          "w": "One",
+          "start": 46.16,
+          "end": 46.415
+        },
+        {
+          "w": "last",
+          "start": 46.473,
+          "end": 46.706
+        },
+        {
+          "w": "touch",
+          "start": 46.752,
+          "end": 47.019
+        },
+        {
+          "w": "on",
+          "start": 47.077,
+          "end": 47.147
+        },
+        {
+          "w": "the",
+          "start": 47.193,
+          "end": 47.263
+        },
+        {
+          "w": "lips.",
+          "start": 47.309,
+          "end": 47.693
+        },
+        {
+          "w": "One",
+          "start": 47.843,
+          "end": 48.052
+        },
+        {
+          "w": "tint",
+          "start": 48.099,
+          "end": 48.354
+        },
+        {
+          "w": "on",
+          "start": 48.412,
+          "end": 48.494
+        },
+        {
+          "w": "the",
+          "start": 48.528,
+          "end": 48.61
+        },
+        {
+          "w": "eyes.",
+          "start": 48.691,
+          "end": 49.782
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "He steps back and cries out: This is life itself!",
+      "start": 50.07,
+      "end": 53.54,
+      "words": [
+        {
+          "w": "He",
+          "start": 50.07,
+          "end": 50.209
+        },
+        {
+          "w": "steps",
+          "start": 50.267,
+          "end": 50.546
+        },
+        {
+          "w": "back",
+          "start": 50.604,
+          "end": 50.801
+        },
+        {
+          "w": "and",
+          "start": 50.859,
+          "end": 50.929
+        },
+        {
+          "w": "cries",
+          "start": 50.999,
+          "end": 51.266
+        },
+        {
+          "w": "out:",
+          "start": 51.312,
+          "end": 51.614
+        },
+        {
+          "w": "This",
+          "start": 51.823,
+          "end": 52.02
+        },
+        {
+          "w": "is",
+          "start": 52.079,
+          "end": 52.148
+        },
+        {
+          "w": "life",
+          "start": 52.218,
+          "end": 52.438
+        },
+        {
+          "w": "itself!",
+          "start": 52.473,
+          "end": 53.553
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "Then he turns to me. And I'm already dead.",
+      "start": 54.84,
+      "end": 58.04,
+      "words": [
+        {
+          "w": "Then",
+          "start": 54.84,
+          "end": 55.061
+        },
+        {
+          "w": "he",
+          "start": 55.095,
+          "end": 55.153
+        },
+        {
+          "w": "turns",
+          "start": 55.2,
+          "end": 55.479
+        },
+        {
+          "w": "to",
+          "start": 55.525,
+          "end": 55.583
+        },
+        {
+          "w": "me.",
+          "start": 55.653,
+          "end": 55.966
+        },
+        {
+          "w": "And",
+          "start": 56.21,
+          "end": 56.349
+        },
+        {
+          "w": "I'm",
+          "start": 56.419,
+          "end": 56.535
+        },
+        {
+          "w": "already",
+          "start": 56.581,
+          "end": 56.895
+        },
+        {
+          "w": "dead.",
+          "start": 56.953,
+          "end": 58.044
+        }
+      ],
+      "pad_before": 0.8
+    },
+    {
+      "beat": "loop",
+      "text": "Every brushstroke, he takes something from me.",
+      "start": 59.13,
+      "end": 61.54,
+      "words": [
+        {
+          "w": "Every",
+          "start": 59.13,
+          "end": 59.432
+        },
+        {
+          "w": "brushstroke,",
+          "start": 59.478,
+          "end": 60.059
+        },
+        {
+          "w": "he",
+          "start": 60.082,
+          "end": 60.14
+        },
+        {
+          "w": "takes",
+          "start": 60.198,
+          "end": 60.419
+        },
+        {
+          "w": "something",
+          "start": 60.442,
+          "end": 60.732
+        },
+        {
+          "w": "from",
+          "start": 60.79,
+          "end": 60.988
+        },
+        {
+          "w": "me.",
+          "start": 61.046,
+          "end": 61.545
+        }
+      ],
+      "pad_before": 0.6
+    }
+  ],
+  "voiceStatus": "elevenlabs:JBFqnCBsd6RMkjVDRZzb"
+}

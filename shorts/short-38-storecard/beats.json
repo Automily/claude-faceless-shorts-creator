@@ -1,0 +1,695 @@
+{
+  "id": "short-38-storecard",
+  "title": "Black Friday store card: save 20%, pay 30%",
+  "composition": "Short38StoreCard",
+  "channel": "The Fine Print",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 44.8
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Black Friday. The cashier leans in: open our card, and save twenty percent today.",
+      "start": 0.4,
+      "end": 6.47,
+      "words": [
+        {
+          "w": "Black",
+          "start": 0.4,
+          "end": 0.688
+        },
+        {
+          "w": "Friday.",
+          "start": 0.732,
+          "end": 1.208
+        },
+        {
+          "w": "The",
+          "start": 1.783,
+          "end": 1.894
+        },
+        {
+          "w": "cashier",
+          "start": 1.938,
+          "end": 2.325
+        },
+        {
+          "w": "leans",
+          "start": 2.403,
+          "end": 2.668
+        },
+        {
+          "w": "in:",
+          "start": 2.735,
+          "end": 3.067
+        },
+        {
+          "w": "open",
+          "start": 3.842,
+          "end": 4.063
+        },
+        {
+          "w": "our",
+          "start": 4.107,
+          "end": 4.195
+        },
+        {
+          "w": "card,",
+          "start": 4.251,
+          "end": 4.528
+        },
+        {
+          "w": "and",
+          "start": 4.55,
+          "end": 4.616
+        },
+        {
+          "w": "save",
+          "start": 4.682,
+          "end": 4.904
+        },
+        {
+          "w": "twenty",
+          "start": 4.937,
+          "end": 5.191
+        },
+        {
+          "w": "percent",
+          "start": 5.236,
+          "end": 5.546
+        },
+        {
+          "w": "today.",
+          "start": 5.578,
+          "end": 6.464
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "You're buying a six hundred dollar TV. Twenty percent off. You just saved a hundred and twenty bucks. Four eighty goes on the new card.",
+      "start": 6.55,
+      "end": 14.4,
+      "words": [
+        {
+          "w": "You're",
+          "start": 6.55,
+          "end": 6.743
+        },
+        {
+          "w": "buying",
+          "start": 6.764,
+          "end": 6.947
+        },
+        {
+          "w": "a",
+          "start": 6.989,
+          "end": 7.01
+        },
+        {
+          "w": "six",
+          "start": 7.085,
+          "end": 7.257
+        },
+        {
+          "w": "hundred",
+          "start": 7.3,
+          "end": 7.482
+        },
+        {
+          "w": "dollar",
+          "start": 7.503,
+          "end": 7.707
+        },
+        {
+          "w": "TV.",
+          "start": 7.76,
+          "end": 8.156
+        },
+        {
+          "w": "Twenty",
+          "start": 8.381,
+          "end": 8.627
+        },
+        {
+          "w": "percent",
+          "start": 8.671,
+          "end": 8.949
+        },
+        {
+          "w": "off.",
+          "start": 8.992,
+          "end": 9.303
+        },
+        {
+          "w": "You",
+          "start": 9.71,
+          "end": 9.817
+        },
+        {
+          "w": "just",
+          "start": 9.881,
+          "end": 9.998
+        },
+        {
+          "w": "saved",
+          "start": 10.031,
+          "end": 10.234
+        },
+        {
+          "w": "a",
+          "start": 10.256,
+          "end": 10.277
+        },
+        {
+          "w": "hundred",
+          "start": 10.33,
+          "end": 10.523
+        },
+        {
+          "w": "and",
+          "start": 10.545,
+          "end": 10.609
+        },
+        {
+          "w": "twenty",
+          "start": 10.63,
+          "end": 10.834
+        },
+        {
+          "w": "bucks.",
+          "start": 10.888,
+          "end": 11.327
+        },
+        {
+          "w": "Four",
+          "start": 11.97,
+          "end": 12.226
+        },
+        {
+          "w": "eighty",
+          "start": 12.291,
+          "end": 12.505
+        },
+        {
+          "w": "goes",
+          "start": 12.558,
+          "end": 12.719
+        },
+        {
+          "w": "on",
+          "start": 12.762,
+          "end": 12.816
+        },
+        {
+          "w": "the",
+          "start": 12.848,
+          "end": 12.912
+        },
+        {
+          "w": "new",
+          "start": 12.934,
+          "end": 13.041
+        },
+        {
+          "w": "card.",
+          "start": 13.094,
+          "end": 14.389
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Store cards average about thirty percent APR. One and a half times a regular card.",
+      "start": 14.48,
+      "end": 19.8,
+      "words": [
+        {
+          "w": "Store",
+          "start": 14.48,
+          "end": 14.794
+        },
+        {
+          "w": "cards",
+          "start": 14.826,
+          "end": 15.064
+        },
+        {
+          "w": "average",
+          "start": 15.118,
+          "end": 15.388
+        },
+        {
+          "w": "about",
+          "start": 15.409,
+          "end": 15.593
+        },
+        {
+          "w": "thirty",
+          "start": 15.647,
+          "end": 15.885
+        },
+        {
+          "w": "percent",
+          "start": 15.939,
+          "end": 16.231
+        },
+        {
+          "w": "APR.",
+          "start": 16.295,
+          "end": 16.869
+        },
+        {
+          "w": "One",
+          "start": 17.344,
+          "end": 17.539
+        },
+        {
+          "w": "and",
+          "start": 17.56,
+          "end": 17.626
+        },
+        {
+          "w": "a",
+          "start": 17.657,
+          "end": 17.68
+        },
+        {
+          "w": "half",
+          "start": 17.734,
+          "end": 17.896
+        },
+        {
+          "w": "times",
+          "start": 17.938,
+          "end": 18.177
+        },
+        {
+          "w": "a",
+          "start": 18.252,
+          "end": 18.328
+        },
+        {
+          "w": "regular",
+          "start": 18.447,
+          "end": 18.782
+        },
+        {
+          "w": "card.",
+          "start": 18.836,
+          "end": 19.797
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "You figure you'll pay twenty-five a month.",
+      "start": 19.88,
+      "end": 22.38,
+      "words": [
+        {
+          "w": "You",
+          "start": 19.88,
+          "end": 20.019
+        },
+        {
+          "w": "figure",
+          "start": 20.089,
+          "end": 20.298
+        },
+        {
+          "w": "you'll",
+          "start": 20.321,
+          "end": 20.484
+        },
+        {
+          "w": "pay",
+          "start": 20.519,
+          "end": 20.646
+        },
+        {
+          "w": "twenty-five",
+          "start": 20.716,
+          "end": 21.192
+        },
+        {
+          "w": "a",
+          "start": 21.215,
+          "end": 21.25
+        },
+        {
+          "w": "month.",
+          "start": 21.285,
+          "end": 22.388
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. Do you come out ahead?",
+      "start": 22.51,
+      "end": 24.54,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 22.51,
+          "end": 23.021
+        },
+        {
+          "w": "Do",
+          "start": 23.346,
+          "end": 23.45
+        },
+        {
+          "w": "you",
+          "start": 23.474,
+          "end": 23.543
+        },
+        {
+          "w": "come",
+          "start": 23.601,
+          "end": 23.729
+        },
+        {
+          "w": "out",
+          "start": 23.752,
+          "end": 23.857
+        },
+        {
+          "w": "ahead?",
+          "start": 23.892,
+          "end": 24.553
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Twenty-seven months to pay it off. Interest: a hundred and eighty-two dollars.",
+      "start": 25.54,
+      "end": 30.61,
+      "words": [
+        {
+          "w": "Twenty-seven",
+          "start": 25.54,
+          "end": 26.058
+        },
+        {
+          "w": "months",
+          "start": 26.102,
+          "end": 26.274
+        },
+        {
+          "w": "to",
+          "start": 26.307,
+          "end": 26.35
+        },
+        {
+          "w": "pay",
+          "start": 26.404,
+          "end": 26.512
+        },
+        {
+          "w": "it",
+          "start": 26.545,
+          "end": 26.599
+        },
+        {
+          "w": "off.",
+          "start": 26.642,
+          "end": 27.009
+        },
+        {
+          "w": "Interest:",
+          "start": 27.658,
+          "end": 28.273
+        },
+        {
+          "w": "a",
+          "start": 28.748,
+          "end": 28.802
+        },
+        {
+          "w": "hundred",
+          "start": 28.91,
+          "end": 29.181
+        },
+        {
+          "w": "and",
+          "start": 29.202,
+          "end": 29.267
+        },
+        {
+          "w": "eighty-two",
+          "start": 29.321,
+          "end": 29.645
+        },
+        {
+          "w": "dollars.",
+          "start": 29.699,
+          "end": 30.595
+        }
+      ],
+      "pad_before": 0.8
+    },
+    {
+      "beat": "reveal",
+      "text": "You saved a hundred and twenty. You paid a hundred eighty-two. Your discount cost you sixty-two dollars.",
+      "start": 30.67,
+      "end": 36.49,
+      "words": [
+        {
+          "w": "You",
+          "start": 30.67,
+          "end": 30.836
+        },
+        {
+          "w": "saved",
+          "start": 30.903,
+          "end": 31.125
+        },
+        {
+          "w": "a",
+          "start": 31.147,
+          "end": 31.169
+        },
+        {
+          "w": "hundred",
+          "start": 31.214,
+          "end": 31.413
+        },
+        {
+          "w": "and",
+          "start": 31.435,
+          "end": 31.502
+        },
+        {
+          "w": "twenty.",
+          "start": 31.524,
+          "end": 31.99
+        },
+        {
+          "w": "You",
+          "start": 32.19,
+          "end": 32.311
+        },
+        {
+          "w": "paid",
+          "start": 32.367,
+          "end": 32.523
+        },
+        {
+          "w": "a",
+          "start": 32.544,
+          "end": 32.578
+        },
+        {
+          "w": "hundred",
+          "start": 32.611,
+          "end": 32.8
+        },
+        {
+          "w": "eighty-two.",
+          "start": 32.833,
+          "end": 33.476
+        },
+        {
+          "w": "Your",
+          "start": 33.842,
+          "end": 33.986
+        },
+        {
+          "w": "discount",
+          "start": 34.031,
+          "end": 34.397
+        },
+        {
+          "w": "cost",
+          "start": 34.441,
+          "end": 34.641
+        },
+        {
+          "w": "you",
+          "start": 34.674,
+          "end": 34.751
+        },
+        {
+          "w": "sixty-two",
+          "start": 34.818,
+          "end": 35.285
+        },
+        {
+          "w": "dollars.",
+          "start": 35.34,
+          "end": 36.483
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "The discount only wins if you pay it all off before the first bill.",
+      "start": 36.56,
+      "end": 40.3,
+      "words": [
+        {
+          "w": "The",
+          "start": 36.56,
+          "end": 36.696
+        },
+        {
+          "w": "discount",
+          "start": 36.743,
+          "end": 37.096
+        },
+        {
+          "w": "only",
+          "start": 37.153,
+          "end": 37.346
+        },
+        {
+          "w": "wins",
+          "start": 37.403,
+          "end": 37.62
+        },
+        {
+          "w": "if",
+          "start": 37.655,
+          "end": 37.722
+        },
+        {
+          "w": "you",
+          "start": 37.769,
+          "end": 37.836
+        },
+        {
+          "w": "pay",
+          "start": 37.905,
+          "end": 38.053
+        },
+        {
+          "w": "it",
+          "start": 38.098,
+          "end": 38.155
+        },
+        {
+          "w": "all",
+          "start": 38.212,
+          "end": 38.429
+        },
+        {
+          "w": "off",
+          "start": 38.498,
+          "end": 38.646
+        },
+        {
+          "w": "before",
+          "start": 38.691,
+          "end": 38.919
+        },
+        {
+          "w": "the",
+          "start": 38.942,
+          "end": 39.011
+        },
+        {
+          "w": "first",
+          "start": 39.045,
+          "end": 39.273
+        },
+        {
+          "w": "bill.",
+          "start": 39.33,
+          "end": 40.299
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "Save twenty percent today. Pay thirty percent all year.",
+      "start": 40.38,
+      "end": 43.72,
+      "words": [
+        {
+          "w": "Save",
+          "start": 40.38,
+          "end": 40.67
+        },
+        {
+          "w": "twenty",
+          "start": 40.705,
+          "end": 40.937
+        },
+        {
+          "w": "percent",
+          "start": 40.984,
+          "end": 41.309
+        },
+        {
+          "w": "today.",
+          "start": 41.344,
+          "end": 41.762
+        },
+        {
+          "w": "Pay",
+          "start": 42.04,
+          "end": 42.226
+        },
+        {
+          "w": "thirty",
+          "start": 42.307,
+          "end": 42.563
+        },
+        {
+          "w": "percent",
+          "start": 42.621,
+          "end": 42.934
+        },
+        {
+          "w": "all",
+          "start": 42.981,
+          "end": 43.12
+        },
+        {
+          "w": "year.",
+          "start": 43.19,
+          "end": 43.724
+        }
+      ]
+    }
+  ],
+  "style": "immersive second person",
+  "money": {
+    "price": 600,
+    "discount": 120,
+    "balance": 480,
+    "apr": "30% (Bankrate 2025 retail card avg 30.14%; general avg 19.71%)",
+    "pay25": "27 months, $182.14 interest (monthly compounding sim)",
+    "pay50": "12 months, $75.77 interest",
+    "net": "-$62 at $25/mo",
+    "caveat": "illustrative; APR varies by card; not advice"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}

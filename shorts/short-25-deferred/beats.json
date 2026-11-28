@@ -1,0 +1,638 @@
+{
+  "id": "short-25-deferred",
+  "title": "The 'No Interest for 12 Months' Trap",
+  "composition": "Short25Deferred",
+  "channel": "The Fine Print",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 39.5
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "No interest for twelve months. Miss by one dollar, and you pay a year of interest.",
+      "start": 0.4,
+      "end": 4.85,
+      "words": [
+        {
+          "w": "No",
+          "start": 0.4,
+          "end": 0.574
+        },
+        {
+          "w": "interest",
+          "start": 0.644,
+          "end": 0.899
+        },
+        {
+          "w": "for",
+          "start": 0.922,
+          "end": 1.015
+        },
+        {
+          "w": "twelve",
+          "start": 1.062,
+          "end": 1.317
+        },
+        {
+          "w": "months.",
+          "start": 1.352,
+          "end": 1.724
+        },
+        {
+          "w": "Miss",
+          "start": 2.049,
+          "end": 2.234
+        },
+        {
+          "w": "by",
+          "start": 2.281,
+          "end": 2.385
+        },
+        {
+          "w": "one",
+          "start": 2.467,
+          "end": 2.629
+        },
+        {
+          "w": "dollar,",
+          "start": 2.664,
+          "end": 3.047
+        },
+        {
+          "w": "and",
+          "start": 3.105,
+          "end": 3.233
+        },
+        {
+          "w": "you",
+          "start": 3.279,
+          "end": 3.349
+        },
+        {
+          "w": "pay",
+          "start": 3.407,
+          "end": 3.546
+        },
+        {
+          "w": "a",
+          "start": 3.593,
+          "end": 3.628
+        },
+        {
+          "w": "year",
+          "start": 3.697,
+          "end": 3.871
+        },
+        {
+          "w": "of",
+          "start": 3.918,
+          "end": 3.976
+        },
+        {
+          "w": "interest.",
+          "start": 4.022,
+          "end": 4.858
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "A twelve hundred dollar TV on a store card. Zero percent, if it's paid in full in a year.",
+      "start": 5.8,
+      "end": 10.93,
+      "words": [
+        {
+          "w": "A",
+          "start": 5.8,
+          "end": 5.908
+        },
+        {
+          "w": "twelve",
+          "start": 5.957,
+          "end": 6.191
+        },
+        {
+          "w": "hundred",
+          "start": 6.22,
+          "end": 6.387
+        },
+        {
+          "w": "dollar",
+          "start": 6.407,
+          "end": 6.583
+        },
+        {
+          "w": "TV",
+          "start": 6.641,
+          "end": 6.827
+        },
+        {
+          "w": "on",
+          "start": 6.895,
+          "end": 6.944
+        },
+        {
+          "w": "a",
+          "start": 6.974,
+          "end": 6.993
+        },
+        {
+          "w": "store",
+          "start": 7.033,
+          "end": 7.228
+        },
+        {
+          "w": "card.",
+          "start": 7.258,
+          "end": 7.561
+        },
+        {
+          "w": "Zero",
+          "start": 8.245,
+          "end": 8.471
+        },
+        {
+          "w": "percent,",
+          "start": 8.529,
+          "end": 8.852
+        },
+        {
+          "w": "if",
+          "start": 8.872,
+          "end": 8.93
+        },
+        {
+          "w": "it's",
+          "start": 8.97,
+          "end": 9.067
+        },
+        {
+          "w": "paid",
+          "start": 9.106,
+          "end": 9.282
+        },
+        {
+          "w": "in",
+          "start": 9.322,
+          "end": 9.371
+        },
+        {
+          "w": "full",
+          "start": 9.439,
+          "end": 9.644
+        },
+        {
+          "w": "in",
+          "start": 9.703,
+          "end": 9.762
+        },
+        {
+          "w": "a",
+          "start": 9.8,
+          "end": 9.82
+        },
+        {
+          "w": "year.",
+          "start": 9.899,
+          "end": 10.926
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "But the card's real rate is about thirty percent, and it's quietly adding up the whole time.",
+      "start": 11.0,
+      "end": 16.32,
+      "words": [
+        {
+          "w": "But",
+          "start": 11.0,
+          "end": 11.155
+        },
+        {
+          "w": "the",
+          "start": 11.177,
+          "end": 11.243
+        },
+        {
+          "w": "card's",
+          "start": 11.288,
+          "end": 11.586
+        },
+        {
+          "w": "real",
+          "start": 11.674,
+          "end": 11.885
+        },
+        {
+          "w": "rate",
+          "start": 11.951,
+          "end": 12.117
+        },
+        {
+          "w": "is",
+          "start": 12.15,
+          "end": 12.216
+        },
+        {
+          "w": "about",
+          "start": 12.261,
+          "end": 12.46
+        },
+        {
+          "w": "thirty",
+          "start": 12.516,
+          "end": 12.758
+        },
+        {
+          "w": "percent,",
+          "start": 12.814,
+          "end": 13.3
+        },
+        {
+          "w": "and",
+          "start": 13.665,
+          "end": 13.809
+        },
+        {
+          "w": "it's",
+          "start": 13.864,
+          "end": 13.986
+        },
+        {
+          "w": "quietly",
+          "start": 14.042,
+          "end": 14.473
+        },
+        {
+          "w": "adding",
+          "start": 14.528,
+          "end": 14.749
+        },
+        {
+          "w": "up",
+          "start": 14.793,
+          "end": 14.87
+        },
+        {
+          "w": "the",
+          "start": 14.915,
+          "end": 14.982
+        },
+        {
+          "w": "whole",
+          "start": 15.026,
+          "end": 15.203
+        },
+        {
+          "w": "time.",
+          "start": 15.236,
+          "end": 16.309
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. You pay off all but one dollar. What do you owe?",
+      "start": 16.4,
+      "end": 20.33,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 16.4,
+          "end": 16.909
+        },
+        {
+          "w": "You",
+          "start": 17.637,
+          "end": 17.751
+        },
+        {
+          "w": "pay",
+          "start": 17.814,
+          "end": 17.969
+        },
+        {
+          "w": "off",
+          "start": 18.021,
+          "end": 18.167
+        },
+        {
+          "w": "all",
+          "start": 18.229,
+          "end": 18.375
+        },
+        {
+          "w": "but",
+          "start": 18.416,
+          "end": 18.531
+        },
+        {
+          "w": "one",
+          "start": 18.583,
+          "end": 18.759
+        },
+        {
+          "w": "dollar.",
+          "start": 18.79,
+          "end": 19.238
+        },
+        {
+          "w": "What",
+          "start": 19.633,
+          "end": 19.778
+        },
+        {
+          "w": "do",
+          "start": 19.799,
+          "end": 19.841
+        },
+        {
+          "w": "you",
+          "start": 19.882,
+          "end": 19.955
+        },
+        {
+          "w": "owe?",
+          "start": 20.017,
+          "end": 20.724
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "About a hundred ninety-five dollars of interest, all at once.",
+      "start": 20.8,
+      "end": 23.91,
+      "words": [
+        {
+          "w": "About",
+          "start": 20.8,
+          "end": 21.102
+        },
+        {
+          "w": "a",
+          "start": 21.125,
+          "end": 21.148
+        },
+        {
+          "w": "hundred",
+          "start": 21.206,
+          "end": 21.439
+        },
+        {
+          "w": "ninety-five",
+          "start": 21.473,
+          "end": 21.915
+        },
+        {
+          "w": "dollars",
+          "start": 21.949,
+          "end": 22.228
+        },
+        {
+          "w": "of",
+          "start": 22.263,
+          "end": 22.309
+        },
+        {
+          "w": "interest,",
+          "start": 22.367,
+          "end": 22.704
+        },
+        {
+          "w": "all",
+          "start": 22.727,
+          "end": 22.89
+        },
+        {
+          "w": "at",
+          "start": 22.936,
+          "end": 22.994
+        },
+        {
+          "w": "once.",
+          "start": 23.064,
+          "end": 23.911
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Not on the dollar you missed. On the full twelve hundred, back to day one.",
+      "start": 25.0,
+      "end": 29.68,
+      "words": [
+        {
+          "w": "Not",
+          "start": 25.0,
+          "end": 25.186
+        },
+        {
+          "w": "on",
+          "start": 25.221,
+          "end": 25.279
+        },
+        {
+          "w": "the",
+          "start": 25.313,
+          "end": 25.383
+        },
+        {
+          "w": "dollar",
+          "start": 25.406,
+          "end": 25.627
+        },
+        {
+          "w": "you",
+          "start": 25.673,
+          "end": 25.743
+        },
+        {
+          "w": "missed.",
+          "start": 25.801,
+          "end": 26.207
+        },
+        {
+          "w": "On",
+          "start": 26.591,
+          "end": 26.73
+        },
+        {
+          "w": "the",
+          "start": 26.765,
+          "end": 26.834
+        },
+        {
+          "w": "full",
+          "start": 26.892,
+          "end": 27.101
+        },
+        {
+          "w": "twelve",
+          "start": 27.159,
+          "end": 27.485
+        },
+        {
+          "w": "hundred,",
+          "start": 27.519,
+          "end": 27.902
+        },
+        {
+          "w": "back",
+          "start": 28.019,
+          "end": 28.204
+        },
+        {
+          "w": "to",
+          "start": 28.251,
+          "end": 28.297
+        },
+        {
+          "w": "day",
+          "start": 28.332,
+          "end": 28.46
+        },
+        {
+          "w": "one.",
+          "start": 28.529,
+          "end": 29.69
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "That's deferred interest. A true zero percent card doesn't do this. Look for the word deferred.",
+      "start": 29.8,
+      "end": 35.91,
+      "words": [
+        {
+          "w": "That's",
+          "start": 29.8,
+          "end": 30.071
+        },
+        {
+          "w": "deferred",
+          "start": 30.125,
+          "end": 30.451
+        },
+        {
+          "w": "interest.",
+          "start": 30.483,
+          "end": 30.982
+        },
+        {
+          "w": "A",
+          "start": 31.341,
+          "end": 31.427
+        },
+        {
+          "w": "true",
+          "start": 31.492,
+          "end": 31.687
+        },
+        {
+          "w": "zero",
+          "start": 31.731,
+          "end": 31.937
+        },
+        {
+          "w": "percent",
+          "start": 31.991,
+          "end": 32.273
+        },
+        {
+          "w": "card",
+          "start": 32.317,
+          "end": 32.501
+        },
+        {
+          "w": "doesn't",
+          "start": 32.534,
+          "end": 32.739
+        },
+        {
+          "w": "do",
+          "start": 32.783,
+          "end": 32.87
+        },
+        {
+          "w": "this.",
+          "start": 32.924,
+          "end": 33.292
+        },
+        {
+          "w": "Look",
+          "start": 34.052,
+          "end": 34.226
+        },
+        {
+          "w": "for",
+          "start": 34.258,
+          "end": 34.334
+        },
+        {
+          "w": "the",
+          "start": 34.367,
+          "end": 34.431
+        },
+        {
+          "w": "word",
+          "start": 34.464,
+          "end": 34.659
+        },
+        {
+          "w": "deferred.",
+          "start": 34.692,
+          "end": 35.917
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "Zero percent, until it isn't.",
+      "start": 36.0,
+      "end": 37.89,
+      "words": [
+        {
+          "w": "Zero",
+          "start": 36.0,
+          "end": 36.325
+        },
+        {
+          "w": "percent,",
+          "start": 36.395,
+          "end": 36.813
+        },
+        {
+          "w": "until",
+          "start": 36.859,
+          "end": 37.115
+        },
+        {
+          "w": "it",
+          "start": 37.173,
+          "end": 37.231
+        },
+        {
+          "w": "isn't.",
+          "start": 37.277,
+          "end": 37.904
+        }
+      ]
+    }
+  ],
+  "money": {
+    "purchase": 1200,
+    "apr": 0.2999,
+    "payment_per_month": 99.92,
+    "left_after_12": 1.0,
+    "deferred_interest": 195,
+    "note": "simplified monthly calculation on the declining balance; issuers use average daily balance, result is close; labeled on screen"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}

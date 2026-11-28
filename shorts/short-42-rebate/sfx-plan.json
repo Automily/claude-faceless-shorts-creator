@@ -1,0 +1,128 @@
+{
+ "master": "remotion/out/Short42Rebate-voiced.mp4",
+ "master_fps": 30,
+ "catalog": "media/library/sfx/catalog.json",
+ "render": {
+  "preview": "remotion/out/Short42Rebate-voiced.mp4",
+  "out": "shorts/short-42-rebate/output/short-42-sfx.mp4",
+  "end_s": 46.5,
+  "duck": true
+ },
+ "note": "100% library.",
+ "events": [
+  {
+   "at_s": 0.4,
+   "sfx_id": "wind-soft",
+   "gain_db": -20,
+   "cue": "office hum"
+  },
+  {
+   "at_s": 4.15,
+   "sfx_id": "page-flip",
+   "gain_db": -9,
+   "cue": "offers slide in"
+  },
+  {
+   "at_s": 6.45,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -11,
+   "cue": "offer one"
+  },
+  {
+   "at_s": 7.9,
+   "sfx_id": "pop-reveal",
+   "gain_db": -11,
+   "cue": "0%"
+  },
+  {
+   "at_s": 10.6,
+   "sfx_id": "ui-click-soft",
+   "gain_db": -10,
+   "cue": "$500/mo"
+  },
+  {
+   "at_s": 12.35,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -11,
+   "cue": "offer two"
+  },
+  {
+   "at_s": 13.4,
+   "sfx_id": "chime-reward",
+   "gain_db": -11,
+   "cue": "$3,000 back"
+  },
+  {
+   "at_s": 17.81,
+   "sfx_id": "pop-reveal",
+   "gain_db": -10,
+   "cue": "PauseCard"
+  },
+  {
+   "at_s": 18.1,
+   "sfx_id": "clock-tick-soft",
+   "gain_db": -15,
+   "cue": "pause"
+  },
+  {
+   "at_s": 21.9,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -11,
+   "cue": "totals"
+  },
+  {
+   "at_s": 23.4,
+   "sfx_id": "stamp-hit",
+   "gain_db": -10,
+   "cue": "$30,000"
+  },
+  {
+   "at_s": 26.4,
+   "sfx_id": "pop-reveal",
+   "gain_db": -11,
+   "cue": "borrow 27K"
+  },
+  {
+   "at_s": 31.45,
+   "sfx_id": "impact-soft",
+   "gain_db": -8,
+   "cue": "$31,697"
+  },
+  {
+   "at_s": 33.35,
+   "sfx_id": "chime-reward",
+   "gain_db": -8,
+   "cue": "0% wins"
+  },
+  {
+   "at_s": 35.2,
+   "sfx_id": "whoosh-reverse",
+   "gain_db": -11,
+   "cue": "but"
+  },
+  {
+   "at_s": 36.3,
+   "sfx_id": "riser-soft",
+   "gain_db": -11,
+   "cue": "rate drops"
+  },
+  {
+   "at_s": 37.4,
+   "sfx_id": "impact-deep-soft",
+   "gain_db": -6,
+   "cue": "HERO: rebate wins"
+  },
+  {
+   "at_s": 39.9,
+   "sfx_id": "stamp-hit",
+   "gain_db": -9,
+   "cue": "4.2% line"
+  },
+  {
+   "at_s": 41.95,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -12,
+   "cue": "back to the desk"
+  }
+ ]
+}

@@ -1,0 +1,616 @@
+{
+  "id": "short-32-bnpl",
+  "title": "Pay in 4's hidden 700% APR",
+  "composition": "Short32Bnpl",
+  "channel": "The Fine Print",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 42.6
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "Pay in four is zero interest. Miss one payment, and it's a seven hundred percent loan.",
+      "start": 0.4,
+      "end": 6.57,
+      "words": [
+        {
+          "w": "Pay",
+          "start": 0.4,
+          "end": 0.653
+        },
+        {
+          "w": "in",
+          "start": 0.697,
+          "end": 0.763
+        },
+        {
+          "w": "four",
+          "start": 0.84,
+          "end": 1.148
+        },
+        {
+          "w": "is",
+          "start": 1.314,
+          "end": 1.5
+        },
+        {
+          "w": "zero",
+          "start": 1.567,
+          "end": 1.863
+        },
+        {
+          "w": "interest.",
+          "start": 1.94,
+          "end": 2.458
+        },
+        {
+          "w": "Miss",
+          "start": 3.118,
+          "end": 3.327
+        },
+        {
+          "w": "one",
+          "start": 3.393,
+          "end": 3.558
+        },
+        {
+          "w": "payment,",
+          "start": 3.603,
+          "end": 4.098
+        },
+        {
+          "w": "and",
+          "start": 4.362,
+          "end": 4.494
+        },
+        {
+          "w": "it's",
+          "start": 4.549,
+          "end": 4.659
+        },
+        {
+          "w": "a",
+          "start": 4.692,
+          "end": 4.714
+        },
+        {
+          "w": "seven",
+          "start": 4.769,
+          "end": 5.022
+        },
+        {
+          "w": "hundred",
+          "start": 5.055,
+          "end": 5.253
+        },
+        {
+          "w": "percent",
+          "start": 5.286,
+          "end": 5.55
+        },
+        {
+          "w": "loan.",
+          "start": 5.594,
+          "end": 6.563
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "A hundred dollar order. Four payments of twenty-five, every two weeks.",
+      "start": 6.64,
+      "end": 11.08,
+      "words": [
+        {
+          "w": "A",
+          "start": 6.64,
+          "end": 6.737
+        },
+        {
+          "w": "hundred",
+          "start": 6.823,
+          "end": 7.071
+        },
+        {
+          "w": "dollar",
+          "start": 7.104,
+          "end": 7.341
+        },
+        {
+          "w": "order.",
+          "start": 7.395,
+          "end": 7.73
+        },
+        {
+          "w": "Four",
+          "start": 8.29,
+          "end": 8.517
+        },
+        {
+          "w": "payments",
+          "start": 8.571,
+          "end": 8.894
+        },
+        {
+          "w": "of",
+          "start": 8.938,
+          "end": 8.992
+        },
+        {
+          "w": "twenty-five,",
+          "start": 9.045,
+          "end": 9.725
+        },
+        {
+          "w": "every",
+          "start": 9.865,
+          "end": 10.07
+        },
+        {
+          "w": "two",
+          "start": 10.113,
+          "end": 10.232
+        },
+        {
+          "w": "weeks.",
+          "start": 10.276,
+          "end": 11.084
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "No interest. No fees. If you pay on time.",
+      "start": 11.18,
+      "end": 15.04,
+      "words": [
+        {
+          "w": "No",
+          "start": 11.18,
+          "end": 11.321
+        },
+        {
+          "w": "interest.",
+          "start": 11.386,
+          "end": 11.873
+        },
+        {
+          "w": "No",
+          "start": 12.068,
+          "end": 12.198
+        },
+        {
+          "w": "fees.",
+          "start": 12.275,
+          "end": 12.729
+        },
+        {
+          "w": "If",
+          "start": 13.293,
+          "end": 13.433
+        },
+        {
+          "w": "you",
+          "start": 13.476,
+          "end": 13.553
+        },
+        {
+          "w": "pay",
+          "start": 13.607,
+          "end": 13.748
+        },
+        {
+          "w": "on",
+          "start": 13.802,
+          "end": 13.888
+        },
+        {
+          "w": "time.",
+          "start": 13.943,
+          "end": 15.037
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Miss one, and the late fee can be seven dollars.",
+      "start": 15.13,
+      "end": 17.95,
+      "words": [
+        {
+          "w": "Miss",
+          "start": 15.13,
+          "end": 15.396
+        },
+        {
+          "w": "one,",
+          "start": 15.465,
+          "end": 15.766
+        },
+        {
+          "w": "and",
+          "start": 15.812,
+          "end": 16.02
+        },
+        {
+          "w": "the",
+          "start": 16.078,
+          "end": 16.147
+        },
+        {
+          "w": "late",
+          "start": 16.193,
+          "end": 16.378
+        },
+        {
+          "w": "fee",
+          "start": 16.424,
+          "end": 16.597
+        },
+        {
+          "w": "can",
+          "start": 16.632,
+          "end": 16.724
+        },
+        {
+          "w": "be",
+          "start": 16.759,
+          "end": 16.84
+        },
+        {
+          "w": "seven",
+          "start": 16.887,
+          "end": 17.118
+        },
+        {
+          "w": "dollars.",
+          "start": 17.152,
+          "end": 17.95
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. Seven dollars to borrow twenty-five, for two weeks. What's that as an APR?",
+      "start": 18.04,
+      "end": 24.17,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 18.04,
+          "end": 18.558
+        },
+        {
+          "w": "Seven",
+          "start": 19.218,
+          "end": 19.494
+        },
+        {
+          "w": "dollars",
+          "start": 19.526,
+          "end": 19.813
+        },
+        {
+          "w": "to",
+          "start": 19.857,
+          "end": 19.912
+        },
+        {
+          "w": "borrow",
+          "start": 19.968,
+          "end": 20.209
+        },
+        {
+          "w": "twenty-five,",
+          "start": 20.276,
+          "end": 20.969
+        },
+        {
+          "w": "for",
+          "start": 21.079,
+          "end": 21.201
+        },
+        {
+          "w": "two",
+          "start": 21.245,
+          "end": 21.366
+        },
+        {
+          "w": "weeks.",
+          "start": 21.421,
+          "end": 21.839
+        },
+        {
+          "w": "What's",
+          "start": 22.5,
+          "end": 22.72
+        },
+        {
+          "w": "that",
+          "start": 22.753,
+          "end": 22.897
+        },
+        {
+          "w": "as",
+          "start": 22.94,
+          "end": 23.007
+        },
+        {
+          "w": "an",
+          "start": 23.051,
+          "end": 23.106
+        },
+        {
+          "w": "APR?",
+          "start": 23.172,
+          "end": 24.163
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Seven over twenty-five is twenty-eight percent. In two weeks.",
+      "start": 24.26,
+      "end": 28.24,
+      "words": [
+        {
+          "w": "Seven",
+          "start": 24.26,
+          "end": 24.584
+        },
+        {
+          "w": "over",
+          "start": 24.638,
+          "end": 24.811
+        },
+        {
+          "w": "twenty-five",
+          "start": 24.865,
+          "end": 25.469
+        },
+        {
+          "w": "is",
+          "start": 25.502,
+          "end": 25.577
+        },
+        {
+          "w": "twenty-eight",
+          "start": 25.621,
+          "end": 26.043
+        },
+        {
+          "w": "percent.",
+          "start": 26.064,
+          "end": 26.55
+        },
+        {
+          "w": "In",
+          "start": 26.96,
+          "end": 27.112
+        },
+        {
+          "w": "two",
+          "start": 27.165,
+          "end": 27.327
+        },
+        {
+          "w": "weeks.",
+          "start": 27.381,
+          "end": 28.234
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "There are twenty-six two-week stretches in a year. That's about seven hundred thirty percent.",
+      "start": 28.32,
+      "end": 33.77,
+      "words": [
+        {
+          "w": "There",
+          "start": 28.32,
+          "end": 28.508
+        },
+        {
+          "w": "are",
+          "start": 28.531,
+          "end": 28.618
+        },
+        {
+          "w": "twenty-six",
+          "start": 28.652,
+          "end": 29.095
+        },
+        {
+          "w": "two-week",
+          "start": 29.151,
+          "end": 29.504
+        },
+        {
+          "w": "stretches",
+          "start": 29.538,
+          "end": 29.859
+        },
+        {
+          "w": "in",
+          "start": 29.892,
+          "end": 29.948
+        },
+        {
+          "w": "a",
+          "start": 29.98,
+          "end": 30.014
+        },
+        {
+          "w": "year.",
+          "start": 30.069,
+          "end": 30.49
+        },
+        {
+          "w": "That's",
+          "start": 31.265,
+          "end": 31.486
+        },
+        {
+          "w": "about",
+          "start": 31.519,
+          "end": 31.74
+        },
+        {
+          "w": "seven",
+          "start": 31.797,
+          "end": 32.04
+        },
+        {
+          "w": "hundred",
+          "start": 32.073,
+          "end": 32.283
+        },
+        {
+          "w": "thirty",
+          "start": 32.328,
+          "end": 32.516
+        },
+        {
+          "w": "percent.",
+          "start": 32.571,
+          "end": 33.767
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "The same twenty-five on a credit card at twenty-two percent? About twenty cents.",
+      "start": 33.85,
+      "end": 38.5,
+      "words": [
+        {
+          "w": "The",
+          "start": 33.85,
+          "end": 33.995
+        },
+        {
+          "w": "same",
+          "start": 34.039,
+          "end": 34.263
+        },
+        {
+          "w": "twenty-five",
+          "start": 34.296,
+          "end": 34.799
+        },
+        {
+          "w": "on",
+          "start": 34.821,
+          "end": 34.877
+        },
+        {
+          "w": "a",
+          "start": 34.91,
+          "end": 34.932
+        },
+        {
+          "w": "credit",
+          "start": 34.977,
+          "end": 35.189
+        },
+        {
+          "w": "card",
+          "start": 35.223,
+          "end": 35.39
+        },
+        {
+          "w": "at",
+          "start": 35.412,
+          "end": 35.479
+        },
+        {
+          "w": "twenty-two",
+          "start": 35.501,
+          "end": 35.837
+        },
+        {
+          "w": "percent?",
+          "start": 35.892,
+          "end": 36.372
+        },
+        {
+          "w": "About",
+          "start": 36.74,
+          "end": 36.975
+        },
+        {
+          "w": "twenty",
+          "start": 36.997,
+          "end": 37.242
+        },
+        {
+          "w": "cents.",
+          "start": 37.287,
+          "end": 38.492
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "So yes. Pay in four is zero interest.",
+      "start": 38.57,
+      "end": 41.45,
+      "words": [
+        {
+          "w": "So",
+          "start": 38.57,
+          "end": 38.767
+        },
+        {
+          "w": "yes.",
+          "start": 38.825,
+          "end": 39.22
+        },
+        {
+          "w": "Pay",
+          "start": 39.545,
+          "end": 39.743
+        },
+        {
+          "w": "in",
+          "start": 39.777,
+          "end": 39.835
+        },
+        {
+          "w": "four",
+          "start": 39.917,
+          "end": 40.137
+        },
+        {
+          "w": "is",
+          "start": 40.195,
+          "end": 40.277
+        },
+        {
+          "w": "zero",
+          "start": 40.335,
+          "end": 40.613
+        },
+        {
+          "w": "interest.",
+          "start": 40.683,
+          "end": 41.449
+        }
+      ]
+    }
+  ],
+  "money": {
+    "order": 100,
+    "installment": 25,
+    "late_fee": "up to $7 (Klarna US), up to $8 (Afterpay US), per missed payment, total capped at 25% of order",
+    "apr": "7/25=28% per 14 days; x26 = 728% simple annualized",
+    "card": "25*0.22*14/365 = $0.21",
+    "caveat": "illustrative; fee varies by lender/state"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}

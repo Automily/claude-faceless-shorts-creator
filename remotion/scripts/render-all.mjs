@@ -6,6 +6,8 @@
 // Rendered at scale 2 (author 1080p -> 4K output) to composite crisply over the 4K master.
 import { bundle } from '@remotion/bundler';
 import { selectComposition, renderMedia, renderStill } from '@remotion/renderer';
+// Optional: point Remotion at a local Chrome/Chromium instead of downloading one.
+const browserExecutable = process.env.REMOTION_BROWSER_EXECUTABLE || null;
 import { readFileSync, mkdirSync } from 'fs';
 import { fileURLToPath } from 'url';
 import path from 'path';
@@ -29,11 +31,11 @@ const serveUrl = await bundle({ entryPoint: path.join(root, 'src', 'index.ts'), 
 let n = 0;
 for (const shot of manifest) {
   if (onlyIds.length && !onlyIds.includes(shot.id)) continue;
-  const composition = await selectComposition({ serveUrl, id: shot.id });
+  const composition = await selectComposition({ browserExecutable, serveUrl, id: shot.id });
 
   if (stillMode) {
     const out = path.join(outDir, `${shot.id}.png`);
-    await renderStill({
+    await renderStill({ browserExecutable,
       serveUrl, composition, output: out, scale: SCALE, overwrite: true,
       frame: Math.floor(composition.durationInFrames * 0.6),
       imageFormat: shot.transparent ? 'png' : 'jpeg',
@@ -42,7 +44,7 @@ for (const shot of manifest) {
   } else {
     const transparent = !!shot.transparent;
     const out = path.join(outDir, `${shot.id}.${transparent ? 'mov' : 'mp4'}`);
-    await renderMedia({
+    await renderMedia({ browserExecutable,
       serveUrl, composition, outputLocation: out, scale: SCALE, overwrite: true,
       codec: transparent ? 'prores' : 'h264',
       proResProfile: transparent ? '4444' : undefined,

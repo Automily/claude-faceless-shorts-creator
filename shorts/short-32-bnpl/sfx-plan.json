@@ -1,0 +1,23 @@
+{
+  "master": "remotion/out/Short32Bnpl-voiced.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {"preview": "remotion/out/Short32Bnpl-voiced.mp4", "out": "shorts/short-32-bnpl/output/short-32-sfx.mp4", "end_s": 42.6, "duck": true},
+  "note": "100% library.",
+  "events": [
+    {"at_s": 6.5, "sfx_id": "whoosh-soft", "gain_db": -10, "cue": "payoff clears"},
+    {"at_s": 6.85, "sfx_id": "pop-reveal", "gain_db": -11, "cue": "$100 order"},
+    {"at_s": 8.3, "sfx_id": "pop-reveal", "gain_db": -12, "cue": "cards"},
+    {"at_s": 11.4, "sfx_id": "chime-reward", "gain_db": -12, "cue": "0% interest"},
+    {"at_s": 15.45, "sfx_id": "stamp-hit", "gain_db": -7, "cue": "MISSED"},
+    {"at_s": 16.9, "sfx_id": "impact-soft", "gain_db": -8, "cue": "+$7"},
+    {"at_s": 18.04, "sfx_id": "pop-reveal", "gain_db": -10, "cue": "PauseCard"},
+    {"at_s": 18.3, "sfx_id": "clock-tick-soft", "gain_db": -15, "cue": "pause countdown", "optional": true},
+    {"at_s": 25.65, "sfx_id": "pop-reveal", "gain_db": -10, "cue": "= 28%"},
+    {"at_s": 30.6, "sfx_id": "riser-soft", "gain_db": -11, "cue": "build to APR"},
+    {"at_s": 31.8, "sfx_id": "impact-deep-soft", "gain_db": -5, "cue": "HERO: 730% APR"},
+    {"at_s": 33.8, "sfx_id": "whoosh-soft", "gain_db": -10, "cue": "to the bars"},
+    {"at_s": 37.0, "sfx_id": "chime-reward", "gain_db": -10, "cue": "$0.21"},
+    {"at_s": 38.55, "sfx_id": "whoosh-reverse", "gain_db": -10, "cue": "back to the cards"}
+  ]
+}

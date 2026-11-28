@@ -1,0 +1,608 @@
+{
+  "id": "short-31-x25",
+  "title": "How Much Do You Need to Retire? Times 25",
+  "composition": "Short31X25",
+  "channel": "The Fine Print",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 41.4
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "How much do you need to retire? Multiply what you spend in a year by twenty-five.",
+      "start": 0.4,
+      "end": 5.72,
+      "words": [
+        {
+          "w": "How",
+          "start": 0.4,
+          "end": 0.577
+        },
+        {
+          "w": "much",
+          "start": 0.621,
+          "end": 0.776
+        },
+        {
+          "w": "do",
+          "start": 0.81,
+          "end": 0.875
+        },
+        {
+          "w": "you",
+          "start": 0.92,
+          "end": 0.986
+        },
+        {
+          "w": "need",
+          "start": 1.031,
+          "end": 1.174
+        },
+        {
+          "w": "to",
+          "start": 1.208,
+          "end": 1.263
+        },
+        {
+          "w": "retire?",
+          "start": 1.318,
+          "end": 1.849
+        },
+        {
+          "w": "Multiply",
+          "start": 2.756,
+          "end": 3.209
+        },
+        {
+          "w": "what",
+          "start": 3.264,
+          "end": 3.375
+        },
+        {
+          "w": "you",
+          "start": 3.408,
+          "end": 3.485
+        },
+        {
+          "w": "spend",
+          "start": 3.563,
+          "end": 3.817
+        },
+        {
+          "w": "in",
+          "start": 3.862,
+          "end": 3.917
+        },
+        {
+          "w": "a",
+          "start": 3.95,
+          "end": 3.984
+        },
+        {
+          "w": "year",
+          "start": 4.049,
+          "end": 4.238
+        },
+        {
+          "w": "by",
+          "start": 4.293,
+          "end": 4.404
+        },
+        {
+          "w": "twenty-five.",
+          "start": 4.469,
+          "end": 5.709
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "It comes from the four percent rule.",
+      "start": 5.8,
+      "end": 7.93,
+      "words": [
+        {
+          "w": "It",
+          "start": 5.8,
+          "end": 5.951
+        },
+        {
+          "w": "comes",
+          "start": 5.997,
+          "end": 6.206
+        },
+        {
+          "w": "from",
+          "start": 6.241,
+          "end": 6.369
+        },
+        {
+          "w": "the",
+          "start": 6.415,
+          "end": 6.485
+        },
+        {
+          "w": "four",
+          "start": 6.555,
+          "end": 6.752
+        },
+        {
+          "w": "percent",
+          "start": 6.81,
+          "end": 7.158
+        },
+        {
+          "w": "rule.",
+          "start": 7.216,
+          "end": 7.936
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Take out four percent of your savings the first year, then raise it with inflation.",
+      "start": 8.4,
+      "end": 13.08,
+      "words": [
+        {
+          "w": "Take",
+          "start": 8.4,
+          "end": 8.679
+        },
+        {
+          "w": "out",
+          "start": 8.713,
+          "end": 8.853
+        },
+        {
+          "w": "four",
+          "start": 8.934,
+          "end": 9.131
+        },
+        {
+          "w": "percent",
+          "start": 9.189,
+          "end": 9.468
+        },
+        {
+          "w": "of",
+          "start": 9.503,
+          "end": 9.549
+        },
+        {
+          "w": "your",
+          "start": 9.584,
+          "end": 9.689
+        },
+        {
+          "w": "savings",
+          "start": 9.735,
+          "end": 10.083
+        },
+        {
+          "w": "the",
+          "start": 10.118,
+          "end": 10.188
+        },
+        {
+          "w": "first",
+          "start": 10.234,
+          "end": 10.49
+        },
+        {
+          "w": "year,",
+          "start": 10.536,
+          "end": 10.85
+        },
+        {
+          "w": "then",
+          "start": 11.001,
+          "end": 11.198
+        },
+        {
+          "w": "raise",
+          "start": 11.279,
+          "end": 11.477
+        },
+        {
+          "w": "it",
+          "start": 11.5,
+          "end": 11.558
+        },
+        {
+          "w": "with",
+          "start": 11.581,
+          "end": 11.686
+        },
+        {
+          "w": "inflation.",
+          "start": 11.72,
+          "end": 13.09
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "In historical market data, that lasted at least thirty years.",
+      "start": 13.2,
+      "end": 16.92,
+      "words": [
+        {
+          "w": "In",
+          "start": 13.2,
+          "end": 13.361
+        },
+        {
+          "w": "historical",
+          "start": 13.419,
+          "end": 13.923
+        },
+        {
+          "w": "market",
+          "start": 13.993,
+          "end": 14.314
+        },
+        {
+          "w": "data,",
+          "start": 14.361,
+          "end": 14.832
+        },
+        {
+          "w": "that",
+          "start": 14.947,
+          "end": 15.119
+        },
+        {
+          "w": "lasted",
+          "start": 15.188,
+          "end": 15.521
+        },
+        {
+          "w": "at",
+          "start": 15.567,
+          "end": 15.636
+        },
+        {
+          "w": "least",
+          "start": 15.717,
+          "end": 15.981
+        },
+        {
+          "w": "thirty",
+          "start": 16.061,
+          "end": 16.348
+        },
+        {
+          "w": "years.",
+          "start": 16.395,
+          "end": 17.704
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. You spend forty thousand a year. How much do you need?",
+      "start": 17.8,
+      "end": 21.94,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 17.8,
+          "end": 18.3
+        },
+        {
+          "w": "You",
+          "start": 18.723,
+          "end": 18.856
+        },
+        {
+          "w": "spend",
+          "start": 18.923,
+          "end": 19.189
+        },
+        {
+          "w": "forty",
+          "start": 19.267,
+          "end": 19.545
+        },
+        {
+          "w": "thousand",
+          "start": 19.6,
+          "end": 19.933
+        },
+        {
+          "w": "a",
+          "start": 19.978,
+          "end": 20.011
+        },
+        {
+          "w": "year.",
+          "start": 20.056,
+          "end": 20.4
+        },
+        {
+          "w": "How",
+          "start": 20.977,
+          "end": 21.122
+        },
+        {
+          "w": "much",
+          "start": 21.155,
+          "end": 21.311
+        },
+        {
+          "w": "do",
+          "start": 21.345,
+          "end": 21.411
+        },
+        {
+          "w": "you",
+          "start": 21.444,
+          "end": 21.511
+        },
+        {
+          "w": "need?",
+          "start": 21.545,
+          "end": 22.822
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Forty thousand times twenty-five. One million dollars.",
+      "start": 22.9,
+      "end": 27.04,
+      "words": [
+        {
+          "w": "Forty",
+          "start": 22.9,
+          "end": 23.221
+        },
+        {
+          "w": "thousand",
+          "start": 23.278,
+          "end": 23.621
+        },
+        {
+          "w": "times",
+          "start": 23.668,
+          "end": 23.931
+        },
+        {
+          "w": "twenty-five.",
+          "start": 23.977,
+          "end": 24.767
+        },
+        {
+          "w": "One",
+          "start": 25.363,
+          "end": 25.546
+        },
+        {
+          "w": "million",
+          "start": 25.581,
+          "end": 25.855
+        },
+        {
+          "w": "dollars.",
+          "start": 25.89,
+          "end": 27.025
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "Because four percent of a million is forty thousand.",
+      "start": 27.1,
+      "end": 30.3,
+      "words": [
+        {
+          "w": "Because",
+          "start": 27.1,
+          "end": 27.437
+        },
+        {
+          "w": "four",
+          "start": 27.483,
+          "end": 27.68
+        },
+        {
+          "w": "percent",
+          "start": 27.727,
+          "end": 28.006
+        },
+        {
+          "w": "of",
+          "start": 28.04,
+          "end": 28.087
+        },
+        {
+          "w": "a",
+          "start": 28.133,
+          "end": 28.157
+        },
+        {
+          "w": "million",
+          "start": 28.215,
+          "end": 28.563
+        },
+        {
+          "w": "is",
+          "start": 28.633,
+          "end": 28.76
+        },
+        {
+          "w": "forty",
+          "start": 28.83,
+          "end": 29.085
+        },
+        {
+          "w": "thousand.",
+          "start": 29.143,
+          "end": 30.304
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "Flip it around: every dollar you cut from yearly spending is twenty-five dollars you don't need to save.",
+      "start": 30.5,
+      "end": 37.0,
+      "words": [
+        {
+          "w": "Flip",
+          "start": 30.5,
+          "end": 30.79
+        },
+        {
+          "w": "it",
+          "start": 30.837,
+          "end": 30.895
+        },
+        {
+          "w": "around:",
+          "start": 30.918,
+          "end": 31.44
+        },
+        {
+          "w": "every",
+          "start": 31.824,
+          "end": 32.091
+        },
+        {
+          "w": "dollar",
+          "start": 32.137,
+          "end": 32.392
+        },
+        {
+          "w": "you",
+          "start": 32.45,
+          "end": 32.532
+        },
+        {
+          "w": "cut",
+          "start": 32.613,
+          "end": 32.787
+        },
+        {
+          "w": "from",
+          "start": 32.834,
+          "end": 32.961
+        },
+        {
+          "w": "yearly",
+          "start": 33.031,
+          "end": 33.31
+        },
+        {
+          "w": "spending",
+          "start": 33.356,
+          "end": 33.751
+        },
+        {
+          "w": "is",
+          "start": 33.82,
+          "end": 33.902
+        },
+        {
+          "w": "twenty-five",
+          "start": 33.96,
+          "end": 34.494
+        },
+        {
+          "w": "dollars",
+          "start": 34.529,
+          "end": 34.831
+        },
+        {
+          "w": "you",
+          "start": 34.865,
+          "end": 34.935
+        },
+        {
+          "w": "don't",
+          "start": 35.005,
+          "end": 35.19
+        },
+        {
+          "w": "need",
+          "start": 35.225,
+          "end": 35.376
+        },
+        {
+          "w": "to",
+          "start": 35.411,
+          "end": 35.457
+        },
+        {
+          "w": "save.",
+          "start": 35.516,
+          "end": 37.002
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "Spend a little less, need a lot less.",
+      "start": 37.3,
+      "end": 39.57,
+      "words": [
+        {
+          "w": "Spend",
+          "start": 37.3,
+          "end": 37.602
+        },
+        {
+          "w": "a",
+          "start": 37.648,
+          "end": 37.672
+        },
+        {
+          "w": "little",
+          "start": 37.706,
+          "end": 37.904
+        },
+        {
+          "w": "less,",
+          "start": 37.927,
+          "end": 38.322
+        },
+        {
+          "w": "need",
+          "start": 38.531,
+          "end": 38.693
+        },
+        {
+          "w": "a",
+          "start": 38.728,
+          "end": 38.751
+        },
+        {
+          "w": "lot",
+          "start": 38.798,
+          "end": 38.96
+        },
+        {
+          "w": "less.",
+          "start": 38.995,
+          "end": 39.576
+        }
+      ]
+    }
+  ],
+  "money": {
+    "rule": "4% initial withdrawal, inflation-adjusted, survived every historical 30-yr US period (Bengen 1994; Trinity study 1998)",
+    "x25": "1/0.04 = 25",
+    "example": {
+      "spend": 40000,
+      "need": 1000000
+    },
+    "cut": "$1/yr less spending = $25 less needed",
+    "caveat": "rule of thumb from historical data, not a guarantee (on screen)"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}

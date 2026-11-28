@@ -1,0 +1,1146 @@
+{
+  "id": "tale-6-baba-yaga",
+  "title": "Vasilisa and Baba Yaga (told by Vasilisa)",
+  "composition": "Tale6BabaYaga",
+  "channel": "Candlelit Tales",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 79.2
+  },
+  "voicePlan": "elevenlabs:JBFqnCBsd6RMkjVDRZzb (George, storyteller)",
+  "source": "'Vasilisa the Beautiful', Russian folk tale collected by Alexander Afanasyev (1860s) — public domain; retold first-person and condensed.",
+  "style": "Vasilisa's POV, first person present; shadow-puppet; glowing skull-eyes are the signature light",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "I carried a skull home through the forest. By morning, my stepmother was ash.",
+      "start": 0.4,
+      "end": 5.69,
+      "words": [
+        {
+          "w": "I",
+          "start": 0.4,
+          "end": 0.493
+        },
+        {
+          "w": "carried",
+          "start": 0.609,
+          "end": 0.922
+        },
+        {
+          "w": "a",
+          "start": 0.957,
+          "end": 0.992
+        },
+        {
+          "w": "skull",
+          "start": 1.05,
+          "end": 1.41
+        },
+        {
+          "w": "home",
+          "start": 1.491,
+          "end": 1.77
+        },
+        {
+          "w": "through",
+          "start": 1.805,
+          "end": 2.037
+        },
+        {
+          "w": "the",
+          "start": 2.072,
+          "end": 2.141
+        },
+        {
+          "w": "forest.",
+          "start": 2.188,
+          "end": 2.803
+        },
+        {
+          "w": "By",
+          "start": 3.186,
+          "end": 3.349
+        },
+        {
+          "w": "morning,",
+          "start": 3.43,
+          "end": 3.825
+        },
+        {
+          "w": "my",
+          "start": 3.871,
+          "end": 3.987
+        },
+        {
+          "w": "stepmother",
+          "start": 4.057,
+          "end": 4.522
+        },
+        {
+          "w": "was",
+          "start": 4.568,
+          "end": 4.684
+        },
+        {
+          "w": "ash.",
+          "start": 4.754,
+          "end": 5.694
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "The night every fire in the house goes out, my stepmother smiles. Go to Baba Yaga, she says. Bring back fire.",
+      "start": 6.12,
+      "end": 13.39,
+      "words": [
+        {
+          "w": "The",
+          "start": 6.12,
+          "end": 6.259
+        },
+        {
+          "w": "night",
+          "start": 6.329,
+          "end": 6.538
+        },
+        {
+          "w": "every",
+          "start": 6.608,
+          "end": 6.875
+        },
+        {
+          "w": "fire",
+          "start": 6.944,
+          "end": 7.246
+        },
+        {
+          "w": "in",
+          "start": 7.281,
+          "end": 7.339
+        },
+        {
+          "w": "the",
+          "start": 7.385,
+          "end": 7.455
+        },
+        {
+          "w": "house",
+          "start": 7.513,
+          "end": 7.78
+        },
+        {
+          "w": "goes",
+          "start": 7.815,
+          "end": 8.012
+        },
+        {
+          "w": "out,",
+          "start": 8.059,
+          "end": 8.454
+        },
+        {
+          "w": "my",
+          "start": 8.628,
+          "end": 8.732
+        },
+        {
+          "w": "stepmother",
+          "start": 8.802,
+          "end": 9.255
+        },
+        {
+          "w": "smiles.",
+          "start": 9.301,
+          "end": 10.021
+        },
+        {
+          "w": "Go",
+          "start": 10.462,
+          "end": 10.59
+        },
+        {
+          "w": "to",
+          "start": 10.66,
+          "end": 10.718
+        },
+        {
+          "w": "Baba",
+          "start": 10.776,
+          "end": 10.996
+        },
+        {
+          "w": "Yaga,",
+          "start": 11.054,
+          "end": 11.414
+        },
+        {
+          "w": "she",
+          "start": 11.437,
+          "end": 11.542
+        },
+        {
+          "w": "says.",
+          "start": 11.6,
+          "end": 12.053
+        },
+        {
+          "w": "Bring",
+          "start": 12.262,
+          "end": 12.482
+        },
+        {
+          "w": "back",
+          "start": 12.54,
+          "end": 12.703
+        },
+        {
+          "w": "fire.",
+          "start": 12.784,
+          "end": 13.411
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Everyone knows what Baba Yaga does to girls. All I have is the little doll my mother left me.",
+      "start": 13.6,
+      "end": 19.76,
+      "words": [
+        {
+          "w": "Everyone",
+          "start": 13.6,
+          "end": 14.088
+        },
+        {
+          "w": "knows",
+          "start": 14.134,
+          "end": 14.389
+        },
+        {
+          "w": "what",
+          "start": 14.436,
+          "end": 14.575
+        },
+        {
+          "w": "Baba",
+          "start": 14.622,
+          "end": 14.819
+        },
+        {
+          "w": "Yaga",
+          "start": 14.877,
+          "end": 15.144
+        },
+        {
+          "w": "does",
+          "start": 15.191,
+          "end": 15.423
+        },
+        {
+          "w": "to",
+          "start": 15.481,
+          "end": 15.55
+        },
+        {
+          "w": "girls.",
+          "start": 15.62,
+          "end": 16.154
+        },
+        {
+          "w": "All",
+          "start": 16.398,
+          "end": 16.63
+        },
+        {
+          "w": "I",
+          "start": 16.711,
+          "end": 16.746
+        },
+        {
+          "w": "have",
+          "start": 16.862,
+          "end": 17.106
+        },
+        {
+          "w": "is",
+          "start": 17.153,
+          "end": 17.234
+        },
+        {
+          "w": "the",
+          "start": 17.28,
+          "end": 17.35
+        },
+        {
+          "w": "little",
+          "start": 17.396,
+          "end": 17.629
+        },
+        {
+          "w": "doll",
+          "start": 17.663,
+          "end": 17.907
+        },
+        {
+          "w": "my",
+          "start": 17.977,
+          "end": 18.07
+        },
+        {
+          "w": "mother",
+          "start": 18.151,
+          "end": 18.372
+        },
+        {
+          "w": "left",
+          "start": 18.418,
+          "end": 18.627
+        },
+        {
+          "w": "me.",
+          "start": 18.685,
+          "end": 19.777
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "Deep in the forest, a hut turns on chicken legs. The fence is made of bones. On every post, a skull. And the eyes are glowing.",
+      "start": 19.99,
+      "end": 28.81,
+      "words": [
+        {
+          "w": "Deep",
+          "start": 19.99,
+          "end": 20.28
+        },
+        {
+          "w": "in",
+          "start": 20.35,
+          "end": 20.408
+        },
+        {
+          "w": "the",
+          "start": 20.454,
+          "end": 20.524
+        },
+        {
+          "w": "forest,",
+          "start": 20.582,
+          "end": 21.012
+        },
+        {
+          "w": "a",
+          "start": 21.047,
+          "end": 21.116
+        },
+        {
+          "w": "hut",
+          "start": 21.232,
+          "end": 21.488
+        },
+        {
+          "w": "turns",
+          "start": 21.557,
+          "end": 21.929
+        },
+        {
+          "w": "on",
+          "start": 21.987,
+          "end": 22.08
+        },
+        {
+          "w": "chicken",
+          "start": 22.138,
+          "end": 22.44
+        },
+        {
+          "w": "legs.",
+          "start": 22.486,
+          "end": 22.939
+        },
+        {
+          "w": "The",
+          "start": 23.264,
+          "end": 23.392
+        },
+        {
+          "w": "fence",
+          "start": 23.461,
+          "end": 23.752
+        },
+        {
+          "w": "is",
+          "start": 23.786,
+          "end": 23.868
+        },
+        {
+          "w": "made",
+          "start": 23.926,
+          "end": 24.123
+        },
+        {
+          "w": "of",
+          "start": 24.158,
+          "end": 24.204
+        },
+        {
+          "w": "bones.",
+          "start": 24.274,
+          "end": 24.878
+        },
+        {
+          "w": "On",
+          "start": 25.087,
+          "end": 25.226
+        },
+        {
+          "w": "every",
+          "start": 25.284,
+          "end": 25.493
+        },
+        {
+          "w": "post,",
+          "start": 25.551,
+          "end": 26.016
+        },
+        {
+          "w": "a",
+          "start": 26.085,
+          "end": 26.155
+        },
+        {
+          "w": "skull.",
+          "start": 26.248,
+          "end": 26.84
+        },
+        {
+          "w": "And",
+          "start": 27.014,
+          "end": 27.153
+        },
+        {
+          "w": "the",
+          "start": 27.2,
+          "end": 27.269
+        },
+        {
+          "w": "eyes",
+          "start": 27.351,
+          "end": 27.629
+        },
+        {
+          "w": "are",
+          "start": 27.676,
+          "end": 27.769
+        },
+        {
+          "w": "glowing.",
+          "start": 27.792,
+          "end": 28.814
+        }
+      ]
+    },
+    {
+      "beat": "turn",
+      "text": "She comes flying in a mortar, sweeping away her tracks with a broom. I smell a human, she says.",
+      "start": 29.13,
+      "end": 35.07,
+      "words": [
+        {
+          "w": "She",
+          "start": 29.13,
+          "end": 29.293
+        },
+        {
+          "w": "comes",
+          "start": 29.351,
+          "end": 29.606
+        },
+        {
+          "w": "flying",
+          "start": 29.664,
+          "end": 30.001
+        },
+        {
+          "w": "in",
+          "start": 30.036,
+          "end": 30.094
+        },
+        {
+          "w": "a",
+          "start": 30.128,
+          "end": 30.152
+        },
+        {
+          "w": "mortar,",
+          "start": 30.198,
+          "end": 30.697
+        },
+        {
+          "w": "sweeping",
+          "start": 30.825,
+          "end": 31.231
+        },
+        {
+          "w": "away",
+          "start": 31.278,
+          "end": 31.498
+        },
+        {
+          "w": "her",
+          "start": 31.556,
+          "end": 31.649
+        },
+        {
+          "w": "tracks",
+          "start": 31.707,
+          "end": 32.032
+        },
+        {
+          "w": "with",
+          "start": 32.067,
+          "end": 32.195
+        },
+        {
+          "w": "a",
+          "start": 32.23,
+          "end": 32.253
+        },
+        {
+          "w": "broom.",
+          "start": 32.3,
+          "end": 32.834
+        },
+        {
+          "w": "I",
+          "start": 33.217,
+          "end": 33.275
+        },
+        {
+          "w": "smell",
+          "start": 33.391,
+          "end": 33.658
+        },
+        {
+          "w": "a",
+          "start": 33.704,
+          "end": 33.728
+        },
+        {
+          "w": "human,",
+          "start": 33.786,
+          "end": 34.169
+        },
+        {
+          "w": "she",
+          "start": 34.192,
+          "end": 34.308
+        },
+        {
+          "w": "says.",
+          "start": 34.366,
+          "end": 35.074
+        }
+      ]
+    },
+    {
+      "beat": "turn",
+      "text": "Work for me. Cook. Clean. Sort every poppy seed from the dirt. Fail, and I'll eat you.",
+      "start": 35.29,
+      "end": 41.23,
+      "words": [
+        {
+          "w": "Work",
+          "start": 35.29,
+          "end": 35.569
+        },
+        {
+          "w": "for",
+          "start": 35.615,
+          "end": 35.72
+        },
+        {
+          "w": "me.",
+          "start": 35.766,
+          "end": 36.01
+        },
+        {
+          "w": "Cook.",
+          "start": 36.103,
+          "end": 36.532
+        },
+        {
+          "w": "Clean.",
+          "start": 36.648,
+          "end": 37.171
+        },
+        {
+          "w": "Sort",
+          "start": 37.496,
+          "end": 37.751
+        },
+        {
+          "w": "every",
+          "start": 37.798,
+          "end": 37.972
+        },
+        {
+          "w": "poppy",
+          "start": 38.03,
+          "end": 38.285
+        },
+        {
+          "w": "seed",
+          "start": 38.343,
+          "end": 38.576
+        },
+        {
+          "w": "from",
+          "start": 38.61,
+          "end": 38.738
+        },
+        {
+          "w": "the",
+          "start": 38.785,
+          "end": 38.854
+        },
+        {
+          "w": "dirt.",
+          "start": 38.901,
+          "end": 39.377
+        },
+        {
+          "w": "Fail,",
+          "start": 39.818,
+          "end": 40.189
+        },
+        {
+          "w": "and",
+          "start": 40.224,
+          "end": 40.306
+        },
+        {
+          "w": "I'll",
+          "start": 40.364,
+          "end": 40.48
+        },
+        {
+          "w": "eat",
+          "start": 40.526,
+          "end": 40.642
+        },
+        {
+          "w": "you.",
+          "start": 40.7,
+          "end": 41.234
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. Impossible work, one night. What do you do?",
+      "start": 41.65,
+      "end": 45.3,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 41.65,
+          "end": 42.219
+        },
+        {
+          "w": "Impossible",
+          "start": 42.393,
+          "end": 42.962
+        },
+        {
+          "w": "work,",
+          "start": 42.997,
+          "end": 43.31
+        },
+        {
+          "w": "one",
+          "start": 43.345,
+          "end": 43.496
+        },
+        {
+          "w": "night.",
+          "start": 43.531,
+          "end": 43.891
+        },
+        {
+          "w": "What",
+          "start": 44.1,
+          "end": 44.285
+        },
+        {
+          "w": "do",
+          "start": 44.309,
+          "end": 44.367
+        },
+        {
+          "w": "you",
+          "start": 44.425,
+          "end": 44.506
+        },
+        {
+          "w": "do?",
+          "start": 44.564,
+          "end": 45.319
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "I feed my doll, and whisper to her. In the morning, every task is done.",
+      "start": 46.7,
+      "end": 51.33,
+      "words": [
+        {
+          "w": "I",
+          "start": 46.7,
+          "end": 46.804
+        },
+        {
+          "w": "feed",
+          "start": 46.921,
+          "end": 47.13
+        },
+        {
+          "w": "my",
+          "start": 47.176,
+          "end": 47.269
+        },
+        {
+          "w": "doll,",
+          "start": 47.339,
+          "end": 47.617
+        },
+        {
+          "w": "and",
+          "start": 47.64,
+          "end": 47.745
+        },
+        {
+          "w": "whisper",
+          "start": 47.803,
+          "end": 48.082
+        },
+        {
+          "w": "to",
+          "start": 48.14,
+          "end": 48.209
+        },
+        {
+          "w": "her.",
+          "start": 48.291,
+          "end": 48.569
+        },
+        {
+          "w": "In",
+          "start": 48.848,
+          "end": 48.976
+        },
+        {
+          "w": "the",
+          "start": 49.01,
+          "end": 49.08
+        },
+        {
+          "w": "morning,",
+          "start": 49.126,
+          "end": 49.486
+        },
+        {
+          "w": "every",
+          "start": 49.556,
+          "end": 49.8
+        },
+        {
+          "w": "task",
+          "start": 49.846,
+          "end": 50.113
+        },
+        {
+          "w": "is",
+          "start": 50.171,
+          "end": 50.253
+        },
+        {
+          "w": "done.",
+          "start": 50.311,
+          "end": 51.344
+        }
+      ],
+      "pad_before": 0.9
+    },
+    {
+      "beat": "reveal",
+      "text": "How, Baba Yaga demands. My mother's blessing, I say. She shrieks. No blessed ones in my house! And throws me out.",
+      "start": 51.59,
+      "end": 60.68,
+      "words": [
+        {
+          "w": "How,",
+          "start": 51.59,
+          "end": 52.078
+        },
+        {
+          "w": "Baba",
+          "start": 52.112,
+          "end": 52.356
+        },
+        {
+          "w": "Yaga",
+          "start": 52.414,
+          "end": 52.681
+        },
+        {
+          "w": "demands.",
+          "start": 52.739,
+          "end": 53.401
+        },
+        {
+          "w": "My",
+          "start": 53.842,
+          "end": 53.982
+        },
+        {
+          "w": "mother's",
+          "start": 54.051,
+          "end": 54.342
+        },
+        {
+          "w": "blessing,",
+          "start": 54.376,
+          "end": 54.794
+        },
+        {
+          "w": "I",
+          "start": 54.829,
+          "end": 54.852
+        },
+        {
+          "w": "say.",
+          "start": 54.969,
+          "end": 55.421
+        },
+        {
+          "w": "She",
+          "start": 55.746,
+          "end": 55.897
+        },
+        {
+          "w": "shrieks.",
+          "start": 55.967,
+          "end": 56.559
+        },
+        {
+          "w": "No",
+          "start": 56.768,
+          "end": 56.977
+        },
+        {
+          "w": "blessed",
+          "start": 57.058,
+          "end": 57.407
+        },
+        {
+          "w": "ones",
+          "start": 57.465,
+          "end": 57.662
+        },
+        {
+          "w": "in",
+          "start": 57.708,
+          "end": 57.767
+        },
+        {
+          "w": "my",
+          "start": 57.825,
+          "end": 57.941
+        },
+        {
+          "w": "house!",
+          "start": 58.022,
+          "end": 58.486
+        },
+        {
+          "w": "And",
+          "start": 58.811,
+          "end": 58.962
+        },
+        {
+          "w": "throws",
+          "start": 59.032,
+          "end": 59.345
+        },
+        {
+          "w": "me",
+          "start": 59.392,
+          "end": 59.496
+        },
+        {
+          "w": "out.",
+          "start": 59.554,
+          "end": 60.692
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "But she hands me a skull from the fence, eyes burning, to carry home my fire.",
+      "start": 60.82,
+      "end": 65.73,
+      "words": [
+        {
+          "w": "But",
+          "start": 60.82,
+          "end": 61.029
+        },
+        {
+          "w": "she",
+          "start": 61.064,
+          "end": 61.18
+        },
+        {
+          "w": "hands",
+          "start": 61.25,
+          "end": 61.493
+        },
+        {
+          "w": "me",
+          "start": 61.54,
+          "end": 61.621
+        },
+        {
+          "w": "a",
+          "start": 61.668,
+          "end": 61.702
+        },
+        {
+          "w": "skull",
+          "start": 61.76,
+          "end": 62.097
+        },
+        {
+          "w": "from",
+          "start": 62.155,
+          "end": 62.294
+        },
+        {
+          "w": "the",
+          "start": 62.329,
+          "end": 62.399
+        },
+        {
+          "w": "fence,",
+          "start": 62.457,
+          "end": 62.863
+        },
+        {
+          "w": "eyes",
+          "start": 63.072,
+          "end": 63.397
+        },
+        {
+          "w": "burning,",
+          "start": 63.467,
+          "end": 63.978
+        },
+        {
+          "w": "to",
+          "start": 64.071,
+          "end": 64.164
+        },
+        {
+          "w": "carry",
+          "start": 64.233,
+          "end": 64.512
+        },
+        {
+          "w": "home",
+          "start": 64.57,
+          "end": 64.779
+        },
+        {
+          "w": "my",
+          "start": 64.825,
+          "end": 64.93
+        },
+        {
+          "w": "fire.",
+          "start": 65.023,
+          "end": 65.743
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "My stepmother reaches for it. The eyes follow her. Everywhere she runs, they follow. By morning, only ash.",
+      "start": 66.19,
+      "end": 73.24,
+      "words": [
+        {
+          "w": "My",
+          "start": 66.19,
+          "end": 66.353
+        },
+        {
+          "w": "stepmother",
+          "start": 66.411,
+          "end": 66.898
+        },
+        {
+          "w": "reaches",
+          "start": 66.956,
+          "end": 67.27
+        },
+        {
+          "w": "for",
+          "start": 67.316,
+          "end": 67.455
+        },
+        {
+          "w": "it.",
+          "start": 67.525,
+          "end": 67.769
+        },
+        {
+          "w": "The",
+          "start": 67.943,
+          "end": 68.071
+        },
+        {
+          "w": "eyes",
+          "start": 68.152,
+          "end": 68.454
+        },
+        {
+          "w": "follow",
+          "start": 68.512,
+          "end": 68.791
+        },
+        {
+          "w": "her.",
+          "start": 68.872,
+          "end": 69.151
+        },
+        {
+          "w": "Everywhere",
+          "start": 69.325,
+          "end": 69.824
+        },
+        {
+          "w": "she",
+          "start": 69.87,
+          "end": 69.975
+        },
+        {
+          "w": "runs,",
+          "start": 70.056,
+          "end": 70.404
+        },
+        {
+          "w": "they",
+          "start": 70.428,
+          "end": 70.555
+        },
+        {
+          "w": "follow.",
+          "start": 70.613,
+          "end": 71.113
+        },
+        {
+          "w": "By",
+          "start": 71.496,
+          "end": 71.658
+        },
+        {
+          "w": "morning,",
+          "start": 71.74,
+          "end": 72.111
+        },
+        {
+          "w": "only",
+          "start": 72.158,
+          "end": 72.425
+        },
+        {
+          "w": "ash.",
+          "start": 72.506,
+          "end": 73.249
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "I buried the skull in the garden. I kept the doll.",
+      "start": 74.03,
+      "end": 76.95,
+      "words": [
+        {
+          "w": "I",
+          "start": 74.03,
+          "end": 74.123
+        },
+        {
+          "w": "buried",
+          "start": 74.216,
+          "end": 74.506
+        },
+        {
+          "w": "the",
+          "start": 74.541,
+          "end": 74.61
+        },
+        {
+          "w": "skull",
+          "start": 74.657,
+          "end": 74.947
+        },
+        {
+          "w": "in",
+          "start": 75.005,
+          "end": 75.063
+        },
+        {
+          "w": "the",
+          "start": 75.098,
+          "end": 75.168
+        },
+        {
+          "w": "garden.",
+          "start": 75.214,
+          "end": 75.725
+        },
+        {
+          "w": "I",
+          "start": 75.841,
+          "end": 75.888
+        },
+        {
+          "w": "kept",
+          "start": 75.969,
+          "end": 76.166
+        },
+        {
+          "w": "the",
+          "start": 76.201,
+          "end": 76.271
+        },
+        {
+          "w": "doll.",
+          "start": 76.317,
+          "end": 76.956
+        }
+      ],
+      "pad_before": 0.4
+    }
+  ],
+  "voiceStatus": "elevenlabs:JBFqnCBsd6RMkjVDRZzb"
+}

@@ -250,7 +250,7 @@ const Short12Orbit: React.FC = () => {
         <div style={{ opacity: gravOp }}>
           <StatChip
             label="Gravity at 400 km"
-            value={`${G_ISS.toFixed(2)} m/s² — ${PCT.toFixed(1)}% of ground`}
+            value={`${G_ISS.toFixed(2)} m/s² · ${PCT.toFixed(1)}% of ground`}
             color={RED}
             x={240}
             y={292}

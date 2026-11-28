@@ -1,0 +1,123 @@
+{
+  "master": "remotion/out/Short17Billion-voiced.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "remotion/out/Short17Billion-voiced.mp4",
+    "out": "shorts/short-17-billion/output/short-17-sfx.mp4",
+    "end_s": 33,
+    "duck": true
+  },
+  "note": "100% library. Heroes: 1995 landing, 29,700 BC landing.",
+  "events": [
+    {
+      "at_s": 5.4,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -10,
+      "cue": "cut to the two words"
+    },
+    {
+      "at_s": 9.4,
+      "sfx_id": "pop-reveal",
+      "gain_db": -10,
+      "cue": "PauseCard"
+    },
+    {
+      "at_s": 9.6,
+      "sfx_id": "clock-tick-soft",
+      "gain_db": -15,
+      "cue": "pause countdown",
+      "optional": true
+    },
+    {
+      "at_s": 10.6,
+      "sfx_id": "pop-reveal",
+      "gain_db": -11,
+      "cue": "11 DAYS"
+    },
+    {
+      "at_s": 13.0,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -12,
+      "cue": "? for a billion",
+      "optional": true
+    },
+    {
+      "at_s": 14.6,
+      "sfx_id": "riser-soft",
+      "gain_db": -10,
+      "cue": "HERO 1 build: years roll back"
+    },
+    {
+      "at_s": 15.5,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -6,
+      "cue": "HERO 1 drop: 1995"
+    },
+    {
+      "at_s": 16.85,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -11,
+      "cue": "bars appear, billion bar grows"
+    },
+    {
+      "at_s": 19.25,
+      "sfx_id": "stamp-hit",
+      "gain_db": -8,
+      "cue": "= 1,000 millions"
+    },
+    {
+      "at_s": 20.9,
+      "sfx_id": "whoosh-wind",
+      "gain_db": -9,
+      "cue": "zoom out to a trillion"
+    },
+    {
+      "at_s": 22.6,
+      "sfx_id": "riser-soft",
+      "gain_db": -10,
+      "cue": "HERO 2 build: years race back"
+    },
+    {
+      "at_s": 23.6,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -5,
+      "cue": "HERO 2 drop: 29,700 BC"
+    },
+    {
+      "at_s": 24.85,
+      "sfx_id": "chime-magic",
+      "gain_db": -12,
+      "cue": "the age of cave paintings",
+      "optional": true
+    },
+    {
+      "at_s": 27.8,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "cue": "million",
+      "optional": true
+    },
+    {
+      "at_s": 28.38,
+      "sfx_id": "pop-reveal",
+      "gain_db": -11,
+      "cue": "billion",
+      "optional": true
+    },
+    {
+      "at_s": 28.94,
+      "sfx_id": "pop-reveal",
+      "gain_db": -10,
+      "cue": "trillion",
+      "optional": true
+    },
+    {
+      "at_s": 32.1,
+      "sfx_id": "whoosh-reverse",
+      "gain_db": -9,
+      "cue": "loop back to 1995",
+      "optional": true
+    }
+  ]
+}

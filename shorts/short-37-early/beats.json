@@ -1,0 +1,689 @@
+{
+  "id": "short-37-early",
+  "title": "10 years early beats 30 years late",
+  "composition": "Short37Early",
+  "channel": "The Fine Print",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSec": 46.7
+  },
+  "voicePlan": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ",
+  "vo": [
+    {
+      "beat": "hook",
+      "text": "You invest for ten years, then stop forever. Your friend invests for thirty. You end up with more.",
+      "start": 0.4,
+      "end": 6.05,
+      "words": [
+        {
+          "w": "You",
+          "start": 0.4,
+          "end": 0.566
+        },
+        {
+          "w": "invest",
+          "start": 0.633,
+          "end": 0.877
+        },
+        {
+          "w": "for",
+          "start": 0.922,
+          "end": 1.022
+        },
+        {
+          "w": "ten",
+          "start": 1.066,
+          "end": 1.243
+        },
+        {
+          "w": "years,",
+          "start": 1.31,
+          "end": 1.61
+        },
+        {
+          "w": "then",
+          "start": 1.677,
+          "end": 1.91
+        },
+        {
+          "w": "stop",
+          "start": 1.987,
+          "end": 2.221
+        },
+        {
+          "w": "forever.",
+          "start": 2.276,
+          "end": 2.731
+        },
+        {
+          "w": "Your",
+          "start": 3.153,
+          "end": 3.309
+        },
+        {
+          "w": "friend",
+          "start": 3.353,
+          "end": 3.542
+        },
+        {
+          "w": "invests",
+          "start": 3.597,
+          "end": 3.908
+        },
+        {
+          "w": "for",
+          "start": 3.952,
+          "end": 4.041
+        },
+        {
+          "w": "thirty.",
+          "start": 4.086,
+          "end": 4.508
+        },
+        {
+          "w": "You",
+          "start": 4.874,
+          "end": 5.007
+        },
+        {
+          "w": "end",
+          "start": 5.074,
+          "end": 5.173
+        },
+        {
+          "w": "up",
+          "start": 5.218,
+          "end": 5.284
+        },
+        {
+          "w": "with",
+          "start": 5.329,
+          "end": 5.44
+        },
+        {
+          "w": "more.",
+          "start": 5.496,
+          "end": 6.04
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "You're twenty-five. You put two hundred dollars a month into an index fund. Your friend laughs: I'll start later.",
+      "start": 6.12,
+      "end": 12.49,
+      "words": [
+        {
+          "w": "You're",
+          "start": 6.12,
+          "end": 6.325
+        },
+        {
+          "w": "twenty-five.",
+          "start": 6.346,
+          "end": 7.002
+        },
+        {
+          "w": "You",
+          "start": 7.302,
+          "end": 7.4
+        },
+        {
+          "w": "put",
+          "start": 7.464,
+          "end": 7.571
+        },
+        {
+          "w": "two",
+          "start": 7.603,
+          "end": 7.701
+        },
+        {
+          "w": "hundred",
+          "start": 7.754,
+          "end": 7.926
+        },
+        {
+          "w": "dollars",
+          "start": 7.948,
+          "end": 8.195
+        },
+        {
+          "w": "a",
+          "start": 8.238,
+          "end": 8.259
+        },
+        {
+          "w": "month",
+          "start": 8.324,
+          "end": 8.506
+        },
+        {
+          "w": "into",
+          "start": 8.55,
+          "end": 8.678
+        },
+        {
+          "w": "an",
+          "start": 8.743,
+          "end": 8.797
+        },
+        {
+          "w": "index",
+          "start": 8.862,
+          "end": 9.173
+        },
+        {
+          "w": "fund.",
+          "start": 9.227,
+          "end": 9.581
+        },
+        {
+          "w": "Your",
+          "start": 10.141,
+          "end": 10.292
+        },
+        {
+          "w": "friend",
+          "start": 10.324,
+          "end": 10.506
+        },
+        {
+          "w": "laughs:",
+          "start": 10.571,
+          "end": 11.076
+        },
+        {
+          "w": "I'll",
+          "start": 11.377,
+          "end": 11.528
+        },
+        {
+          "w": "start",
+          "start": 11.56,
+          "end": 11.754
+        },
+        {
+          "w": "later.",
+          "start": 11.796,
+          "end": 12.484
+        }
+      ]
+    },
+    {
+      "beat": "setup",
+      "text": "At thirty-five, you stop. You never add another dollar. Your friend finally starts, two hundred a month, for thirty years.",
+      "start": 12.58,
+      "end": 21.7,
+      "words": [
+        {
+          "w": "At",
+          "start": 12.58,
+          "end": 12.776
+        },
+        {
+          "w": "thirty-five,",
+          "start": 12.819,
+          "end": 13.539
+        },
+        {
+          "w": "you",
+          "start": 13.647,
+          "end": 13.745
+        },
+        {
+          "w": "stop.",
+          "start": 13.822,
+          "end": 14.257
+        },
+        {
+          "w": "You",
+          "start": 15.02,
+          "end": 15.139
+        },
+        {
+          "w": "never",
+          "start": 15.205,
+          "end": 15.389
+        },
+        {
+          "w": "add",
+          "start": 15.444,
+          "end": 15.564
+        },
+        {
+          "w": "another",
+          "start": 15.608,
+          "end": 15.826
+        },
+        {
+          "w": "dollar.",
+          "start": 15.869,
+          "end": 16.315
+        },
+        {
+          "w": "Your",
+          "start": 16.969,
+          "end": 17.132
+        },
+        {
+          "w": "friend",
+          "start": 17.187,
+          "end": 17.383
+        },
+        {
+          "w": "finally",
+          "start": 17.459,
+          "end": 17.796
+        },
+        {
+          "w": "starts,",
+          "start": 17.851,
+          "end": 18.429
+        },
+        {
+          "w": "two",
+          "start": 18.689,
+          "end": 18.864
+        },
+        {
+          "w": "hundred",
+          "start": 18.94,
+          "end": 19.169
+        },
+        {
+          "w": "a",
+          "start": 19.19,
+          "end": 19.212
+        },
+        {
+          "w": "month,",
+          "start": 19.256,
+          "end": 19.648
+        },
+        {
+          "w": "for",
+          "start": 19.844,
+          "end": 19.975
+        },
+        {
+          "w": "thirty",
+          "start": 20.029,
+          "end": 20.279
+        },
+        {
+          "w": "years.",
+          "start": 20.324,
+          "end": 21.685
+        }
+      ]
+    },
+    {
+      "beat": "quiz",
+      "text": "Pause. You put in twenty-four thousand. They put in seventy-two. At sixty-five, who has more?",
+      "start": 21.77,
+      "end": 29.06,
+      "words": [
+        {
+          "w": "Pause.",
+          "start": 21.77,
+          "end": 22.339
+        },
+        {
+          "w": "You",
+          "start": 23.035,
+          "end": 23.175
+        },
+        {
+          "w": "put",
+          "start": 23.244,
+          "end": 23.384
+        },
+        {
+          "w": "in",
+          "start": 23.419,
+          "end": 23.477
+        },
+        {
+          "w": "twenty-four",
+          "start": 23.523,
+          "end": 24.011
+        },
+        {
+          "w": "thousand.",
+          "start": 24.069,
+          "end": 24.649
+        },
+        {
+          "w": "They",
+          "start": 24.823,
+          "end": 24.998
+        },
+        {
+          "w": "put",
+          "start": 25.056,
+          "end": 25.195
+        },
+        {
+          "w": "in",
+          "start": 25.241,
+          "end": 25.299
+        },
+        {
+          "w": "seventy-two.",
+          "start": 25.381,
+          "end": 26.263
+        },
+        {
+          "w": "At",
+          "start": 26.588,
+          "end": 26.751
+        },
+        {
+          "w": "sixty-five,",
+          "start": 26.82,
+          "end": 27.703
+        },
+        {
+          "w": "who",
+          "start": 27.819,
+          "end": 27.981
+        },
+        {
+          "w": "has",
+          "start": 28.039,
+          "end": 28.202
+        },
+        {
+          "w": "more?",
+          "start": 28.272,
+          "end": 29.061
+        }
+      ]
+    },
+    {
+      "beat": "reveal",
+      "text": "You do. About two hundred eighty-one thousand, to their two hundred forty-four.",
+      "start": 29.37,
+      "end": 33.76,
+      "words": [
+        {
+          "w": "You",
+          "start": 29.37,
+          "end": 29.544
+        },
+        {
+          "w": "do.",
+          "start": 29.598,
+          "end": 29.923
+        },
+        {
+          "w": "About",
+          "start": 30.281,
+          "end": 30.542
+        },
+        {
+          "w": "two",
+          "start": 30.585,
+          "end": 30.77
+        },
+        {
+          "w": "hundred",
+          "start": 30.846,
+          "end": 31.084
+        },
+        {
+          "w": "eighty-one",
+          "start": 31.139,
+          "end": 31.475
+        },
+        {
+          "w": "thousand,",
+          "start": 31.508,
+          "end": 31.866
+        },
+        {
+          "w": "to",
+          "start": 31.888,
+          "end": 31.953
+        },
+        {
+          "w": "their",
+          "start": 31.997,
+          "end": 32.127
+        },
+        {
+          "w": "two",
+          "start": 32.16,
+          "end": 32.289
+        },
+        {
+          "w": "hundred",
+          "start": 32.344,
+          "end": 32.539
+        },
+        {
+          "w": "forty-four.",
+          "start": 32.572,
+          "end": 33.754
+        }
+      ],
+      "pad_before": 0.6
+    },
+    {
+      "beat": "reveal",
+      "text": "Your money had ten extra years to compound. Time did the work, not the dollars.",
+      "start": 33.84,
+      "end": 38.65,
+      "words": [
+        {
+          "w": "Your",
+          "start": 33.84,
+          "end": 34.075
+        },
+        {
+          "w": "money",
+          "start": 34.142,
+          "end": 34.333
+        },
+        {
+          "w": "had",
+          "start": 34.389,
+          "end": 34.513
+        },
+        {
+          "w": "ten",
+          "start": 34.557,
+          "end": 34.747
+        },
+        {
+          "w": "extra",
+          "start": 34.837,
+          "end": 35.128
+        },
+        {
+          "w": "years",
+          "start": 35.184,
+          "end": 35.375
+        },
+        {
+          "w": "to",
+          "start": 35.408,
+          "end": 35.453
+        },
+        {
+          "w": "compound.",
+          "start": 35.52,
+          "end": 36.059
+        },
+        {
+          "w": "Time",
+          "start": 36.428,
+          "end": 36.686
+        },
+        {
+          "w": "did",
+          "start": 36.72,
+          "end": 36.82
+        },
+        {
+          "w": "the",
+          "start": 36.842,
+          "end": 36.91
+        },
+        {
+          "w": "work,",
+          "start": 36.955,
+          "end": 37.291
+        },
+        {
+          "w": "not",
+          "start": 37.414,
+          "end": 37.571
+        },
+        {
+          "w": "the",
+          "start": 37.604,
+          "end": 37.672
+        },
+        {
+          "w": "dollars.",
+          "start": 37.705,
+          "end": 38.635
+        }
+      ]
+    },
+    {
+      "beat": "twist",
+      "text": "And if you'd just kept going all forty years? About five hundred twenty-five thousand.",
+      "start": 38.73,
+      "end": 43.2,
+      "words": [
+        {
+          "w": "And",
+          "start": 38.73,
+          "end": 38.877
+        },
+        {
+          "w": "if",
+          "start": 38.921,
+          "end": 38.978
+        },
+        {
+          "w": "you'd",
+          "start": 39.001,
+          "end": 39.148
+        },
+        {
+          "w": "just",
+          "start": 39.192,
+          "end": 39.384
+        },
+        {
+          "w": "kept",
+          "start": 39.429,
+          "end": 39.598
+        },
+        {
+          "w": "going",
+          "start": 39.643,
+          "end": 39.869
+        },
+        {
+          "w": "all",
+          "start": 39.914,
+          "end": 40.026
+        },
+        {
+          "w": "forty",
+          "start": 40.094,
+          "end": 40.32
+        },
+        {
+          "w": "years?",
+          "start": 40.364,
+          "end": 40.77
+        },
+        {
+          "w": "About",
+          "start": 41.199,
+          "end": 41.447
+        },
+        {
+          "w": "five",
+          "start": 41.503,
+          "end": 41.695
+        },
+        {
+          "w": "hundred",
+          "start": 41.718,
+          "end": 41.943
+        },
+        {
+          "w": "twenty-five",
+          "start": 41.966,
+          "end": 42.36
+        },
+        {
+          "w": "thousand.",
+          "start": 42.394,
+          "end": 43.195
+        }
+      ]
+    },
+    {
+      "beat": "loop",
+      "text": "Ten years early beats thirty years late.",
+      "start": 43.27,
+      "end": 45.5,
+      "words": [
+        {
+          "w": "Ten",
+          "start": 43.27,
+          "end": 43.491
+        },
+        {
+          "w": "years",
+          "start": 43.537,
+          "end": 43.734
+        },
+        {
+          "w": "early",
+          "start": 43.781,
+          "end": 44.013
+        },
+        {
+          "w": "beats",
+          "start": 44.071,
+          "end": 44.303
+        },
+        {
+          "w": "thirty",
+          "start": 44.373,
+          "end": 44.64
+        },
+        {
+          "w": "years",
+          "start": 44.675,
+          "end": 44.861
+        },
+        {
+          "w": "late.",
+          "start": 44.919,
+          "end": 45.499
+        }
+      ]
+    }
+  ],
+  "style": "immersive second person",
+  "money": {
+    "assume": "7%/yr nominal, compounded monthly, $200/mo",
+    "you": "25-35 contributions ($24,000) -> $34,617 at 35 -> $280,968 at 65",
+    "friend": "35-65 ($72,000) -> $243,994",
+    "both": "25-65 ($96,000) -> $524,963",
+    "caveat": "illustrative; returns vary; not advice"
+  },
+  "voiceStatus": "elevenlabs:TX3LPaxmHKxFdv7VOQHJ"
+}
