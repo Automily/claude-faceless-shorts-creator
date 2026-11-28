@@ -312,6 +312,14 @@
   "transparent": false
  },
  {
+  "id": "Short44Transfer",
+  "durationInSeconds": 61.2,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short5Monty",
   "durationInSeconds": 43,
   "fps": 30,
