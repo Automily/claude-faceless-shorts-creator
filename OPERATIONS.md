@@ -34,6 +34,14 @@ credit-card float, Roth vs traditional break-even, student-loan capitalized inte
 Built tales: 1 Godfather Death, 2 Monkey's Paw, 3 Bluebeard, 4 Pied Piper (Piper POV), 5 Robber Bridegroom (bride POV), 6 Baba Yaga (Vasilisa POV), 7 Tell-Tale Heart (Poe), 8 Cask of Amontillado (Poe), 9 Masque of the Red Death (Poe), 10 The Signal-Man (Dickens), 11 The Oval Portrait (Poe; first build under retention rules v2, 64s). Next tales: The Fall of the House of Usher, Anansi & the sky god's stories, The Juniper Tree,
 The Three Army Surgeons, Baba Yaga.
 
+## Format decisions (owner, 2026-11-28)
+- Candlelit Tales now also runs **text-message horror** (chat-thread stories, e.g. "Unknown Number, 3:07 AM") alongside
+  the shadow-puppet classics. Mix ~1 chat-horror per 2 classic tales; chat-horror stories must be ORIGINAL (no copied creepypasta).
+- Owner interested in the viral "silly Roblox-style" story format → pitch an ORIGINAL blocky-character channel (own world/name,
+  no Roblox assets/branding). Not started.
+- Owner looking into the Higgsfield affiliate program (up to 25% recurring per their 2026 terms). Best fit: a creator/AI-tools
+  audience, not kids; always disclose affiliate links.
+
 ## Story style (owner direction 2026-11-25) — applies to EVERY new video
 Make it immersive: put the viewer INSIDE the scenario. More exciting, more creative.
 - **Candlelit Tales:** tell it from the main character's point of view, FIRST PERSON, PRESENT TENSE
