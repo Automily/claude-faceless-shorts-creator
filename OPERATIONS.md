@@ -47,6 +47,18 @@ Make it immersive: put the viewer INSIDE the scenario. More exciting, more creat
   then the charts. Still: show the math, never advise.
 - Pause-card question becomes the viewer's decision ("What do you sign?", "What would you play?").
 
+## Analytics log
+- 2026-11-28 · TikTok · tale-005 Robber Bridegroom (80.5s, posted Nov 26 ~12:15): 783 views, 52 likes (6.6%),
+  4 saves, 0 comments/shares, avg watch 14.8s (18%), full watch 9.6%, 0 new followers. Two waves: small at launch,
+  big second push ~26h later (~200 views/hr peak).
+  Read: like rate is strong (topic works); retention is the problem: most leave in the first ~15s (exposition).
+  Rules adopted for Tales from tale-011 on:
+  1. Length 61–66s (just over TikTok's 60s line), not 75–85s.
+  2. First frame = brightest, most striking image, with motion in the first second; first spoken line is the payoff.
+  3. Reach the danger by ~8–10s; cut backstory to 1 line.
+  4. Pause/decision question by ~20–25s, not ~40s; a visual "pattern interrupt" every ~6–8s.
+  5. Avoid near-black opening scenes (they read as nothing in the feed).
+
 ## Context hygiene
 - Owner wants the conversation compacted every other day or so. Only the owner can type `/compact`
   (it also auto-compacts when long). The 20:45 slot reminds them every 2 days.
