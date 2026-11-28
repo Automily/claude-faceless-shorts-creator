@@ -514,10 +514,11 @@
    "channel": "The Fine Print",
    "short": "shorts/short-44-transfer",
    "video": "posting/ready/fp-025.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "0% for 18 months. Worth the $150 fee? Do the math.",
    "caption": "$5,000 on a 22% card at $300/month: 21 months and ~$1,022 in interest. Move it to a 0% balance transfer card with a 3% fee ($150): $5,150 paid off in 18 months, $0 interest, ~$870 saved. The trap: pay only $200/month and $1,550 is still there when the 18 months end, now at the regular APR. (Terms vary; illustrative, not advice.)",
-   "hashtags": "#creditcard #debtfree #balancetransfer #personalfinance #moneytips"
+   "hashtags": "#creditcard #debtfree #balancetransfer #personalfinance #moneytips",
+   "sent_at": "2026-11-28T17:45:48+00:00"
   },
   {
    "id": "tale-011",
