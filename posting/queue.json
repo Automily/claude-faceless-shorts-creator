@@ -482,10 +482,11 @@
    "channel": "Candlelit Tales",
    "short": "tales/tale-9-red-death",
    "video": "posting/ready/tale-009.mp4",
-   "status": "ready",
+   "status": "sent",
    "title": "Half my kingdom is dead. So I locked the gates, and threw a party.",
    "caption": "The Masque of the Red Death (Edgar Allan Poe, 1842), told by Prince Prospero. Seven rooms, seven colors. An ebony clock that stops the music every hour. And at midnight, a guest no one invited. 🕯️ What would you have done?",
-   "hashtags": "#edgarallanpoe #masqueoftheredDeath #scarystories #horrorstory #animation"
+   "hashtags": "#edgarallanpoe #redDeath #scarystories #horrorstory #animation",
+   "sent_at": "2026-11-28T01:46:10+00:00"
   },
   {
    "id": "fp-024",
