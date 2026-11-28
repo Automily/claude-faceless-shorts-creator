@@ -352,6 +352,14 @@
   "transparent": false
  },
  {
+  "id": "StyleSamples",
+  "durationInSeconds": 4,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Tale1GodfatherDeath",
   "durationInSeconds": 53.5,
   "fps": 30,
