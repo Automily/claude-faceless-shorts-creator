@@ -29,7 +29,7 @@ Branding (names, handles, bios, logos): `BRANDING.md`, `branding/logos/`.
 | 20:45 | | ✅ |
 = 3/day Fine Print (21/wk), 2/day Tales (14/wk). Feels Wrong is retired (fw-012 held). Buffer targets: FP ≥ 6 ready, Tales ≥ 4.
 Tales run 61–70s so TikTok cuts qualify for Creator Rewards (> 60s). Empty buffer → skip the slot, never filler.
-Built FP: 13 BNPL late-fee APR, 14 credit utilization, 15 mortgage points, 16 lease money factor, 17 payday loan (first immersive one), 18 start early vs late, 19 Black Friday store card, 20 tax refund = 0% loan, 21 latte vs rent, 22 cash back vs APR, 23 0% vs rebate, 24 car repair on minimums, 25 balance transfer (61s, first TikTok-rewards-length FP). Next FP topics: CD vs HYSA, latte-factor honest math,
+Built FP: 13 BNPL late-fee APR, 14 credit utilization, 15 mortgage points, 16 lease money factor, 17 payday loan (first immersive one), 18 start early vs late, 19 Black Friday store card, 20 tax refund = 0% loan, 21 latte vs rent, 22 cash back vs APR, 23 0% vs rebate, 24 car repair on minimums, 25 balance transfer (61s, first TikTok-rewards-length FP), 26 raise vs inflation (62s). Next FP topics: CD vs HYSA, latte-factor honest math,
 credit-card float, Roth vs traditional break-even, student-loan capitalized interest.
 Built tales: 1 Godfather Death, 2 Monkey's Paw, 3 Bluebeard, 4 Pied Piper (Piper POV), 5 Robber Bridegroom (bride POV), 6 Baba Yaga (Vasilisa POV), 7 Tell-Tale Heart (Poe), 8 Cask of Amontillado (Poe), 9 Masque of the Red Death (Poe), 10 The Signal-Man (Dickens), 11 The Oval Portrait (Poe; first build under retention rules v2, 64s). Next tales: The Fall of the House of Usher, Anansi & the sky god's stories, The Juniper Tree,
 The Three Army Surgeons, Baba Yaga.
@@ -39,6 +39,7 @@ The Three Army Surgeons, Baba Yaga.
   the shadow-puppet classics. Mix ~1 chat-horror per 2 classic tales; chat-horror stories must be ORIGINAL (no copied creepypasta).
 - Owner interested in the viral "silly Roblox-style" story format → pitch an ORIGINAL blocky-character channel (own world/name,
   no Roblox assets/branding). Not started.
+- Blocky Town pilot built: posting/pilots/blox-1-pilot.mp4 (28s). Owner noted 'made for kids' — advised: label honestly; make humor genuinely teen/adult (rent, gym, taxes) so 'not made for kids' is true.
 - Owner looking into the Higgsfield affiliate program (up to 25% recurring per their 2026 terms). Best fit: a creator/AI-tools
   audience, not kids; always disclose affiliate links.
 
