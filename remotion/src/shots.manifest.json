@@ -384,6 +384,14 @@
   "transparent": false
  },
  {
+  "id": "Tale11OvalPortrait",
+  "durationInSeconds": 63.6,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Tale2MonkeysPaw",
   "durationInSeconds": 68.1,
   "fps": 30,
