@@ -65,6 +65,18 @@
    "cue": "pause"
   },
   {
+   "at_s": 20.6,
+   "sfx_id": "clock-tick-soft",
+   "gain_db": -12,
+   "cue": "pause tick"
+  },
+  {
+   "at_s": 21.5,
+   "sfx_id": "clock-tick-soft",
+   "gain_db": -12,
+   "cue": "pause tick"
+  },
+  {
    "at_s": 22.6,
    "sfx_id": "warm-shimmer",
    "gain_db": -14,
@@ -147,6 +159,18 @@
    "sfx_id": "warm-shimmer",
    "gain_db": -12,
    "cue": "the portrait again"
+  },
+  {
+   "at_s": 61.3,
+   "sfx_id": "warm-shimmer",
+   "gain_db": -11,
+   "cue": "portrait glow tail"
+  },
+  {
+   "at_s": 62.4,
+   "sfx_id": "sparkle-soft",
+   "gain_db": -12,
+   "cue": "glint, loop"
   }
  ]
 }
